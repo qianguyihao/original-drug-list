@@ -1,0 +1,396 @@
+{
+  "data": [
+    {
+      "company_name": "拜耳医药保健有限公司",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZndTJLRRk",
+      "drug_generic_name": "阿卡波糖片",
+      "trade_name": "拜唐苹"
+    },
+    {
+      "company_name": "默克制药（江苏）有限公司",
+      "company_abbreviation": "默克",
+      "drug_generic_id": "7EZncOv6Q3e",
+      "drug_generic_name": "盐酸二甲双胍片",
+      "trade_name": "格华止"
+    },
+    {
+      "company_name": "诺和诺德制药有限公司",
+      "company_abbreviation": "诺和诺德",
+      "drug_generic_id": "86FDXc39q9Q",
+      "drug_generic_name": "司美格鲁肽注射液",
+      "trade_name": "诺和泰"
+    },
+    {
+      "company_name": "Eli Lilly Nederland BV",
+      "company_abbreviation": "礼来",
+      "drug_generic_id": "8aUADX4Uz3X",
+      "drug_generic_name": "替尔泊肽注射液",
+      "trade_name": "穆峰达"
+    },
+    {
+      "company_name": "Novartis Pharma Schweiz AG",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7EZnb8x62Eb",
+      "drug_generic_name": "二甲双胍维格列汀片(Ⅱ)",
+      "trade_name": "宜合瑞"
+    },
+    {
+      "company_name": "赛诺菲（北京）制药有限公司",
+      "company_abbreviation": "赛诺菲",
+      "drug_generic_id": "7EZncl8Lgi7",
+      "drug_generic_name": "格列美脲片",
+      "trade_name": "亚莫利"
+    },
+    {
+      "company_name": "Boehringer Ingelheim International GmbH",
+      "company_abbreviation": "勃林格殷格翰",
+      "drug_generic_id": "7EZnbkNP1Wj",
+      "drug_generic_name": "利格列汀二甲双胍片(Ⅱ)",
+      "trade_name": "欧双宁"
+    },
+    {
+      "company_name": "Janssen-Cilag International NV",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7IMJNoaI27Z",
+      "drug_generic_name": "卡格列净片",
+      "trade_name": "怡可安"
+    },
+    {
+      "company_name": "Boehringer Ingelheim International GmbH",
+      "company_abbreviation": "勃林格殷格翰",
+      "drug_generic_id": "7EZnbkO6D4o",
+      "drug_generic_name": "利格列汀片",
+      "trade_name": "欧唐宁"
+    },
+    {
+      "company_name": "Novo Nordisk A/S",
+      "company_abbreviation": "诺和诺德",
+      "drug_generic_id": "8Wx4UZHJod1",
+      "drug_generic_name": "司美格鲁肽片",
+      "trade_name": "诺和忻"
+    },
+    {
+      "company_name": "Novo Nordisk A/S",
+      "company_abbreviation": "诺和诺德",
+      "drug_generic_id": "86FDXc39q9Q",
+      "drug_generic_name": "司美格鲁肽注射液",
+      "trade_name": "诺和盈"
+    },
+    {
+      "company_name": "天津武田药品有限公司",
+      "company_abbreviation": "武田制药",
+      "drug_generic_id": "7EZnbbBQuen",
+      "drug_generic_name": "伏格列波糖片",
+      "trade_name": "倍欣"
+    },
+    {
+      "company_name": "LES LABORATOIRES SERVIER",
+      "company_abbreviation": "施维雅",
+      "drug_generic_id": "7DI6wb6WjlM",
+      "drug_generic_name": "格列齐特缓释片",
+      "trade_name": "达美康"
+    },
+    {
+      "company_name": "MERCK SERONO LIMITED",
+      "company_abbreviation": "默克",
+      "drug_generic_id": "82QAbWsk0Hy",
+      "drug_generic_name": "盐酸二甲双胍缓释片",
+      "trade_name": "格华止"
+    },
+    {
+      "company_name": "Novo Nordisk A/S",
+      "company_abbreviation": "诺和诺德",
+      "drug_generic_id": "7EZnbkMGDpZ",
+      "drug_generic_name": "利拉鲁肽注射液",
+      "trade_name": "诺和力"
+    },
+    {
+      "company_name": "Eli Lilly Nederland BV",
+      "company_abbreviation": "礼来",
+      "drug_generic_id": "7Mat6X8AqLr",
+      "drug_generic_name": "度拉糖肽注射液",
+      "trade_name": "度易达"
+    },
+    {
+      "company_name": "ASTRAZENECA AB",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7EZndKDtjP4",
+      "drug_generic_name": "达格列净片",
+      "trade_name": "安达唐"
+    },
+    {
+      "company_name": "诺和诺德（中国）制药有限公司",
+      "company_abbreviation": "诺和诺德",
+      "drug_generic_id": "7EZnaYpuWxW",
+      "drug_generic_name": "30/70混合重组人胰岛素注射液",
+      "trade_name": "诺和灵"
+    },
+    {
+      "company_name": "诺和诺德（中国）制药有限公司",
+      "company_abbreviation": "诺和诺德",
+      "drug_generic_id": "7EZnaYsCwYP",
+      "drug_generic_name": "50/50混合重组人胰岛素注射液",
+      "trade_name": "诺和灵"
+    },
+    {
+      "company_name": "ASTRAZENECA AB",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7EZnduPTC6P",
+      "drug_generic_name": "艾塞那肽注射液",
+      "trade_name": "百泌达"
+    },
+    {
+      "company_name": "Merck Sharp & Dohme BV",
+      "company_abbreviation": "默沙东",
+      "drug_generic_id": "82QAbt4Zjl1",
+      "drug_generic_name": "艾托格列净片",
+      "trade_name": "捷诺妥"
+    },
+    {
+      "company_name": "Daiichi Sankyo Co., Ltd.",
+      "company_abbreviation": "第一三共",
+      "drug_generic_id": "8bSEljX3AAG",
+      "drug_generic_name": "苯磺酸美洛加巴林片",
+      "trade_name": "德力静"
+    },
+    {
+      "company_name": "TAKEDA PHARMACEUTICAL COMPANY LIMITED",
+      "company_abbreviation": "武田制药",
+      "drug_generic_id": "7EZndwjA28O",
+      "drug_generic_name": "苯甲酸阿格列汀片",
+      "trade_name": "尼欣那"
+    },
+    {
+      "company_name": "Novo Nordisk A/S",
+      "company_abbreviation": "诺和诺德",
+      "drug_generic_id": "7IMTrK5G9XJ",
+      "drug_generic_name": "德谷门冬双胰岛素注射液",
+      "trade_name": "诺和佳"
+    },
+    {
+      "company_name": "Novo Nordisk A/S",
+      "company_abbreviation": "诺和诺德",
+      "drug_generic_id": "8Blb6oaFYD9",
+      "drug_generic_name": "德谷胰岛素利拉鲁肽注射液",
+      "trade_name": "诺和益"
+    },
+    {
+      "company_name": "Novo Nordisk A/S",
+      "company_abbreviation": "诺和诺德",
+      "drug_generic_id": "7IMJN6lo1CK",
+      "drug_generic_name": "德谷胰岛素注射液",
+      "trade_name": "诺和达"
+    },
+    {
+      "company_name": "Novo Nordisk A/S",
+      "company_abbreviation": "诺和诺德",
+      "drug_generic_id": "7EZnbB5LOBb",
+      "drug_generic_name": "地特胰岛素注射液",
+      "trade_name": "诺和平"
+    },
+    {
+      "company_name": "Boehringer Ingelheim International GmbH",
+      "company_abbreviation": "勃林格殷格翰",
+      "drug_generic_id": "7IMNtom7Z59",
+      "drug_generic_name": "恩格列净片",
+      "trade_name": "欧唐静"
+    },
+    {
+      "company_name": "Sanofi KK",
+      "company_abbreviation": "赛诺菲",
+      "drug_generic_id": "1xDT1LU86yS",
+      "drug_generic_name": "甘精胰岛素利司那肽注射液(Ⅰ)",
+      "trade_name": "赛益宁"
+    },
+    {
+      "company_name": "Sanofi-Aventis Deutschland Gmbh",
+      "company_abbreviation": "赛诺菲",
+      "drug_generic_id": "7EZncGd3h1b",
+      "drug_generic_name": "甘精胰岛素注射液",
+      "trade_name": "来得时"
+    },
+    {
+      "company_name": "PFIZER INC.",
+      "company_abbreviation": "辉瑞",
+      "drug_generic_id": "7EZncl3W54K",
+      "drug_generic_name": "格列吡嗪控释片",
+      "trade_name": "瑞易宁"
+    },
+    {
+      "company_name": "天津华津制药有限公司",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnclasR4B",
+      "drug_generic_name": "格列齐特片(Ⅱ)",
+      "trade_name": "达美康"
+    },
+    {
+      "company_name": "Sanofi-Aventis Deutschland Gmbh",
+      "company_abbreviation": "赛诺菲",
+      "drug_generic_id": "7EZndHZpaus",
+      "drug_generic_name": "谷赖胰岛素注射液",
+      "trade_name": "艾倍得"
+    },
+    {
+      "company_name": "Novo Nordisk A/S",
+      "company_abbreviation": "诺和诺德",
+      "drug_generic_id": "7EZnd2bPsGi",
+      "drug_generic_name": "精蛋白生物合成人胰岛素注射液",
+      "trade_name": "诺和灵"
+    },
+    {
+      "company_name": "Eli Lilly Nederland BV",
+      "company_abbreviation": "礼来",
+      "drug_generic_id": "7EZnd2gEDTF",
+      "drug_generic_name": "精蛋白锌重组赖脯胰岛素混合注射液(25R)",
+      "trade_name": "优泌乐"
+    },
+    {
+      "company_name": "Eli Lilly Nederland BV",
+      "company_abbreviation": "礼来",
+      "drug_generic_id": "7Mat6XmMnh5",
+      "drug_generic_name": "精蛋白锌重组赖脯胰岛素混合注射液(50R)",
+      "trade_name": "优泌乐"
+    },
+    {
+      "company_name": "Eli Lilly Nederland BV",
+      "company_abbreviation": "礼来",
+      "drug_generic_id": "7LfNQcp4K70",
+      "drug_generic_name": "赖脯胰岛素注射液",
+      "trade_name": "优速乐"
+    },
+    {
+      "company_name": "Merck Sharp & Dohme BV",
+      "company_abbreviation": "默沙东",
+      "drug_generic_id": "7EZncYp5bTB",
+      "drug_generic_name": "磷酸西格列汀片",
+      "trade_name": "捷诺维"
+    },
+    {
+      "company_name": "Hemony Pharmaceutical Germany GmbH",
+      "company_abbreviation": "海默尼",
+      "drug_generic_id": "7EZncW8i9fB",
+      "drug_generic_name": "硫辛酸注射液",
+      "trade_name": "奥力宝"
+    },
+    {
+      "company_name": "SANOFI WINTHROP INDUSTRIE",
+      "company_abbreviation": "赛诺菲",
+      "drug_generic_id": "7Mat6WRyuX8",
+      "drug_generic_name": "利司那肽注射液",
+      "trade_name": "利时敏"
+    },
+    {
+      "company_name": "Novo Nordisk A/S",
+      "company_abbreviation": "诺和诺德",
+      "drug_generic_id": "7EZndRYuiGh",
+      "drug_generic_name": "门冬胰岛素30注射液",
+      "trade_name": "诺和锐"
+    },
+    {
+      "company_name": "Novo Nordisk A/S",
+      "company_abbreviation": "诺和诺德",
+      "drug_generic_id": "7EZndRYLTOm",
+      "drug_generic_name": "门冬胰岛素50注射液",
+      "trade_name": "诺和锐"
+    },
+    {
+      "company_name": "Novo Nordisk A/S",
+      "company_abbreviation": "诺和诺德",
+      "drug_generic_id": "7EZndRZ3uWr",
+      "drug_generic_name": "门冬胰岛素注射液",
+      "trade_name": "诺和锐"
+    },
+    {
+      "company_name": "Kissei Pharmaceutical Co., Ltd.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnd0SmAh9",
+      "drug_generic_name": "米格列奈钙片",
+      "trade_name": "快如妥"
+    },
+    {
+      "company_name": "北京诺华制药有限公司",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7EZndMRHYil",
+      "drug_generic_name": "那格列奈片",
+      "trade_name": "唐力"
+    },
+    {
+      "company_name": "MITSUBISHI TANABE PHARMA CORPORATION",
+      "company_abbreviation": "",
+      "drug_generic_id": "8Dw9EbjzSVc",
+      "drug_generic_name": "氢溴酸替格列汀片",
+      "trade_name": "泰里安"
+    },
+    {
+      "company_name": "Novo Nordisk A/S",
+      "company_abbreviation": "诺和诺德",
+      "drug_generic_id": "7EZndOO3Sut",
+      "drug_generic_name": "人胰岛素注射液",
+      "trade_name": "诺和灵"
+    },
+    {
+      "company_name": "Novo Nordisk A/S",
+      "company_abbreviation": "诺和诺德",
+      "drug_generic_id": "7EZncFW1lcl",
+      "drug_generic_name": "瑞格列奈片",
+      "trade_name": "诺和龙"
+    },
+    {
+      "company_name": "ASTRAZENECA AB",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7EZncrMlDh3",
+      "drug_generic_name": "沙格列汀二甲双胍缓释片(Ⅰ)",
+      "trade_name": "安立格"
+    },
+    {
+      "company_name": "ASTRAZENECA AB",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7MaAsCfuLBH",
+      "drug_generic_name": "沙格列汀二甲双胍缓释片(Ⅱ)",
+      "trade_name": "安立格"
+    },
+    {
+      "company_name": "ASTRAZENECA AB",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7MaAsCfMmJM",
+      "drug_generic_name": "沙格列汀二甲双胍缓释片(Ⅲ)",
+      "trade_name": "安立格"
+    },
+    {
+      "company_name": "ASTRAZENECA AB",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7EZncrMDep8",
+      "drug_generic_name": "沙格列汀片",
+      "trade_name": "安立泽"
+    },
+    {
+      "company_name": "Novartis Europharm Ltd.",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7EZnd6BsMk2",
+      "drug_generic_name": "维格列汀片",
+      "trade_name": "佳维乐"
+    },
+    {
+      "company_name": "MSD Merck Sharp & Dohme AG",
+      "company_abbreviation": "默沙东",
+      "drug_generic_id": "7EZndGjenER",
+      "drug_generic_name": "西格列汀二甲双胍片(Ⅰ)",
+      "trade_name": "捷诺达"
+    },
+    {
+      "company_name": "MSD Merck Sharp & Dohme AG",
+      "company_abbreviation": "默沙东",
+      "drug_generic_id": "7EZndGjvYMW",
+      "drug_generic_name": "西格列汀二甲双胍片(Ⅱ)",
+      "trade_name": "捷诺达"
+    },
+    {
+      "company_name": "Novo Nordisk A/S",
+      "company_abbreviation": "诺和诺德",
+      "drug_generic_id": "8agakxVIudD",
+      "drug_generic_name": "依柯胰岛素注射液",
+      "trade_name": "诺和期"
+    }
+  ]
+}
