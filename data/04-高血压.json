@@ -1,0 +1,389 @@
+{
+  "data": [
+    {
+      "company_name": "BAYER AG",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZncVBEhgk",
+      "drug_generic_name": "硝苯地平控释片",
+      "trade_name": "拜新同"
+    },
+    {
+      "company_name": "晖致制药（大连）有限公司",
+      "company_abbreviation": "晖致",
+      "drug_generic_id": "7EZndwmZdHM",
+      "drug_generic_name": "苯磺酸氨氯地平片",
+      "trade_name": "络活喜"
+    },
+    {
+      "company_name": "ASTRAZENECA AB",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7EZncFQ3LsE",
+      "drug_generic_name": "琥珀酸美托洛尔缓释片",
+      "trade_name": "倍他乐克"
+    },
+    {
+      "company_name": "Novartis Pharma Schweiz AG",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7EZnd7FBjGP",
+      "drug_generic_name": "缬沙坦氨氯地平片(Ⅰ)",
+      "trade_name": "倍博特"
+    },
+    {
+      "company_name": "北京诺华制药有限公司",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7EZnd7Gs754",
+      "drug_generic_name": "缬沙坦胶囊",
+      "trade_name": "代文"
+    },
+    {
+      "company_name": "第一三共制药（上海）有限公司",
+      "company_abbreviation": "第一三共",
+      "drug_generic_id": "7IMKif2WoEk",
+      "drug_generic_name": "奥美沙坦酯氨氯地平片",
+      "trade_name": "思卫卡"
+    },
+    {
+      "company_name": "SANOFI WINTHROP INDUSTRIE",
+      "company_abbreviation": "赛诺菲",
+      "drug_generic_id": "7DchiPxklts",
+      "drug_generic_name": "厄贝沙坦片",
+      "trade_name": "安博维"
+    },
+    {
+      "company_name": "SANOFI WINTHROP INDUSTRIE",
+      "company_abbreviation": "赛诺菲",
+      "drug_generic_id": "7EZnbq188k6",
+      "drug_generic_name": "厄贝沙坦氢氯噻嗪片",
+      "trade_name": "安博诺"
+    },
+    {
+      "company_name": "北京诺华制药有限公司",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7EZnd7GavWZ",
+      "drug_generic_name": "缬沙坦片",
+      "trade_name": "代文"
+    },
+    {
+      "company_name": "第一三共制药（上海）有限公司",
+      "company_abbreviation": "第一三共",
+      "drug_generic_id": "7EZnbM7zuvo",
+      "drug_generic_name": "奥美沙坦酯片",
+      "trade_name": "傲坦"
+    },
+    {
+      "company_name": "第一三共制药（上海）有限公司",
+      "company_abbreviation": "第一三共",
+      "drug_generic_id": "7EZnbM7hTnj",
+      "drug_generic_name": "奥美沙坦酯氢氯噻嗪片",
+      "trade_name": "复傲坦"
+    },
+    {
+      "company_name": "Lee's Pharmaceutical Taiwan Limited",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndTHv4OG",
+      "drug_generic_name": "阿利吉仑片",
+      "trade_name": "锐思力"
+    },
+    {
+      "company_name": "Merck Kft",
+      "company_abbreviation": "默克",
+      "drug_generic_id": "87Hx50gS1xt",
+      "drug_generic_name": "比索洛尔氨氯地平片",
+      "trade_name": "康忻安"
+    },
+    {
+      "company_name": "阿斯利康药业（中国）有限公司",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7EZndX1Rszj",
+      "drug_generic_name": "非洛地平缓释片",
+      "trade_name": "波依定"
+    },
+    {
+      "company_name": "Merck Healthcare Germany GmbH",
+      "company_abbreviation": "默克",
+      "drug_generic_id": "7EZnbQKxXgV",
+      "drug_generic_name": "富马酸比索洛尔片",
+      "trade_name": "康忻"
+    },
+    {
+      "company_name": "中美上海施贵宝制药有限公司",
+      "company_abbreviation": "百时美施贵宝",
+      "drug_generic_id": "7EZncZzbj05",
+      "drug_generic_name": "福辛普利钠片",
+      "trade_name": "蒙诺"
+    },
+    {
+      "company_name": "Viatris Pharma GmbH",
+      "company_abbreviation": "晖致",
+      "drug_generic_id": "7EZncIf5aSZ",
+      "drug_generic_name": "甲磺酸多沙唑嗪缓释片",
+      "trade_name": "可多华"
+    },
+    {
+      "company_name": "LES LABORATOIRES SERVIER",
+      "company_abbreviation": "施维雅",
+      "drug_generic_id": "7EZnd1RXxyE",
+      "drug_generic_name": "精氨酸培哚普利片",
+      "trade_name": "雅施达"
+    },
+    {
+      "company_name": "阿斯利康制药有限公司",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7EZndNb0H9P",
+      "drug_generic_name": "酒石酸美托洛尔片",
+      "trade_name": "倍他乐克"
+    },
+    {
+      "company_name": "TEVA TAKEDA YAKUHIN LTD.",
+      "company_abbreviation": "梯瓦武田",
+      "drug_generic_id": "7EZnbBhYzcE",
+      "drug_generic_name": "坎地沙坦酯片",
+      "trade_name": "必洛斯"
+    },
+    {
+      "company_name": "GLAXOSMITHKLINE SA",
+      "company_abbreviation": "葛兰素史克",
+      "drug_generic_id": "7EZncdhFBHN",
+      "drug_generic_name": "拉西地平片",
+      "trade_name": "乐息平"
+    },
+    {
+      "company_name": "Sanofi-Aventis Deutschland Gmbh",
+      "company_abbreviation": "赛诺菲",
+      "drug_generic_id": "7EZndW1YU9J",
+      "drug_generic_name": "雷米普利片",
+      "trade_name": "瑞泰"
+    },
+    {
+      "company_name": "ORGANON PHARMA (UK) LIMITED",
+      "company_abbreviation": "欧加隆",
+      "drug_generic_id": "7EZncqIMiaq",
+      "drug_generic_name": "氯沙坦钾片",
+      "trade_name": "科素亚"
+    },
+    {
+      "company_name": "Nv Organon",
+      "company_abbreviation": "欧加隆",
+      "drug_generic_id": "7EZncqIuH2l",
+      "drug_generic_name": "氯沙坦钾氢氯噻嗪片",
+      "trade_name": "海捷亚"
+    },
+    {
+      "company_name": "ORGANON PHARMA (UK) LIMITED",
+      "company_abbreviation": "欧加隆",
+      "drug_generic_id": "7EZne1xJX4P",
+      "drug_generic_name": "马来酸依那普利片",
+      "trade_name": "悦宁定"
+    },
+    {
+      "company_name": "Takeda Pharma A/S",
+      "company_abbreviation": "武田制药",
+      "drug_generic_id": "85ghXo61n9O",
+      "drug_generic_name": "美阿沙坦钾片",
+      "trade_name": "易达比"
+    },
+    {
+      "company_name": "ASAHI KASEI PHARMA CORPORATION",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndxQ6sxF",
+      "drug_generic_name": "萘哌地尔片",
+      "trade_name": "福列"
+    },
+    {
+      "company_name": "拜耳医药保健有限公司",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZnbXtwHJo",
+      "drug_generic_name": "尼莫地平片",
+      "trade_name": "尼膜同"
+    },
+    {
+      "company_name": "Bayer Vital GmbH",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZnbXtf6Bj",
+      "drug_generic_name": "尼莫地平注射液",
+      "trade_name": "尼膜同"
+    },
+    {
+      "company_name": "LES LABORATOIRES SERVIER",
+      "company_abbreviation": "",
+      "drug_generic_id": "7Mat6WWnGap",
+      "drug_generic_name": "培哚普利氨氯地平片(Ⅰ)",
+      "trade_name": "开素达"
+    },
+    {
+      "company_name": "LES LABORATOIRES SERVIER",
+      "company_abbreviation": "",
+      "drug_generic_id": "7Mat6WWWSqy",
+      "drug_generic_name": "培哚普利氨氯地平片(Ⅱ)",
+      "trade_name": "开素达"
+    },
+    {
+      "company_name": "LES LABORATOIRES SERVIER",
+      "company_abbreviation": "施维雅",
+      "drug_generic_id": "7Mat6WY5gWP",
+      "drug_generic_name": "培哚普利氨氯地平片(Ⅲ)",
+      "trade_name": "开素达"
+    },
+    {
+      "company_name": "施维雅（天津）制药有限公司",
+      "company_abbreviation": "施维雅",
+      "drug_generic_id": "7EZnbBGFFxF",
+      "drug_generic_name": "培哚普利叔丁胺片",
+      "trade_name": "雅施达"
+    },
+    {
+      "company_name": "施维雅（天津）制药有限公司",
+      "company_abbreviation": "施维雅",
+      "drug_generic_id": "7EZnbBHeRNP",
+      "drug_generic_name": "培哚普利吲达帕胺片",
+      "trade_name": "百普乐"
+    },
+    {
+      "company_name": "Novartis Pharma Schweiz AG",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7IN32h0rtgC",
+      "drug_generic_name": "沙库巴曲缬沙坦钠片",
+      "trade_name": "诺欣妥"
+    },
+    {
+      "company_name": "Boehringer Ingelheim International GmbH",
+      "company_abbreviation": "勃林格殷格翰",
+      "drug_generic_id": "7IMXARI9JZj",
+      "drug_generic_name": "替米沙坦氨氯地平片",
+      "trade_name": "双加"
+    },
+    {
+      "company_name": "Boehringer Ingelheim International GmbH",
+      "company_abbreviation": "勃林格殷格翰",
+      "drug_generic_id": "7EZnciyFuMD",
+      "drug_generic_name": "替米沙坦片",
+      "trade_name": "美卡素"
+    },
+    {
+      "company_name": "Boehringer Ingelheim International GmbH",
+      "company_abbreviation": "勃林格殷格翰",
+      "drug_generic_id": "7EZnciy6iwt",
+      "drug_generic_name": "替米沙坦氢氯噻嗪片",
+      "trade_name": "美嘉素"
+    },
+    {
+      "company_name": "Novartis Pharma Schweiz AG",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7EZnd7F27qF",
+      "drug_generic_name": "缬沙坦氢氯噻嗪片",
+      "trade_name": "复代文"
+    },
+    {
+      "company_name": "SUMITOMO PHARMA CO LTD",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncSpeGe1",
+      "drug_generic_name": "盐酸阿罗洛尔片",
+      "trade_name": "阿尔马尔"
+    },
+    {
+      "company_name": "LTL PHARMA CO., LTD.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncQ1Dgs5",
+      "drug_generic_name": "盐酸巴尼地平缓释胶囊",
+      "trade_name": "合普卡"
+    },
+    {
+      "company_name": "NIPPON CHEMIPHAR CO., LTD.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncS4emA3",
+      "drug_generic_name": "盐酸贝凡洛尔片",
+      "trade_name": "卡理稳"
+    },
+    {
+      "company_name": "北京诺华制药有限公司",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7EZncS5Emes",
+      "drug_generic_name": "盐酸贝那普利片",
+      "trade_name": "洛汀新"
+    },
+    {
+      "company_name": "KYOWA KIRIN CO LTD",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncS559Yi",
+      "drug_generic_name": "盐酸贝尼地平片",
+      "trade_name": "可力洛"
+    },
+    {
+      "company_name": "远大医药（天津）有限公司",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncPj4eZq",
+      "drug_generic_name": "盐酸地尔硫䓬片",
+      "trade_name": "合心爽"
+    },
+    {
+      "company_name": "recordati s.p.a.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncOqQR61",
+      "drug_generic_name": "盐酸乐卡地平片",
+      "trade_name": "再宁平"
+    },
+    {
+      "company_name": "LTL PHARMA CO., LTD.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncPNrjW3",
+      "drug_generic_name": "盐酸尼卡地平注射液",
+      "trade_name": "佩尔"
+    },
+    {
+      "company_name": "Takeda GmbH",
+      "company_abbreviation": "武田制药",
+      "drug_generic_id": "7EZncOqhEPR",
+      "drug_generic_name": "盐酸乌拉地尔注射液",
+      "trade_name": "亚宁定"
+    },
+    {
+      "company_name": "施维雅（天津）制药有限公司",
+      "company_abbreviation": "施维雅",
+      "drug_generic_id": "7EZnbwkQAbo",
+      "drug_generic_name": "吲达帕胺缓释片",
+      "trade_name": "纳催离"
+    },
+    {
+      "company_name": "LES LABORATOIRES SERVIER",
+      "company_abbreviation": "施维雅",
+      "drug_generic_id": "7EZnbwkyZ3j",
+      "drug_generic_name": "吲达帕胺片",
+      "trade_name": "纳催离"
+    },
+    {
+      "company_name": "Abbott Healthcare Products B.V.",
+      "company_abbreviation": "雅培",
+      "drug_generic_id": "7EZnbd1yxvi",
+      "drug_generic_name": "依普沙坦片",
+      "trade_name": "泰络欣"
+    },
+    {
+      "company_name": "MITSUBISHI TANABE PHARMA CORPORATION",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncu5H45M",
+      "drug_generic_name": "注射用盐酸地尔硫䓬",
+      "trade_name": "合贝爽"
+    },
+    {
+      "company_name": "深圳信立泰药业股份有限公司",
+      "company_abbreviation": "信立泰",
+      "drug_generic_id": "8aVq8W75X7u",
+      "drug_generic_name": "阿利沙坦酯氨氯地平片",
+      "trade_name": "复立坦"
+    },
+    {
+      "company_name": "深圳信立泰药业股份有限公司",
+      "company_abbreviation": "信立泰",
+      "drug_generic_id": "7EZndTIlScV",
+      "drug_generic_name": "阿利沙坦酯片",
+      "trade_name": "信立坦"
+    },
+    {
+      "company_name": "施慧达药业集团（吉林）有限公司",
+      "company_abbreviation": "施慧达",
+      "drug_generic_id": "7EZndwlQPbs",
+      "drug_generic_name": "苯磺酸左旋氨氯地平片",
+      "trade_name": "施慧达"
+    }
+  ]
+}
