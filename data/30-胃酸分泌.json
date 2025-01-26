@@ -1,0 +1,179 @@
+{
+  "data": [
+    {
+      "company_name": "拜耳医药保健有限公司",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZndQxVs17",
+      "drug_generic_name": "铝碳酸镁咀嚼片",
+      "trade_name": "达喜"
+    },
+    {
+      "company_name": "阿斯利康制药有限公司",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7EZnbM5iHsK",
+      "drug_generic_name": "奥美拉唑肠溶胶囊",
+      "trade_name": "洛赛克"
+    },
+    {
+      "company_name": "ASTRAZENECA PTY LTD",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7EZnbM6IH79",
+      "drug_generic_name": "奥美拉唑镁肠溶片",
+      "trade_name": "洛赛克"
+    },
+    {
+      "company_name": "丽珠集团丽珠制药厂",
+      "company_abbreviation": "丽珠集团",
+      "drug_generic_id": "7EZnduRjBLe",
+      "drug_generic_name": "艾普拉唑肠溶片",
+      "trade_name": "壹丽安"
+    },
+    {
+      "company_name": "ASTRAZENECA UK LIMITED",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7EZnduP2OIA",
+      "drug_generic_name": "艾司奥美拉唑镁肠溶片",
+      "trade_name": "耐信"
+    },
+    {
+      "company_name": "拜耳医药保健有限公司",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZnbFB56Qx",
+      "drug_generic_name": "复方碳酸钙咀嚼片",
+      "trade_name": "罗内"
+    },
+    {
+      "company_name": "卫材（辽宁）制药有限公司",
+      "company_abbreviation": "卫材",
+      "drug_generic_id": "7EZnbG3boKw",
+      "drug_generic_name": "复方胃膜素片",
+      "trade_name": "贝尔谢博氏"
+    },
+    {
+      "company_name": "建丰胃仙-u 有限公司",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbFRgfh8",
+      "drug_generic_name": "复方维生素U片",
+      "trade_name": "维仙优"
+    },
+    {
+      "company_name": "TAKEDA PHARMACEUTICAL COMPANY LIMITED",
+      "company_abbreviation": "武田制药",
+      "drug_generic_id": "7vBZEIjRYDj",
+      "drug_generic_name": "富马酸伏诺拉生片",
+      "trade_name": "沃克"
+    },
+    {
+      "company_name": "天津武田药品有限公司",
+      "company_abbreviation": "武田制药",
+      "drug_generic_id": "7EZnbi1wvPm",
+      "drug_generic_name": "兰索拉唑肠溶胶囊",
+      "trade_name": "达克普隆"
+    },
+    {
+      "company_name": "TEVA TAKEDA YAKUHIN LTD.",
+      "company_abbreviation": "梯瓦武田",
+      "drug_generic_id": "7EZnbi0FIr7",
+      "drug_generic_name": "兰索拉唑口崩片",
+      "trade_name": "普托平"
+    },
+    {
+      "company_name": "卫材（中国）药业有限公司",
+      "company_abbreviation": "卫材",
+      "drug_generic_id": "7EZndW4fHcn",
+      "drug_generic_name": "雷贝拉唑钠肠溶片",
+      "trade_name": "波利特"
+    },
+    {
+      "company_name": "Boryung Corporation",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncYqvby0",
+      "drug_generic_name": "磷酸铝凝胶",
+      "trade_name": "洁维乐"
+    },
+    {
+      "company_name": "Daewoong Pharmaceutical Co.,Ltd.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndQBTPQf",
+      "drug_generic_name": "铝镁混悬液(Ⅱ)",
+      "trade_name": "纽兰达"
+    },
+    {
+      "company_name": "NIPPON SHINYAKU CO.,LTD.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZne1wjXqq",
+      "drug_generic_name": "马来酸伊索拉定片",
+      "trade_name": "盖世龙"
+    },
+    {
+      "company_name": "Takeda GmbH",
+      "company_abbreviation": "武田制药",
+      "drug_generic_id": "7EZncvFUhbG",
+      "drug_generic_name": "泮托拉唑钠肠溶片",
+      "trade_name": "潘妥洛克"
+    },
+    {
+      "company_name": "浙江大冢制药有限公司",
+      "company_abbreviation": "大冢制药",
+      "drug_generic_id": "7EZncFSC9Dn",
+      "drug_generic_name": "瑞巴派特片",
+      "trade_name": "膜固思达"
+    },
+    {
+      "company_name": "卫材（中国）药业有限公司",
+      "company_abbreviation": "卫材",
+      "drug_generic_id": "7EZncith7j6",
+      "drug_generic_name": "替普瑞酮胶囊",
+      "trade_name": "施维舒"
+    },
+    {
+      "company_name": "卫材（辽宁）制药有限公司",
+      "company_abbreviation": "卫材",
+      "drug_generic_id": "7EZndjtncCF",
+      "drug_generic_name": "胃膜素胶囊",
+      "trade_name": "为舒怡"
+    },
+    {
+      "company_name": "中美天津史克制药有限公司",
+      "company_abbreviation": "中美史克",
+      "drug_generic_id": "7EZndGbhC0B",
+      "drug_generic_name": "西咪替丁片",
+      "trade_name": "泰胃美"
+    },
+    {
+      "company_name": "赛诺菲（杭州）制药有限公司",
+      "company_abbreviation": "赛诺菲",
+      "drug_generic_id": "7EZncStuFbe",
+      "drug_generic_name": "盐酸雷尼替丁胶囊",
+      "trade_name": "兰百幸"
+    },
+    {
+      "company_name": "ASTRAZENECA UK LIMITED",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7EZncuLZivN",
+      "drug_generic_name": "注射用艾司奥美拉唑钠",
+      "trade_name": "耐信"
+    },
+    {
+      "company_name": "阿斯利康制药有限公司",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7EZnctp7exG",
+      "drug_generic_name": "注射用奥美拉唑钠",
+      "trade_name": "洛赛克"
+    },
+    {
+      "company_name": "阿斯利康制药有限公司",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7EZnctpoPFL",
+      "drug_generic_name": "注射用奥美拉唑钠(静脉滴注)",
+      "trade_name": "洛赛克"
+    },
+    {
+      "company_name": "Takeda GmbH",
+      "company_abbreviation": "武田制药",
+      "drug_generic_id": "7EZnctMXxus",
+      "drug_generic_name": "注射用泮托拉唑钠",
+      "trade_name": "潘妥洛克"
+    }
+  ]
+}

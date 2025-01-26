@@ -1,0 +1,417 @@
+{
+  "data": [
+    {
+      "company_name": "SANTEN PHARMACEUTICAL CO., LTD.",
+      "company_abbreviation": "参天制药",
+      "drug_generic_id": "7EZncFl7ufR",
+      "drug_generic_name": "玻璃酸钠滴眼液",
+      "trade_name": "爱丽"
+    },
+    {
+      "company_name": "BAYER AG",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7Mat6XtAKoS",
+      "drug_generic_name": "阿柏西普眼内注射溶液",
+      "trade_name": "艾力雅"
+    },
+    {
+      "company_name": "AbbVie Deutschland GmbH & Co. KG",
+      "company_abbreviation": "艾伯维",
+      "drug_generic_id": "7EZndIbBV5V",
+      "drug_generic_name": "贝美前列素滴眼液",
+      "trade_name": "卢美根"
+    },
+    {
+      "company_name": "EUSAN GmbH",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncFl7ufR",
+      "drug_generic_name": "玻璃酸钠滴眼液",
+      "trade_name": "海露"
+    },
+    {
+      "company_name": "NOVARTIS EUROPHARM LIMITED",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7EZnc1qM7h0",
+      "drug_generic_name": "布林佐胺滴眼液",
+      "trade_name": "派立明"
+    },
+    {
+      "company_name": "AbbVie Limited",
+      "company_abbreviation": "艾伯维",
+      "drug_generic_id": "7EZndOaBDng",
+      "drug_generic_name": "醋酸泼尼松龙滴眼液",
+      "trade_name": "百力特"
+    },
+    {
+      "company_name": "SANTEN PHARMACEUTICAL CO., LTD.",
+      "company_abbreviation": "参天制药",
+      "drug_generic_id": "7Mat6WW652k",
+      "drug_generic_name": "地夸磷索钠滴眼液",
+      "trade_name": "丽爱思"
+    },
+    {
+      "company_name": "AbbVie Deutschland GmbH & Co. KG",
+      "company_abbreviation": "艾伯维",
+      "drug_generic_id": "7Mat6WVwSMb",
+      "drug_generic_name": "地塞米松玻璃体内植入剂",
+      "trade_name": "傲迪适"
+    },
+    {
+      "company_name": "Roche Pharma (Schweiz) AG",
+      "company_abbreviation": "罗氏",
+      "drug_generic_id": "8WHyAUrMAOb",
+      "drug_generic_name": "法瑞西单抗注射液",
+      "trade_name": "罗视佳"
+    },
+    {
+      "company_name": "marui pharmaceuticals, inc.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbDwuOO0",
+      "drug_generic_name": "复方尿维氨滴眼液",
+      "trade_name": "中鑫"
+    },
+    {
+      "company_name": "SANTEN PHARMACEUTICAL CO., LTD.",
+      "company_abbreviation": "参天制药",
+      "drug_generic_id": "7EZnbDJgLFD",
+      "drug_generic_name": "复方托吡卡胺滴眼液",
+      "trade_name": "美多丽"
+    },
+    {
+      "company_name": "Future Health Pharma GmbH",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbQGhYjI",
+      "drug_generic_name": "富马酸依美斯汀滴眼液",
+      "trade_name": "埃美丁"
+    },
+    {
+      "company_name": "SANTEN PHARMACEUTICAL CO., LTD.",
+      "company_abbreviation": "参天制药",
+      "drug_generic_id": "7EZncp2jUcK",
+      "drug_generic_name": "氟米龙滴眼液",
+      "trade_name": "氟美童"
+    },
+    {
+      "company_name": "Amdipharm Limited",
+      "company_abbreviation": "",
+      "drug_generic_id": "7Mat6X2lfTT",
+      "drug_generic_name": "夫西地酸滴眼液",
+      "trade_name": "夫司名"
+    },
+    {
+      "company_name": "中国大冢制药有限公司",
+      "company_abbreviation": "大冢制药",
+      "drug_generic_id": "7EZnbmuQCa9",
+      "drug_generic_name": "加替沙星滴眼液",
+      "trade_name": "美清朗"
+    },
+    {
+      "company_name": "AbbVie Limited",
+      "company_abbreviation": "艾伯维",
+      "drug_generic_id": "7EZndN8JU7b",
+      "drug_generic_name": "酒石酸溴莫尼定滴眼液",
+      "trade_name": "阿法根"
+    },
+    {
+      "company_name": "Alcon Laboratories, Inc.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndbjy1r1",
+      "drug_generic_name": "聚乙二醇滴眼液",
+      "trade_name": "思然"
+    },
+    {
+      "company_name": "信東生技股份有限公司",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndbkY15q",
+      "drug_generic_name": "聚乙烯醇滴眼液",
+      "trade_name": "艾明可"
+    },
+    {
+      "company_name": "Viatris GX",
+      "company_abbreviation": "晖致",
+      "drug_generic_id": "7EZncdcyPml",
+      "drug_generic_name": "拉坦前列素滴眼液",
+      "trade_name": "适利达"
+    },
+    {
+      "company_name": "Novartis Pharma Schweiz AG",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7EZndW1pHTz",
+      "drug_generic_name": "雷珠单抗注射液",
+      "trade_name": "诺适得"
+    },
+    {
+      "company_name": "daiichi yakuhin sangyo co.,ltd.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbpX9KuY",
+      "drug_generic_name": "卵磷脂络合碘片",
+      "trade_name": "沃丽汀"
+    },
+    {
+      "company_name": "中国大冢制药有限公司",
+      "company_abbreviation": "大冢制药",
+      "drug_generic_id": "7EZncqtJyg9",
+      "drug_generic_name": "氯化钠滴眼液",
+      "trade_name": "艾那多"
+    },
+    {
+      "company_name": "Bausch & Lomb Incorporated",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncqEeI58",
+      "drug_generic_name": "氯替泼诺混悬滴眼液",
+      "trade_name": "露达舒"
+    },
+    {
+      "company_name": "Bausch & Lomb Incorporated",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncqDX6X3",
+      "drug_generic_name": "氯替泼诺妥布霉素滴眼液",
+      "trade_name": "福瑞达"
+    },
+    {
+      "company_name": "alcon nv",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZne1LEisM",
+      "drug_generic_name": "马来酸非尼拉敏盐酸萘甲唑啉滴眼液",
+      "trade_name": "那素达"
+    },
+    {
+      "company_name": "中国大冢制药有限公司",
+      "company_abbreviation": "大冢制药",
+      "drug_generic_id": "7EZndxS5Ese",
+      "drug_generic_name": "萘敏维滴眼液",
+      "trade_name": "艾唯多"
+    },
+    {
+      "company_name": "SANTEN PHARMACEUTICAL CO., LTD.",
+      "company_abbreviation": "参天制药",
+      "drug_generic_id": "7EZnbvV15k3",
+      "drug_generic_name": "吡嘧司特钾滴眼液",
+      "trade_name": "研立双"
+    },
+    {
+      "company_name": "SANTEN PHARMACEUTICAL CO., LTD.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbw3x3et",
+      "drug_generic_name": "吡诺克辛滴眼液",
+      "trade_name": "卡林优"
+    },
+    {
+      "company_name": "SENJU PHARMACEUTICAL CO., LTD.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnchrYAjb",
+      "drug_generic_name": "普拉洛芬滴眼液",
+      "trade_name": "普南扑灵"
+    },
+    {
+      "company_name": "Vifor Pharma Österreich GmbH",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnd91CAgH",
+      "drug_generic_name": "羟苯磺酸钙胶囊",
+      "trade_name": "导升明"
+    },
+    {
+      "company_name": "Alcon Laboratories, Inc.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnd8ZDom8",
+      "drug_generic_name": "羟糖甘滴眼液",
+      "trade_name": "新泪然"
+    },
+    {
+      "company_name": "dr. gerhard mann, chem. -pharm. fabrik gmbh",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbpqNtDM",
+      "drug_generic_name": "卡波姆滴眼液",
+      "trade_name": "唯地息"
+    },
+    {
+      "company_name": "dr. gerhard mann, chem.-pharm. fabrik gmbh",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbpr54LR",
+      "drug_generic_name": "卡波姆眼用凝胶",
+      "trade_name": "立宝舒"
+    },
+    {
+      "company_name": "Pharma Stulln GmbH",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnb0Z1vNg",
+      "drug_generic_name": "七叶洋地黄双苷滴眼液",
+      "trade_name": "施图伦"
+    },
+    {
+      "company_name": "NOVARTIS EUROPHARM LIMITED",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7EZnchYCsis",
+      "drug_generic_name": "曲伏前列素滴眼液",
+      "trade_name": "苏为坦"
+    },
+    {
+      "company_name": "NOVARTIS EUROPHARM LIMITED",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7EZnchYU3qx",
+      "drug_generic_name": "曲伏噻吗滴眼液",
+      "trade_name": "苏力坦"
+    },
+    {
+      "company_name": "dompé farmaceutici s.p.a.",
+      "company_abbreviation": "",
+      "drug_generic_id": "82QAcOVVaqT",
+      "drug_generic_name": "塞奈吉明滴眼液",
+      "trade_name": "欧适维"
+    },
+    {
+      "company_name": "AbbVie Limited",
+      "company_abbreviation": "艾伯维",
+      "drug_generic_id": "7EZnd94KaHA",
+      "drug_generic_name": "羧甲基纤维素钠滴眼液",
+      "trade_name": "潇莱威"
+    },
+    {
+      "company_name": "SANTEN PHARMACEUTICAL CO., LTD.",
+      "company_abbreviation": "参天制药",
+      "drug_generic_id": "7EZnbbcAbDc",
+      "drug_generic_name": "他氟前列素滴眼液",
+      "trade_name": "泰普罗斯"
+    },
+    {
+      "company_name": "novartis pharma nv",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbNAGJlh",
+      "drug_generic_name": "妥布霉素地塞米松滴眼液",
+      "trade_name": "典必殊"
+    },
+    {
+      "company_name": "novartis pharma nv",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbNAYktm",
+      "drug_generic_name": "妥布霉素地塞米松眼膏",
+      "trade_name": "典必殊"
+    },
+    {
+      "company_name": "novartis pharma nv",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbNBfVBr",
+      "drug_generic_name": "妥布霉素滴眼液",
+      "trade_name": "托百士"
+    },
+    {
+      "company_name": "novartis pharma nv",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbNBxwJw",
+      "drug_generic_name": "妥布霉素眼膏",
+      "trade_name": "托百士"
+    },
+    {
+      "company_name": "SANTEN PHARMACEUTICAL CO., LTD.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnd6LoJSR",
+      "drug_generic_name": "维生素B12滴眼液",
+      "trade_name": "散克巴"
+    },
+    {
+      "company_name": "SENJU PHARMACEUTICAL CO., LTD.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncAv5uyG",
+      "drug_generic_name": "溴芬酸钠滴眼液",
+      "trade_name": "普罗纳克"
+    },
+    {
+      "company_name": "AbbVie Limited",
+      "company_abbreviation": "艾伯维",
+      "drug_generic_id": "7EZncAvn5GL",
+      "drug_generic_name": "溴莫尼定噻吗洛尔滴眼液",
+      "trade_name": "科比根"
+    },
+    {
+      "company_name": "参天制药（中国）有限公司",
+      "company_abbreviation": "参天制药",
+      "drug_generic_id": "7EZncpzfnk6",
+      "drug_generic_name": "氧氟沙星滴眼液",
+      "trade_name": "泰利必妥"
+    },
+    {
+      "company_name": "SANTEN PHARMACEUTICAL CO., LTD.",
+      "company_abbreviation": "参天制药",
+      "drug_generic_id": "7EZncpAnLQq",
+      "drug_generic_name": "氧氟沙星眼膏",
+      "trade_name": "泰利必妥"
+    },
+    {
+      "company_name": "SANTEN PHARMACEUTICAL CO., LTD.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncPCWa74",
+      "drug_generic_name": "盐酸奥布卡因滴眼液",
+      "trade_name": "倍诺喜"
+    },
+    {
+      "company_name": "NOVARTIS EUROPHARM LIMITED",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7EZncPGllG2",
+      "drug_generic_name": "盐酸奥洛他定滴眼液",
+      "trade_name": "帕坦洛"
+    },
+    {
+      "company_name": "novartis pharma nv",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncOIrZb1",
+      "drug_generic_name": "盐酸倍他洛尔滴眼液",
+      "trade_name": "贝特舒"
+    },
+    {
+      "company_name": "alcon nv",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncOpqRrC",
+      "drug_generic_name": "盐酸丙美卡因滴眼液",
+      "trade_name": "爱尔凯因"
+    },
+    {
+      "company_name": "Viatris Healthcare GmbH",
+      "company_abbreviation": "晖致",
+      "drug_generic_id": "890SaEwOo5F",
+      "drug_generic_name": "盐酸氮䓬斯汀滴眼液",
+      "trade_name": "爱赛平"
+    },
+    {
+      "company_name": "alcon nv",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncRf8z7x",
+      "drug_generic_name": "盐酸环喷托酯滴眼液",
+      "trade_name": "赛飞杰"
+    },
+    {
+      "company_name": "NOVARTIS PHARMACEUTICALS CORPORATION",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7IMRFAjdtAR",
+      "drug_generic_name": "盐酸莫西沙星滴眼液",
+      "trade_name": "维莫思"
+    },
+    {
+      "company_name": "中国大冢制药有限公司",
+      "company_abbreviation": "大冢制药",
+      "drug_generic_id": "7EZncOUEJMu",
+      "drug_generic_name": "盐酸卡替洛尔滴眼液",
+      "trade_name": "美开朗"
+    },
+    {
+      "company_name": "Alcon Laboratories, Inc.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndx2ZQZI",
+      "drug_generic_name": "荧光素钠注射液",
+      "trade_name": "历设得"
+    },
+    {
+      "company_name": "Alcon Laboratories, Inc.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbuZ6UJB",
+      "drug_generic_name": "右旋糖酐羟丙甲纤维素滴眼液",
+      "trade_name": "倍然"
+    },
+    {
+      "company_name": "SANTEN PHARMACEUTICAL CO., LTD.",
+      "company_abbreviation": "参天制药",
+      "drug_generic_id": "7EZnc0BXUWz",
+      "drug_generic_name": "左氧氟沙星滴眼液",
+      "trade_name": "可乐必妥"
+    }
+  ]
+}

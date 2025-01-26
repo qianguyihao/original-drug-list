@@ -1,0 +1,270 @@
+{
+  "data": [
+    {
+      "company_name": "ASTRAZENECA AB",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7EZnc1nW7Yc",
+      "drug_generic_name": "布地奈德福莫特罗吸入粉雾剂(Ⅰ)",
+      "trade_name": "信必可都保"
+    },
+    {
+      "company_name": "第一三共制药（上海）有限公司",
+      "company_abbreviation": "第一三共",
+      "drug_generic_id": "7EZnbFco0vw",
+      "drug_generic_name": "复方甲氧那明胶囊",
+      "trade_name": "阿斯美"
+    },
+    {
+      "company_name": "Glaxosmithkline Australia Pty Ltd.",
+      "company_abbreviation": "葛兰素史克",
+      "drug_generic_id": "7EZnbwpoagG",
+      "drug_generic_name": "吸入用硫酸沙丁胺醇溶液",
+      "trade_name": "万托林"
+    },
+    {
+      "company_name": "Organon NV",
+      "company_abbreviation": "欧加隆",
+      "drug_generic_id": "7EZnbOZgo5S",
+      "drug_generic_name": "孟鲁司特钠咀嚼片",
+      "trade_name": "顺尔宁"
+    },
+    {
+      "company_name": "ASTRAZENECA AB",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "82QAbfBvxND",
+      "drug_generic_name": "布地奈德福莫特罗吸入粉雾剂(Ⅱ)",
+      "trade_name": "信必可都保"
+    },
+    {
+      "company_name": "Organon NV",
+      "company_abbreviation": "欧加隆",
+      "drug_generic_id": "7EZnbOZxZdX",
+      "drug_generic_name": "孟鲁司特钠片",
+      "trade_name": "顺尔宁"
+    },
+    {
+      "company_name": "阿斯利康制药有限公司",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7EZncWEW1eS",
+      "drug_generic_name": "硫酸特布他林片",
+      "trade_name": "博利康尼"
+    },
+    {
+      "company_name": "ASTRAZENECA AB",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7EZncWFvdv2",
+      "drug_generic_name": "硫酸特布他林雾化吸入用溶液",
+      "trade_name": "博利康尼"
+    },
+    {
+      "company_name": "ASTRAZENECA PTY LTD",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7EZnbwoOY0w",
+      "drug_generic_name": "吸入用布地奈德混悬液",
+      "trade_name": "普米克令舒"
+    },
+    {
+      "company_name": "Boehringer Ingelheim Scomm",
+      "company_abbreviation": "勃林格殷格翰",
+      "drug_generic_id": "7EZnbwoxmSr",
+      "drug_generic_name": "吸入用复方异丙托溴铵溶液",
+      "trade_name": "可必特"
+    },
+    {
+      "company_name": "Boehringer Ingelheim Pharma GmbH & Co. KG",
+      "company_abbreviation": "勃林格殷格翰",
+      "drug_generic_id": "7EZnbwp6z8B",
+      "drug_generic_name": "吸入用异丙托溴铵溶液",
+      "trade_name": "爱全乐"
+    },
+    {
+      "company_name": "NOVARTIS EUROPHARM LIMITED",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "1tJQlkkY5Aq",
+      "drug_generic_name": "奥马珠单抗注射液",
+      "trade_name": "茁乐"
+    },
+    {
+      "company_name": "ASTRAZENECA AB",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "8cCZj6YPwmh",
+      "drug_generic_name": "本瑞利珠单抗注射液",
+      "trade_name": "凡舒卓"
+    },
+    {
+      "company_name": "ASTRAZENECA AB",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7vBZEIl990D",
+      "drug_generic_name": "布地格福吸入气雾剂",
+      "trade_name": "倍择瑞"
+    },
+    {
+      "company_name": "CHIESI FARMACEUTICI S.P.A.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7LfNQ9c5VGp",
+      "drug_generic_name": "布地奈德吸入气雾剂",
+      "trade_name": "班迪艾"
+    },
+    {
+      "company_name": "ASTRAZENECA AB",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7MaAsCbwnME",
+      "drug_generic_name": "富马酸福莫特罗吸入粉雾剂",
+      "trade_name": "奥克斯都保"
+    },
+    {
+      "company_name": "ASTRAZENECA AB",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "81j52otXc5y",
+      "drug_generic_name": "格隆溴铵福莫特罗吸入气雾剂",
+      "trade_name": "百沃平令畅"
+    },
+    {
+      "company_name": "Novartis Pharma Schweiz AG",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "8Blb6g4qqXD",
+      "drug_generic_name": "格隆溴铵吸入粉雾剂",
+      "trade_name": "希润"
+    },
+    {
+      "company_name": "GLAXOSMITHKLINE (IRELAND) LIMITED",
+      "company_abbreviation": "葛兰素史克",
+      "drug_generic_id": "7Mat6Xnlzxe",
+      "drug_generic_name": "糠酸氟替卡松维兰特罗吸入粉雾剂(Ⅱ)",
+      "trade_name": "万瑞舒"
+    },
+    {
+      "company_name": "GLAXOSMITHKLINE (IRELAND) LIMITED",
+      "company_abbreviation": "葛兰素史克",
+      "drug_generic_id": "7Mat6XnULNn",
+      "drug_generic_name": "糠酸氟替卡松维兰特罗吸入粉雾剂(Ⅲ)",
+      "trade_name": "万瑞舒"
+    },
+    {
+      "company_name": "GLAXOSMITHKLINE SA",
+      "company_abbreviation": "葛兰素史克",
+      "drug_generic_id": "7EZncWA6Q1v",
+      "drug_generic_name": "硫酸沙丁胺醇吸入气雾剂",
+      "trade_name": "万托林"
+    },
+    {
+      "company_name": "Novartis Pharma Schweiz AG",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7EZne1KeiOn",
+      "drug_generic_name": "马来酸茚达特罗吸入粉雾剂",
+      "trade_name": "昂润"
+    },
+    {
+      "company_name": "GLAXOSMITHKLINE TRADING SERVICES LIMITED",
+      "company_abbreviation": "葛兰素史克",
+      "drug_generic_id": "8Blb6qeGdsG",
+      "drug_generic_name": "美泊利珠单抗注射液",
+      "trade_name": "新可来"
+    },
+    {
+      "company_name": "ORGANON LIMITED LIABILITY COMPANY",
+      "company_abbreviation": "欧加隆",
+      "drug_generic_id": "7EZnbOZPAm2",
+      "drug_generic_name": "孟鲁司特钠颗粒",
+      "trade_name": "顺尔宁"
+    },
+    {
+      "company_name": "SANOFI WINTHROP INDUSTRIE",
+      "company_abbreviation": "赛诺菲",
+      "drug_generic_id": "8XGyPCfoeLM",
+      "drug_generic_name": "尼塞韦单抗注射液",
+      "trade_name": "乐唯初"
+    },
+    {
+      "company_name": "Boehringer Ingelheim International GmbH",
+      "company_abbreviation": "勃林格殷格翰",
+      "drug_generic_id": "7Mat6WVfhE6",
+      "drug_generic_name": "噻托溴铵奥达特罗吸入喷雾剂",
+      "trade_name": "思合华"
+    },
+    {
+      "company_name": "Boehringer Ingelheim International GmbH",
+      "company_abbreviation": "勃林格殷格翰",
+      "drug_generic_id": "7EZnbzHc9QA",
+      "drug_generic_name": "噻托溴铵吸入粉雾剂",
+      "trade_name": "思力华"
+    },
+    {
+      "company_name": "LABORATOIRE GLAXOSMITHKLINE",
+      "company_abbreviation": "葛兰素史克",
+      "drug_generic_id": "81j4fJNsGsW",
+      "drug_generic_name": "沙美特罗替卡松吸入粉雾剂",
+      "trade_name": "舒利迭"
+    },
+    {
+      "company_name": "LABORATOIRE GLAXOSMITHKLINE",
+      "company_abbreviation": "葛兰素史克",
+      "drug_generic_id": "7MaAsCfMmJN",
+      "drug_generic_name": "沙美特罗替卡松吸入气雾剂",
+      "trade_name": "舒利迭"
+    },
+    {
+      "company_name": "NITTO DENKO CORPORATION",
+      "company_abbreviation": "",
+      "drug_generic_id": "7IMNmhTMTi5",
+      "drug_generic_name": "妥洛特罗贴剂",
+      "trade_name": "阿米迪"
+    },
+    {
+      "company_name": "GLAXOSMITHKLINE (IRELAND) LIMITED",
+      "company_abbreviation": "葛兰素史克",
+      "drug_generic_id": "7Mat6WKswHg",
+      "drug_generic_name": "乌美溴铵维兰特罗吸入粉雾剂",
+      "trade_name": "欧乐欣"
+    },
+    {
+      "company_name": "阿斯利康制药有限公司",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7EZncRfZmvM",
+      "drug_generic_name": "盐酸班布特罗片",
+      "trade_name": "帮备"
+    },
+    {
+      "company_name": "广东大冢制药有限公司",
+      "company_abbreviation": "大冢制药",
+      "drug_generic_id": "7EZncOlK4Kz",
+      "drug_generic_name": "盐酸丙卡特罗口服溶液",
+      "trade_name": "美普清"
+    },
+    {
+      "company_name": "浙江大冢制药有限公司",
+      "company_abbreviation": "大冢制药",
+      "drug_generic_id": "7EZncOm1FSE",
+      "drug_generic_name": "盐酸丙卡特罗片",
+      "trade_name": "美普清"
+    },
+    {
+      "company_name": "Novartis Pharma Schweiz AG",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "85ghXvfnvQO",
+      "drug_generic_name": "茚达特罗格隆溴铵吸入粉雾剂",
+      "trade_name": "杰润"
+    },
+    {
+      "company_name": "Boehringer Ingelheim Pharma GmbH & Co. KG",
+      "company_abbreviation": "勃林格殷格翰",
+      "drug_generic_id": "7MaAsCc5A2O",
+      "drug_generic_name": "异丙托溴铵吸入气雾剂",
+      "trade_name": "爱全乐"
+    },
+    {
+      "company_name": "CHIESI FARMACEUTICI S.P.A.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncExrGrK",
+      "drug_generic_name": "猪肺磷脂注射液",
+      "trade_name": "固尔苏"
+    },
+    {
+      "company_name": "NOVARTIS EUROPHARM LIMITED",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7IMRY53OaRo",
+      "drug_generic_name": "注射用奥马珠单抗",
+      "trade_name": "茁乐"
+    }
+  ]
+}

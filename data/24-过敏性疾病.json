@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "company_name": "拜耳医药（上海）有限公司",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZncqU8fnE",
+      "drug_generic_name": "氯雷他定片",
+      "trade_name": "开瑞坦"
+    },
+    {
+      "company_name": "UCB-Pharma SA",
+      "company_abbreviation": "优时比",
+      "drug_generic_id": "7EZncS2OmVE",
+      "drug_generic_name": "盐酸西替利嗪片",
+      "trade_name": "仙特明"
+    },
+    {
+      "company_name": "BAYER AUSTRALIA LTD",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZncqUpQvJ",
+      "drug_generic_name": "氯雷他定糖浆",
+      "trade_name": "开瑞坦"
+    },
+    {
+      "company_name": "ucb pharma ag",
+      "company_abbreviation": "优时比",
+      "drug_generic_id": "7EZncS2wLNz",
+      "drug_generic_name": "盐酸西替利嗪滴剂",
+      "trade_name": "仙特明"
+    },
+    {
+      "company_name": "Organon NV",
+      "company_abbreviation": "默沙东",
+      "drug_generic_id": "7EZnbB4lOWM",
+      "drug_generic_name": "地氯雷他定片",
+      "trade_name": "恩理思"
+    },
+    {
+      "company_name": "Almirall, LLC",
+      "company_abbreviation": "艾美罗",
+      "drug_generic_id": "7EZnbcSKYsN",
+      "drug_generic_name": "依巴斯汀片",
+      "trade_name": "开思亭"
+    },
+    {
+      "company_name": "MITSUBISHI TANABE PHARMA CORPORATION",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndwlhCVi",
+      "drug_generic_name": "苯磺贝他斯汀片",
+      "trade_name": "坦亮"
+    },
+    {
+      "company_name": "赫力昂（苏州）制药有限公司",
+      "company_abbreviation": "赫力昂",
+      "drug_generic_id": "7EZnbEFaWg5",
+      "drug_generic_name": "复方氯雷他定缓释胶囊(Ⅱ)",
+      "trade_name": "惠菲顺"
+    },
+    {
+      "company_name": "Allergopharma GmbH & Co. KG",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndAw9NMQ",
+      "drug_generic_name": "螨变应原注射液",
+      "trade_name": "阿罗格"
+    },
+    {
+      "company_name": "THERABEL HEALTHCARE LIMITED",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbxnhwLH",
+      "drug_generic_name": "咪唑斯汀缓释片",
+      "trade_name": "皿治林"
+    },
+    {
+      "company_name": "ALK-ABELLO A/S",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbZK28bf",
+      "drug_generic_name": "屋尘螨变应原制剂",
+      "trade_name": "安脱达"
+    },
+    {
+      "company_name": "聯邦製葯廠有限公司",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncQq2LF1",
+      "drug_generic_name": "盐酸曲普利啶胶囊",
+      "trade_name": "刻免"
+    },
+    {
+      "company_name": "ucb pharma ag",
+      "company_abbreviation": "优时比",
+      "drug_generic_id": "7EZncQ0Mt3Q",
+      "drug_generic_name": "盐酸左西替利嗪片",
+      "trade_name": "优泽"
+    }
+  ]
+}

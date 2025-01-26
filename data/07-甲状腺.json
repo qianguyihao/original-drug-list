@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "company_name": "默克制药（江苏）有限公司",
+      "company_abbreviation": "默克",
+      "drug_generic_id": "7EZnc0Gvv1R",
+      "drug_generic_name": "左甲状腺素钠片",
+      "trade_name": "优甲乐"
+    },
+    {
+      "company_name": "Merck Healthcare Germany GmbH",
+      "company_abbreviation": "默克",
+      "drug_generic_id": "7EZncHkjoOR",
+      "drug_generic_name": "甲巯咪唑片",
+      "trade_name": "赛治"
+    },
+    {
+      "company_name": "德国海默尼制药有限公司",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnb3KtevY",
+      "drug_generic_name": "丙硫氧嘧啶片",
+      "trade_name": "露玛"
+    },
+    {
+      "company_name": "Future Health Pharma GmbH",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZne4jbFNx",
+      "drug_generic_name": "鲑降钙素鼻用喷雾剂",
+      "trade_name": "密盖息"
+    },
+    {
+      "company_name": "Future Health Pharma GmbH",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZne4ikSpi",
+      "drug_generic_name": "鲑降钙素注射液",
+      "trade_name": "密盖息"
+    },
+    {
+      "company_name": "ABBVIE SRL",
+      "company_abbreviation": "艾伯维",
+      "drug_generic_id": "7EZnc1Kmrgz",
+      "drug_generic_name": "帕立骨化醇注射液",
+      "trade_name": "胜普乐"
+    },
+    {
+      "company_name": "Eli Lilly Nederland BV",
+      "company_abbreviation": "礼来",
+      "drug_generic_id": "7EZncEaazL8",
+      "drug_generic_name": "特立帕肽注射液",
+      "trade_name": "复泰奥"
+    },
+    {
+      "company_name": "KYOWA KIRIN CO., LTD.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncS3FajT",
+      "drug_generic_name": "盐酸西那卡塞片",
+      "trade_name": "盖平"
+    },
+    {
+      "company_name": "AMGEN EUROPE B.V.",
+      "company_abbreviation": "安进",
+      "drug_generic_id": "1yYOe533NQU",
+      "drug_generic_name": "盐酸依特卡肽注射液",
+      "trade_name": "旁必福"
+    },
+    {
+      "company_name": "KYOWA KIRIN CO., LTD.",
+      "company_abbreviation": "",
+      "drug_generic_id": "8amJqXAd5Z9",
+      "drug_generic_name": "依伏卡塞片",
+      "trade_name": "盖优平"
+    },
+    {
+      "company_name": "ASAHI KASEI PHARMA CORPORATION",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbdcCTAr",
+      "drug_generic_name": "依降钙素注射液",
+      "trade_name": "益盖宁"
+    }
+  ]
+}

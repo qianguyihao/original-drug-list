@@ -1,0 +1,109 @@
+{
+  "data": [
+    {
+      "company_name": "A. Menarini GmbH",
+      "company_abbreviation": "美纳里尼",
+      "drug_generic_id": "7EZnbbd9nTm",
+      "drug_generic_name": "他达拉非片",
+      "trade_name": "希爱力"
+    },
+    {
+      "company_name": "GLAXOSMITHKLINE (IRELAND) LIMITED",
+      "company_abbreviation": "葛兰素史克",
+      "drug_generic_id": "7EZnc2J6B9P",
+      "drug_generic_name": "度他雄胺软胶囊",
+      "trade_name": "安福达"
+    },
+    {
+      "company_name": "ORGANON PHARMA (UK) LIMITED",
+      "company_abbreviation": "欧加隆",
+      "drug_generic_id": "7EZndXhbNBF",
+      "drug_generic_name": "非那雄胺片",
+      "trade_name": "保法止"
+    },
+    {
+      "company_name": "ASTELLAS PHARMA EUROPE B.V.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncFPMakz",
+      "drug_generic_name": "琥珀酸索利那新片",
+      "trade_name": "卫喜康"
+    },
+    {
+      "company_name": "KOWA COMPANY,LTD.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndbvtaUp",
+      "drug_generic_name": "聚苯乙烯磺酸钙散剂",
+      "trade_name": "可利美特"
+    },
+    {
+      "company_name": "Viatris Healthcare GmbH",
+      "company_abbreviation": "晖致",
+      "drug_generic_id": "7EZnckhXS37",
+      "drug_generic_name": "枸橼酸氢钾钠颗粒",
+      "trade_name": "友来特"
+    },
+    {
+      "company_name": "晖致制药（大连）有限公司",
+      "company_abbreviation": "晖致",
+      "drug_generic_id": "7EZncknDQEJ",
+      "drug_generic_name": "枸橼酸西地那非片",
+      "trade_name": "万艾可"
+    },
+    {
+      "company_name": "ASTELLAS PHARMA EUROPE B.V.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7IN6augvvr9",
+      "drug_generic_name": "米拉贝隆缓释片",
+      "trade_name": "贝坦利"
+    },
+    {
+      "company_name": "第一三共制药（上海）有限公司",
+      "company_abbreviation": "第一三共",
+      "drug_generic_id": "7EZndIy2eoi",
+      "drug_generic_name": "赛洛多辛胶囊",
+      "trade_name": "优利福"
+    },
+    {
+      "company_name": "SANOFI WINTHROP INDUSTRIE",
+      "company_abbreviation": "赛诺菲",
+      "drug_generic_id": "7EZncSi8HY0",
+      "drug_generic_name": "盐酸阿夫唑嗪缓释片",
+      "trade_name": "桑塔"
+    },
+    {
+      "company_name": "Apogepha Arzneimittel GmbH",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncOnJgF8",
+      "drug_generic_name": "盐酸丙哌维林缓释胶囊",
+      "trade_name": "迈通诺"
+    },
+    {
+      "company_name": "BERLIN-CHEMIE AG",
+      "company_abbreviation": "柏林制药",
+      "drug_generic_id": "7EZncSbBVY9",
+      "drug_generic_name": "盐酸达泊西汀片",
+      "trade_name": "必利劲"
+    },
+    {
+      "company_name": "安斯泰来制药（中国）有限公司",
+      "company_abbreviation": "安斯泰来",
+      "drug_generic_id": "7EZncPob1kS",
+      "drug_generic_name": "盐酸坦索罗辛缓释胶囊",
+      "trade_name": "哈乐"
+    },
+    {
+      "company_name": "上海雅培制药有限公司",
+      "company_abbreviation": "雅培",
+      "drug_generic_id": "7EZncR7bNth",
+      "drug_generic_name": "盐酸特拉唑嗪片",
+      "trade_name": "高特灵"
+    },
+    {
+      "company_name": "DEMO S.A. PHARMACEUTICAL INDUSTRY",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnc0talU4",
+      "drug_generic_name": "左卡尼汀注射液",
+      "trade_name": "卡尔特"
+    }
+  ]
+}

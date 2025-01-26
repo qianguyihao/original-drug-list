@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "company_name": "中美上海施贵宝制药有限公司",
+      "company_abbreviation": "百时美施贵宝",
+      "drug_generic_id": "7EZnc883gWZ",
+      "drug_generic_name": "恩替卡韦片",
+      "trade_name": "博路定"
+    },
+    {
+      "company_name": "Merck Sharp & Dohme BV",
+      "company_abbreviation": "默沙东",
+      "drug_generic_id": "7Mat6XpTXHT",
+      "drug_generic_name": "艾尔巴韦格拉瑞韦片",
+      "trade_name": "择必达"
+    },
+    {
+      "company_name": "歌礼药业（浙江）有限公司",
+      "company_abbreviation": "",
+      "drug_generic_id": "7IMLnlNccgG",
+      "drug_generic_name": "达诺瑞韦钠片",
+      "trade_name": "戈诺卫"
+    },
+    {
+      "company_name": "Abbvie Corporation",
+      "company_abbreviation": "艾伯维",
+      "drug_generic_id": "7vBZEIrOJro",
+      "drug_generic_name": "格卡瑞韦哌仑他韦片",
+      "trade_name": "艾诺全"
+    },
+    {
+      "company_name": "GILEAD SCIENCES IRELAND UC",
+      "company_abbreviation": "吉利德",
+      "drug_generic_id": "7Mat6Xbqq4a",
+      "drug_generic_name": "来迪派韦索磷布韦片",
+      "trade_name": "夏帆宁"
+    },
+    {
+      "company_name": "吉斯凯（苏州）制药有限公司",
+      "company_abbreviation": "葛兰素史克",
+      "drug_generic_id": "7EZncdfGpNe",
+      "drug_generic_name": "拉米夫定片",
+      "trade_name": "贺普丁"
+    },
+    {
+      "company_name": "GILEAD SCIENCES IRELAND UC",
+      "company_abbreviation": "吉利德",
+      "drug_generic_id": "7IMJd8u2yfF",
+      "drug_generic_name": "索磷布韦片",
+      "trade_name": "索华迪"
+    },
+    {
+      "company_name": "GILEAD SCIENCES IRELAND UC",
+      "company_abbreviation": "吉利德",
+      "drug_generic_id": "7Mat6XnULNo",
+      "drug_generic_name": "索磷布韦维帕他韦片",
+      "trade_name": "丙通沙"
+    },
+    {
+      "company_name": "GILEAD SCIENCES IRELAND UC",
+      "company_abbreviation": "吉利德",
+      "drug_generic_id": "7vBZEJ31sDG",
+      "drug_generic_name": "索磷维伏片",
+      "trade_name": "沃士韦"
+    },
+    {
+      "company_name": "晖致制药（大连）有限公司",
+      "company_abbreviation": "晖致",
+      "drug_generic_id": "7EZnciu7UHl",
+      "drug_generic_name": "替比夫定片",
+      "trade_name": "素比伏"
+    },
+    {
+      "company_name": "江苏豪森药业集团有限公司",
+      "company_abbreviation": "豪森药业",
+      "drug_generic_id": "88opKO4oXlK",
+      "drug_generic_name": "艾米替诺福韦片",
+      "trade_name": "恒沐"
+    }
+  ]
+}

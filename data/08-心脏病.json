@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "company_name": "Viatris Specialty LLC",
+      "company_abbreviation": "晖致",
+      "drug_generic_id": "7EZncVSoBX5",
+      "drug_generic_name": "硝酸甘油舌下片",
+      "trade_name": "耐较咛"
+    },
+    {
+      "company_name": "赛诺菲（杭州）制药有限公司",
+      "company_abbreviation": "赛诺菲",
+      "drug_generic_id": "7EZnbBeQYLL",
+      "drug_generic_name": "地高辛片",
+      "trade_name": "可力"
+    },
+    {
+      "company_name": "珠海英联医药有限公司",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnboVi0aP",
+      "drug_generic_name": "单硝酸异山梨酯缓释胶囊(Ⅳ)",
+      "trade_name": "异乐定"
+    },
+    {
+      "company_name": "西藏诺迪康科技发展有限公司",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7EZnboTS0wq",
+      "drug_generic_name": "单硝酸异山梨酯缓释片",
+      "trade_name": "依姆多"
+    },
+    {
+      "company_name": "BRISTOL-MYERS SQUIBB AUSTRALIA PTY LTD",
+      "company_abbreviation": "百时美施贵宝",
+      "drug_generic_id": "8Zvap2OcwAl",
+      "drug_generic_name": "玛伐凯泰胶囊",
+      "trade_name": "迈凡妥"
+    },
+    {
+      "company_name": "CHUGAI PHARMACEUTICAL CO., LTD.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbXhjX7V",
+      "drug_generic_name": "尼可地尔片",
+      "trade_name": "喜格迈"
+    },
+    {
+      "company_name": "BAYER AG",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "8H5Rog38VJ8",
+      "drug_generic_name": "维立西呱片",
+      "trade_name": "唯可同"
+    },
+    {
+      "company_name": "G. Pohl-Boskamp GmbH & Co. KG",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncVQH1aB",
+      "drug_generic_name": "硝酸甘油喷雾剂",
+      "trade_name": "保欣宁"
+    },
+    {
+      "company_name": "Yinglian Health Pharmaceutical GmbH",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncVLRPXe",
+      "drug_generic_name": "硝酸异山梨酯喷雾剂",
+      "trade_name": "异舒吉"
+    },
+    {
+      "company_name": "Yinglian Health Pharmaceutical GmbH",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncVMIDlt",
+      "drug_generic_name": "硝酸异山梨酯注射液",
+      "trade_name": "异舒吉"
+    },
+    {
+      "company_name": "SANOFI WINTHROP INDUSTRIE",
+      "company_abbreviation": "赛诺菲",
+      "drug_generic_id": "7EZncRNLD1n",
+      "drug_generic_name": "盐酸胺碘酮片",
+      "trade_name": "可达龙"
+    },
+    {
+      "company_name": "SANOFI WINTHROP INDUSTRIE",
+      "company_abbreviation": "赛诺菲",
+      "drug_generic_id": "7EZncRNu1Ti",
+      "drug_generic_name": "盐酸胺碘酮注射液",
+      "trade_name": "可达龙"
+    },
+    {
+      "company_name": "河北爱尔海泰制药有限公司",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncPFM9pS",
+      "drug_generic_name": "盐酸奥普力农注射液",
+      "trade_name": "爱尔辛泰"
+    },
+    {
+      "company_name": "Sanofi-Aventis U.S. Llc",
+      "company_abbreviation": "赛诺菲",
+      "drug_generic_id": "7EZncOOpyUI",
+      "drug_generic_name": "盐酸决奈达隆片",
+      "trade_name": "迈达龙"
+    },
+    {
+      "company_name": "ABBOTT LABORATORIES (SINGAPORE ) PRIVATE LIMITED",
+      "company_abbreviation": "雅培",
+      "drug_generic_id": "7EZncQkmN3p",
+      "drug_generic_name": "盐酸普罗帕酮片",
+      "trade_name": "悦复隆"
+    },
+    {
+      "company_name": "施维雅（天津）制药有限公司",
+      "company_abbreviation": "施维雅",
+      "drug_generic_id": "7EZncQqTz3g",
+      "drug_generic_name": "盐酸曲美他嗪缓释片",
+      "trade_name": "万爽力"
+    },
+    {
+      "company_name": "施维雅（天津）制药有限公司",
+      "company_abbreviation": "施维雅",
+      "drug_generic_id": "7EZncQqBXVb",
+      "drug_generic_name": "盐酸曲美他嗪片",
+      "trade_name": "万爽力"
+    },
+    {
+      "company_name": "LES LABORATOIRES SERVIER",
+      "company_abbreviation": "施维雅",
+      "drug_generic_id": "7EZncOyequ7",
+      "drug_generic_name": "盐酸伊伐布雷定片",
+      "trade_name": "可兰特"
+    },
+    {
+      "company_name": "意大利福斯卡玛生化制药公司",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncsDZOUi",
+      "drug_generic_name": "注射用1,6-二磷酸果糖",
+      "trade_name": "爱赛福"
+    },
+    {
+      "company_name": "ADDENDA PHARMACEUTICALS S.R.L.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncuwEXtr",
+      "drug_generic_name": "注射用磷酸肌酸钠",
+      "trade_name": "里尔统"
+    },
+    {
+      "company_name": "CHUGAI PHARMACEUTICAL CO., LTD.",
+      "company_abbreviation": "中外制药",
+      "drug_generic_id": "7EZnctqOPka",
+      "drug_generic_name": "注射用尼可地尔",
+      "trade_name": "喜格迈"
+    },
+    {
+      "company_name": "ORION CORPORATION",
+      "company_abbreviation": "奥立安",
+      "drug_generic_id": "7EZnc0LChnj",
+      "drug_generic_name": "左西孟旦注射液",
+      "trade_name": "欣得适"
+    }
+  ]
+}

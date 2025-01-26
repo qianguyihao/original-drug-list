@@ -1,0 +1,704 @@
+{
+  "data": [
+    {
+      "company_name": "中美天津史克制药有限公司",
+      "company_abbreviation": "中美史克",
+      "drug_generic_id": "7EZndUBZfKJ",
+      "drug_generic_name": "阿苯达唑片",
+      "trade_name": "史克肠虫清"
+    },
+    {
+      "company_name": "ASTRAZENECA UK LIMITED",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7EZndUT1bzz",
+      "drug_generic_name": "阿那曲唑片",
+      "trade_name": "瑞宁得"
+    },
+    {
+      "company_name": "Baxter SA",
+      "company_abbreviation": "百特",
+      "drug_generic_id": "7Mat6WwgAc0",
+      "drug_generic_name": "10%脂肪乳(OO)/5.5%氨基酸(15)/葡萄糖(20%)注射液",
+      "trade_name": "克林玫"
+    },
+    {
+      "company_name": "上海强生制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZncqepddN",
+      "drug_generic_name": "氨酚拉明口服溶液",
+      "trade_name": "泰诺安"
+    },
+    {
+      "company_name": "上海强生制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZncqeGOlS",
+      "drug_generic_name": "氨酚拉明片",
+      "trade_name": "泰诺安"
+    },
+    {
+      "company_name": "SpecGx LLC",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncqinB2V",
+      "drug_generic_name": "氨酚羟考酮片",
+      "trade_name": "泰勒宁"
+    },
+    {
+      "company_name": "Cheplapharm Arzneimittel Gmbh",
+      "company_abbreviation": "罗氏",
+      "drug_generic_id": "7EZnbLPpaae",
+      "drug_generic_name": "奥利司他胶囊",
+      "trade_name": "赛尼可"
+    },
+    {
+      "company_name": "Janssen-Cilag International NV",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7S6xHdxlsiw",
+      "drug_generic_name": "阿帕他胺片",
+      "trade_name": "安森珂"
+    },
+    {
+      "company_name": "Fresenius Kabi Austria Gmbh",
+      "company_abbreviation": "费森尤斯卡比",
+      "drug_generic_id": "7EZnb3GMrOV",
+      "drug_generic_name": "丙氨酰谷氨酰胺注射液",
+      "trade_name": "力太"
+    },
+    {
+      "company_name": "ASTRAZENECA UK LIMITED",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7EZncnWtM3t",
+      "drug_generic_name": "比卡鲁胺片",
+      "trade_name": "康士得"
+    },
+    {
+      "company_name": "EVEREST MEDICINES (SINGAPORE) PTE. LTD.",
+      "company_abbreviation": "",
+      "drug_generic_id": "8WHy2XtnCve",
+      "drug_generic_name": "布地奈德肠溶胶囊",
+      "trade_name": "耐赋康"
+    },
+    {
+      "company_name": "Baxter SA",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndROPWfx",
+      "drug_generic_name": "长链脂肪乳注射液(OO)",
+      "trade_name": "克凌诺"
+    },
+    {
+      "company_name": "Novartis Pharma Schweiz AG",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7EZndNYGtTS",
+      "drug_generic_name": "醋酸奥曲肽注射液",
+      "trade_name": "善宁"
+    },
+    {
+      "company_name": "Janssen-Cilag International NV",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZndOjpcpL",
+      "drug_generic_name": "醋酸阿比特龙片",
+      "trade_name": "泽珂"
+    },
+    {
+      "company_name": "ASTRAZENECA UK LIMITED",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7EZndNZfGa2",
+      "drug_generic_name": "醋酸戈舍瑞林缓释植入剂",
+      "trade_name": "诺雷得"
+    },
+    {
+      "company_name": "Organon NV",
+      "company_abbreviation": "默沙东",
+      "drug_generic_id": "7EZndNTRjKz",
+      "drug_generic_name": "醋酸加尼瑞克注射液",
+      "trade_name": "ORGALUTRAN"
+    },
+    {
+      "company_name": "Ferring AG",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndNVhikU",
+      "drug_generic_name": "醋酸去氨加压素片",
+      "trade_name": "弥凝"
+    },
+    {
+      "company_name": "Ferring AG",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndNUZIgT",
+      "drug_generic_name": "醋酸去氨加压素注射液",
+      "trade_name": "弥柠"
+    },
+    {
+      "company_name": "Ferring AG",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndO25FsQ",
+      "drug_generic_name": "醋酸曲普瑞林注射液",
+      "trade_name": "达必佳"
+    },
+    {
+      "company_name": "BAYER HEALTHCARE PHARMACEUTICALS INC.",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "85ghXlpnwtS",
+      "drug_generic_name": "达罗他胺片",
+      "trade_name": "诺倍戈"
+    },
+    {
+      "company_name": "LIEBEL-FLARSHEIM COMPANY LLC",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncXF6aMx",
+      "drug_generic_name": "碘比醇注射液",
+      "trade_name": "三代显"
+    },
+    {
+      "company_name": "LIEBEL-FLARSHEIM COMPANY LLC",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncXzZor5",
+      "drug_generic_name": "碘佛醇注射液",
+      "trade_name": "安射力"
+    },
+    {
+      "company_name": "GE Healthcare AS",
+      "company_abbreviation": "",
+      "drug_generic_id": "7DHR07VhBm4",
+      "drug_generic_name": "碘海醇注射液",
+      "trade_name": "欧乃派克"
+    },
+    {
+      "company_name": "LIEBEL-FLARSHEIM COMPANY LLC",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncXBpo5u",
+      "drug_generic_name": "碘化油注射液",
+      "trade_name": "Lipiodol Ultra Fluide"
+    },
+    {
+      "company_name": "GE Healthcare AS",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncXAyAHf",
+      "drug_generic_name": "碘克沙醇注射液",
+      "trade_name": "威视派克"
+    },
+    {
+      "company_name": "Bracco Imaging Italia Srl",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncXIMXtA",
+      "drug_generic_name": "碘美普尔注射液",
+      "trade_name": "典迈伦"
+    },
+    {
+      "company_name": "Bracco Imaging Spa",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncXEfnoi",
+      "drug_generic_name": "碘帕醇注射液",
+      "trade_name": "典比乐"
+    },
+    {
+      "company_name": "Bayer Vital GmbH",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZncXEOzEs",
+      "drug_generic_name": "碘普罗胺注射液",
+      "trade_name": "优维显"
+    },
+    {
+      "company_name": "Novartis Pharma Schweiz AG",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7EZnbB1eevT",
+      "drug_generic_name": "地拉罗司分散片",
+      "trade_name": "恩瑞格"
+    },
+    {
+      "company_name": "Laboratoire Aguettant",
+      "company_abbreviation": "",
+      "drug_generic_id": "7Mat6X1cRnB",
+      "drug_generic_name": "多种微量元素注射液",
+      "trade_name": "来维"
+    },
+    {
+      "company_name": "费森尤斯卡比华瑞制药有限公司",
+      "company_abbreviation": "费卡华瑞",
+      "drug_generic_id": "7EZnbJ7VPgE",
+      "drug_generic_name": "多种微量元素注射液(Ⅱ)",
+      "trade_name": "安达美"
+    },
+    {
+      "company_name": "ASTELLAS PHARMA EUROPE B.V.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7S6z1pGpCM6",
+      "drug_generic_name": "恩扎卢胺软胶囊",
+      "trade_name": "安可坦"
+    },
+    {
+      "company_name": "Fresenius Kabi Austria Gmbh",
+      "company_abbreviation": "费森尤斯卡比",
+      "drug_generic_id": "7EZnbEgLr39",
+      "drug_generic_name": "复方氨基酸(15)双肽(2)注射液",
+      "trade_name": "谷安光"
+    },
+    {
+      "company_name": "费森尤斯卡比华瑞制药有限公司",
+      "company_abbreviation": "费卡华瑞",
+      "drug_generic_id": "7EZnbEn0BUV",
+      "drug_generic_name": "复方氨基酸注射液(18AA-Ⅰ)",
+      "trade_name": "凡命"
+    },
+    {
+      "company_name": "费森尤斯卡比华瑞制药有限公司",
+      "company_abbreviation": "费卡华瑞",
+      "drug_generic_id": "7EZnbEnid30",
+      "drug_generic_name": "复方氨基酸注射液(18AA-Ⅱ)",
+      "trade_name": "乐凡命"
+    },
+    {
+      "company_name": "广州绿十字制药股份有限公司",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbEmJ0MQ",
+      "drug_generic_name": "复方氨基酸注射液(18AA-Ⅶ)",
+      "trade_name": "绿支安"
+    },
+    {
+      "company_name": "Organon GmbH",
+      "company_abbreviation": "欧加隆",
+      "drug_generic_id": "7EZnbCTkaOS",
+      "drug_generic_name": "复方倍他米松注射液",
+      "trade_name": "得宝松"
+    },
+    {
+      "company_name": "STADA Consumer Health Deutschland GmbH",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbFaGpJ2",
+      "drug_generic_name": "复方甘菊利多卡因凝胶",
+      "trade_name": "甘美达"
+    },
+    {
+      "company_name": "西安杨森制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZnbGzg4tD",
+      "drug_generic_name": "复方角菜酸酯栓",
+      "trade_name": "太宁"
+    },
+    {
+      "company_name": "卫材（辽宁）制药有限公司",
+      "company_abbreviation": "卫材",
+      "drug_generic_id": "7EZnbG6Sbrz",
+      "drug_generic_name": "复方脑蛋白水解物片",
+      "trade_name": "普利安"
+    },
+    {
+      "company_name": "北京费森尤斯卡比医药有限公司",
+      "company_abbreviation": "费森尤斯卡比",
+      "drug_generic_id": "7EZnbCw348g",
+      "drug_generic_name": "复方α-酮酸片",
+      "trade_name": "开同"
+    },
+    {
+      "company_name": "ASTRAZENECA AB",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7EZncp2BvkP",
+      "drug_generic_name": "氟维司群注射液",
+      "trade_name": "芙仕得"
+    },
+    {
+      "company_name": "南光化學製藥股份有限公司",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncG8e5NO",
+      "drug_generic_name": "甘油果糖氯化钠注射液",
+      "trade_name": "固利压"
+    },
+    {
+      "company_name": "费森尤斯卡比华瑞制药有限公司",
+      "company_abbreviation": "费卡华瑞",
+      "drug_generic_id": "7EZncGauSQs",
+      "drug_generic_name": "甘油磷酸钠注射液",
+      "trade_name": "格利福斯"
+    },
+    {
+      "company_name": "Bracco Imaging Spa",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndQ6omni",
+      "drug_generic_name": "钆贝葡胺注射液",
+      "trade_name": "莫迪司"
+    },
+    {
+      "company_name": "Bayer Vital GmbH",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZndQ4YmIT",
+      "drug_generic_name": "钆布醇注射液",
+      "trade_name": "加乐显"
+    },
+    {
+      "company_name": "Bayer, Inc.",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZndQ4pasJ",
+      "drug_generic_name": "钆喷酸葡胺注射液",
+      "trade_name": "马根维显"
+    },
+    {
+      "company_name": "Bayer Vital GmbH",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZndQ4GLAO",
+      "drug_generic_name": "钆塞酸二钠注射液",
+      "trade_name": "普美显"
+    },
+    {
+      "company_name": "GE Healthcare AS",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndQ3PYcz",
+      "drug_generic_name": "钆双胺注射液",
+      "trade_name": "欧乃影"
+    },
+    {
+      "company_name": "Bracco Imaging Spa",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndQ66Lfd",
+      "drug_generic_name": "钆特醇注射液",
+      "trade_name": "普海司"
+    },
+    {
+      "company_name": "LIEBEL-FLARSHEIM COMPANY LLC",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndQ5Pa78",
+      "drug_generic_name": "钆特酸葡胺注射液",
+      "trade_name": "多它灵"
+    },
+    {
+      "company_name": "ASTRAZENECA AB",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7vBZEIyUI7u",
+      "drug_generic_name": "环硅酸锆钠散",
+      "trade_name": "利倍卓"
+    },
+    {
+      "company_name": "西安杨森制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZncIuYIbv",
+      "drug_generic_name": "甲苯咪唑片",
+      "trade_name": "安乐士"
+    },
+    {
+      "company_name": "Fresenius Kabi AB",
+      "company_abbreviation": "费森尤斯卡比",
+      "drug_generic_id": "7EZnd5jpTzi",
+      "drug_generic_name": "结构脂肪乳注射液(C6~24)",
+      "trade_name": "力文"
+    },
+    {
+      "company_name": "Baxter Holding BV",
+      "company_abbreviation": "百特医疗",
+      "drug_generic_id": "87Hx51vNKDP",
+      "drug_generic_name": "枸橼酸钠血滤置换液",
+      "trade_name": "瑞吉赛"
+    },
+    {
+      "company_name": "ORION CORPORATION",
+      "company_abbreviation": "奥立安",
+      "drug_generic_id": "7EZnckhoFMX",
+      "drug_generic_name": "枸橼酸托瑞米芬片",
+      "trade_name": "法乐通"
+    },
+    {
+      "company_name": "Novartis Pharma Schweiz AG",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7EZncjvZF1u",
+      "drug_generic_name": "来曲唑片",
+      "trade_name": "弗隆"
+    },
+    {
+      "company_name": "sanofi-aventis ireland ltd. t/a sanofi",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncWGVd9r",
+      "drug_generic_name": "硫酸羟氯喹片",
+      "trade_name": "Plaquenil"
+    },
+    {
+      "company_name": "Baxter Deutschland GmbH",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnd8rhVAn",
+      "drug_generic_name": "美司钠注射液",
+      "trade_name": "UROMITEXAN"
+    },
+    {
+      "company_name": "比奥罗历加欧洲股份有限公司",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncn6fA4D",
+      "drug_generic_name": "欧龙马滴剂",
+      "trade_name": "仙璐贝"
+    },
+    {
+      "company_name": "Smartpractice Denmark ApS",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncMj8YCB",
+      "drug_generic_name": "皮炎诊断贴剂(24)",
+      "trade_name": "曲泰斯"
+    },
+    {
+      "company_name": "北京费森尤斯卡比医药有限公司",
+      "company_abbreviation": "费森尤斯卡比",
+      "drug_generic_id": "7EZnd8RGCHS",
+      "drug_generic_name": "羟乙基淀粉130/0.4电解质注射液",
+      "trade_name": "万衡"
+    },
+    {
+      "company_name": "CHIESI FARMACEUTICI S.P.A.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbqSMjXl",
+      "drug_generic_name": "去铁酮片",
+      "trade_name": "奥贝安可"
+    },
+    {
+      "company_name": "Novo Nordisk A/S",
+      "company_abbreviation": "诺和诺德",
+      "drug_generic_id": "8C3cLueuVeS",
+      "drug_generic_name": "人生长激素注射液",
+      "trade_name": "诺泽"
+    },
+    {
+      "company_name": "Csl Behring Gmbh",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbb4V171",
+      "drug_generic_name": "人血白蛋白",
+      "trade_name": "贝林"
+    },
+    {
+      "company_name": "Merck Sharp & Dohme BV",
+      "company_abbreviation": "默沙东",
+      "drug_generic_id": "7EZndu1EC2y",
+      "drug_generic_name": "舒更葡糖钠注射液",
+      "trade_name": "布瑞亭"
+    },
+    {
+      "company_name": "TAKEDA PHARMACEUTICALS INTERNATIONAL AG IRELAND BRANCH",
+      "company_abbreviation": "武田制药",
+      "drug_generic_id": "7EZncY1wu4U",
+      "drug_generic_name": "碳酸镧咀嚼片",
+      "trade_name": "福斯利诺"
+    },
+    {
+      "company_name": "GENZYME EUROPE B.V.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncXUI6WY",
+      "drug_generic_name": "碳酸司维拉姆片",
+      "trade_name": "诺维乐"
+    },
+    {
+      "company_name": "OM Pharma SA",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnd4L4qNx",
+      "drug_generic_name": "细菌溶解产物胶囊",
+      "trade_name": "泛福舒"
+    },
+    {
+      "company_name": "黄氏制药股份有限公司",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndG9iq62",
+      "drug_generic_name": "西吡氯铵含片",
+      "trade_name": "开刻立"
+    },
+    {
+      "company_name": "TORAY INDUSTRIES, INC.",
+      "company_abbreviation": "东丽株式会社",
+      "drug_generic_id": "8TQJR9N4gJO",
+      "drug_generic_name": "盐酸纳呋拉啡口崩片",
+      "trade_name": "丽美治"
+    },
+    {
+      "company_name": "锦州奥鸿药业有限责任公司",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncQa9emv",
+      "drug_generic_name": "盐酸戊乙奎醚注射液",
+      "trade_name": "长托宁"
+    },
+    {
+      "company_name": "Dr. Willmar Schwabe GmbH & Co. KG",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndQKpNKF",
+      "drug_generic_name": "银杏叶提取物滴剂",
+      "trade_name": "金纳多"
+    },
+    {
+      "company_name": "Dr. Willmar Schwabe GmbH & Co. KG",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndQKHoSK",
+      "drug_generic_name": "银杏叶提取物片",
+      "trade_name": "金纳多"
+    },
+    {
+      "company_name": "中豪国际有限公司",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndQK8cCA",
+      "drug_generic_name": "银杏叶提取物注射液",
+      "trade_name": "金纳多"
+    },
+    {
+      "company_name": "Boehringer Ingelheim International GmbH",
+      "company_abbreviation": "勃林格殷格翰",
+      "drug_generic_id": "7Mat6WPQUaG",
+      "drug_generic_name": "依达赛珠单抗注射液",
+      "trade_name": "泰毕安"
+    },
+    {
+      "company_name": "Pfizer Italia S.R.L.",
+      "company_abbreviation": "辉瑞",
+      "drug_generic_id": "7EZnbd5Owsv",
+      "drug_generic_name": "依西美坦片",
+      "trade_name": "阿诺新"
+    },
+    {
+      "company_name": "Vifor Fresenius Medical Care Renal Pharma Ltd.",
+      "company_abbreviation": "费森尤斯",
+      "drug_generic_id": "1xDgoVLImOG",
+      "drug_generic_name": "蔗糖羟基氧化铁咀嚼片",
+      "trade_name": "维他利匹特"
+    },
+    {
+      "company_name": "baxter s.a.s",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndmFvdAX",
+      "drug_generic_name": "脂肪乳(10%)/氨基酸(15)/葡萄糖(20%)注射液",
+      "trade_name": "克林维"
+    },
+    {
+      "company_name": "Fresenius Kabi AB",
+      "company_abbreviation": "费森尤斯卡比",
+      "drug_generic_id": "7EZndmG4pR7",
+      "drug_generic_name": "脂肪乳氨基酸(17)葡萄糖(11%)注射液",
+      "trade_name": "卡文"
+    },
+    {
+      "company_name": "Fresenius Kabi AB",
+      "company_abbreviation": "费森尤斯卡比",
+      "drug_generic_id": "7MaAsCmAJRy",
+      "drug_generic_name": "脂肪乳氨基酸(17)葡萄糖(19%)注射液",
+      "trade_name": "卡全"
+    },
+    {
+      "company_name": "费森尤斯卡比华瑞制药有限公司",
+      "company_abbreviation": "费卡华瑞",
+      "drug_generic_id": "7EZndmHM0DB",
+      "drug_generic_name": "脂肪乳注射液(C14~24)",
+      "trade_name": "英脱利匹特"
+    },
+    {
+      "company_name": "费森尤斯卡比华瑞制药有限公司",
+      "company_abbreviation": "费卡华瑞",
+      "drug_generic_id": "7EZnb4aRVDt",
+      "drug_generic_name": "中/长链脂肪乳注射液(C6~24)",
+      "trade_name": "力能"
+    },
+    {
+      "company_name": "B. Braun Melsungen AG",
+      "company_abbreviation": "贝朗",
+      "drug_generic_id": "7EZnb4cR7y2",
+      "drug_generic_name": "中/长链脂肪乳注射液(C8~24Ve)",
+      "trade_name": "力保肪宁"
+    },
+    {
+      "company_name": "Merck Europe BV",
+      "company_abbreviation": "默克",
+      "drug_generic_id": "7EZndONuGej",
+      "drug_generic_name": "重组人绒促性素注射液",
+      "trade_name": "艾泽"
+    },
+    {
+      "company_name": "AbbVie Limited",
+      "company_abbreviation": "艾伯维",
+      "drug_generic_id": "7EZncsEz1as",
+      "drug_generic_name": "注射用A型肉毒毒素",
+      "trade_name": "保妥适"
+    },
+    {
+      "company_name": "Novartis Pharma Schweiz AG",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7EZncuZC2LF",
+      "drug_generic_name": "注射用醋酸奥曲肽微球",
+      "trade_name": "善龙"
+    },
+    {
+      "company_name": "TAKEDA PHARMACEUTICAL COMPANY LIMITED",
+      "company_abbreviation": "武田制药",
+      "drug_generic_id": "7EZncuXUrZb",
+      "drug_generic_name": "注射用醋酸亮丙瑞林微球",
+      "trade_name": "抑那通"
+    },
+    {
+      "company_name": "IPSEN PHARMA",
+      "company_abbreviation": "益普生",
+      "drug_generic_id": "7EZncuZTDTK",
+      "drug_generic_name": "注射用醋酸曲普瑞林",
+      "trade_name": "达菲林"
+    },
+    {
+      "company_name": "Merck (Schweiz) AG",
+      "company_abbreviation": "默克",
+      "drug_generic_id": "7EZncv0bf1P",
+      "drug_generic_name": "注射用醋酸西曲瑞克",
+      "trade_name": "思则凯"
+    },
+    {
+      "company_name": "Novartis Pharma Schweiz AG",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7EZnctWkiN7",
+      "drug_generic_name": "注射用甲磺酸去铁胺",
+      "trade_name": "得斯芬"
+    },
+    {
+      "company_name": "Bracco International B.V.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncsWrKnx",
+      "drug_generic_name": "注射用六氟化硫微泡",
+      "trade_name": "声诺维"
+    },
+    {
+      "company_name": "GE Healthcare AS",
+      "company_abbreviation": "",
+      "drug_generic_id": "7Mat6XfoNTb",
+      "drug_generic_name": "注射用全氟丁烷微球",
+      "trade_name": "示卓安"
+    },
+    {
+      "company_name": "Ferring GmbH",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnctAbACP",
+      "drug_generic_name": "注射用曲普瑞林",
+      "trade_name": "达必佳"
+    },
+    {
+      "company_name": "Novo Nordisk A/S",
+      "company_abbreviation": "诺和诺德",
+      "drug_generic_id": "7EZnctSDw64",
+      "drug_generic_name": "注射用人高血糖素",
+      "trade_name": "诺和生"
+    },
+    {
+      "company_name": "hasten biopharmaceutic (switzerland) ag",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnctSV7e9",
+      "drug_generic_name": "注射用生长抑素",
+      "trade_name": "思他宁"
+    },
+    {
+      "company_name": "Ferring GmbH",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnctQmJ3q",
+      "drug_generic_name": "注射用特利加压素",
+      "trade_name": "可利新"
+    },
+    {
+      "company_name": "G1 Therapeutics",
+      "company_abbreviation": "",
+      "drug_generic_id": "8I1ncS9Cxwm",
+      "drug_generic_name": "注射用盐酸曲拉西利",
+      "trade_name": "科赛拉"
+    },
+    {
+      "company_name": "LG Chem, Ltd.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndOKWi3A",
+      "drug_generic_name": "注射用重组人生长激素",
+      "trade_name": "尤得盼"
+    },
+    {
+      "company_name": "Fresenius Kabi Austria Gmbh",
+      "company_abbreviation": "费森尤斯卡比",
+      "drug_generic_id": "7EZnb0pPfDg",
+      "drug_generic_name": "ω-3鱼油脂肪乳注射液",
+      "trade_name": "尤文"
+    }
+  ]
+}

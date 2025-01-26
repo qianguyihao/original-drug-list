@@ -1,0 +1,228 @@
+{
+  "data": [
+    {
+      "company_name": "赫力昂（苏州）制药有限公司",
+      "company_abbreviation": "赫力昂",
+      "drug_generic_id": "1tJNVRVA76k",
+      "drug_generic_name": "碳酸钙D3片(Ⅰ)",
+      "trade_name": "钙尔奇"
+    },
+    {
+      "company_name": "Cheplapharm Arzneimittel Gmbh",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndUhy8mV",
+      "drug_generic_name": "阿法骨化醇滴剂",
+      "trade_name": "依安凡"
+    },
+    {
+      "company_name": "TEIJIN PHARMA LIMITED",
+      "company_abbreviation": "帝人",
+      "drug_generic_id": "7EZndUhPJv0",
+      "drug_generic_name": "阿法骨化醇片",
+      "trade_name": "萌格旺"
+    },
+    {
+      "company_name": "Cheplapharm Arzneimittel Gmbh",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndUioVLa",
+      "drug_generic_name": "阿法骨化醇软胶囊",
+      "trade_name": "依安凡"
+    },
+    {
+      "company_name": "Abbott Laboratories B.V.",
+      "company_abbreviation": "雅培",
+      "drug_generic_id": "7MaAsCmAJRx",
+      "drug_generic_name": "肠内营养粉剂(TP)",
+      "trade_name": "安素"
+    },
+    {
+      "company_name": "Abbott Laboratories B.V.",
+      "company_abbreviation": "雅培",
+      "drug_generic_id": "7EZnde4qwPv",
+      "drug_generic_name": "肠内营养混悬液(TPF-D)",
+      "trade_name": "伊力佳"
+    },
+    {
+      "company_name": "Abbott Laboratories B.V.",
+      "company_abbreviation": "雅培",
+      "drug_generic_id": "7EZnde4ZJ5F",
+      "drug_generic_name": "肠内营养混悬液(TPF-FOS)",
+      "trade_name": "佳维体"
+    },
+    {
+      "company_name": "费森尤斯卡比华瑞制药有限公司",
+      "company_abbreviation": "费卡华瑞",
+      "drug_generic_id": "7EZnde11lgx",
+      "drug_generic_name": "肠内营养乳剂(TP)",
+      "trade_name": "瑞素"
+    },
+    {
+      "company_name": "费森尤斯卡比华瑞制药有限公司",
+      "company_abbreviation": "费卡华瑞",
+      "drug_generic_id": "7EZnde1iWoC",
+      "drug_generic_name": "肠内营养乳剂(TP-HE)",
+      "trade_name": "瑞高"
+    },
+    {
+      "company_name": "费森尤斯卡比华瑞制药有限公司",
+      "company_abbreviation": "费卡华瑞",
+      "drug_generic_id": "7EZnde1AxwH",
+      "drug_generic_name": "肠内营养乳剂(TPF)",
+      "trade_name": "瑞先"
+    },
+    {
+      "company_name": "费森尤斯卡比华瑞制药有限公司",
+      "company_abbreviation": "费卡华瑞",
+      "drug_generic_id": "7MaAsCmj8Js",
+      "drug_generic_name": "肠内营养乳剂(TPF-D)",
+      "trade_name": "瑞代"
+    },
+    {
+      "company_name": "费森尤斯卡比华瑞制药有限公司",
+      "company_abbreviation": "费卡华瑞",
+      "drug_generic_id": "7EZnde1S8EM",
+      "drug_generic_name": "肠内营养乳剂(TPF-T)",
+      "trade_name": "瑞能"
+    },
+    {
+      "company_name": "milupa gmbh",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncVenazI",
+      "drug_generic_name": "短肽型肠内营养剂",
+      "trade_name": "百普素"
+    },
+    {
+      "company_name": "中美上海施贵宝制药有限公司",
+      "company_abbreviation": "百时美施贵宝",
+      "drug_generic_id": "7EZnbJf1NwF",
+      "drug_generic_name": "多维元素片(26)",
+      "trade_name": "金施尔康"
+    },
+    {
+      "company_name": "赫力昂（苏州）制药有限公司",
+      "company_abbreviation": "赫力昂",
+      "drug_generic_id": "7EZnbJfjoEK",
+      "drug_generic_name": "多维元素片(29)",
+      "trade_name": "善存"
+    },
+    {
+      "company_name": "赫力昂（苏州）制药有限公司",
+      "company_abbreviation": "赫力昂",
+      "drug_generic_id": "7EZnbJdBNSg",
+      "drug_generic_name": "多维元素片(29-Ⅱ)",
+      "trade_name": "惠氏"
+    },
+    {
+      "company_name": "bayer s.a.",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZnbCuD4tR",
+      "drug_generic_name": "复合维生素片",
+      "trade_name": "爱乐维"
+    },
+    {
+      "company_name": "ATNAHS PHARMA UK LIMITED",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZne27N0D4",
+      "drug_generic_name": "骨化三醇胶丸",
+      "trade_name": "罗盖全"
+    },
+    {
+      "company_name": "台灣海默尼藥業有限公司",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZne284BL9",
+      "drug_generic_name": "骨化三醇软胶囊",
+      "trade_name": "海尼威"
+    },
+    {
+      "company_name": "Gedeon Richter PLC. , Dorog",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndRWdvDD",
+      "drug_generic_name": "门冬氨酸钾镁片",
+      "trade_name": "潘南金"
+    },
+    {
+      "company_name": "Gedeon Richter PLC. , Dorog",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndRVVUvy",
+      "drug_generic_name": "门冬氨酸钾镁注射液",
+      "trade_name": "潘南金"
+    },
+    {
+      "company_name": "赫力昂（苏州）制药有限公司",
+      "company_abbreviation": "赫力昂",
+      "drug_generic_id": "7EZncXWpHJs",
+      "drug_generic_name": "碳酸钙D3咀嚼片(Ⅱ)",
+      "trade_name": "钙尔奇"
+    },
+    {
+      "company_name": "A&G Pharmaceutical, Inc.",
+      "company_abbreviation": "",
+      "drug_generic_id": "8XmY1p4XL9k",
+      "drug_generic_name": "碳酸钙D3咀嚼片(Ⅲ)",
+      "trade_name": "迪巧"
+    },
+    {
+      "company_name": "赫力昂（苏州）制药有限公司",
+      "company_abbreviation": "赫力昂",
+      "drug_generic_id": "7EZncXZOTiq",
+      "drug_generic_name": "碳酸钙维D3元素片(4)",
+      "trade_name": "金钙尔奇"
+    },
+    {
+      "company_name": "拜耳医药保健有限公司",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZnd6X2iea",
+      "drug_generic_name": "维生素C泡腾片",
+      "trade_name": "力度伸"
+    },
+    {
+      "company_name": "中美上海施贵宝制药有限公司",
+      "company_abbreviation": "百时美施贵宝",
+      "drug_generic_id": "82QAcPGd0RC",
+      "drug_generic_name": "小儿多维生素咀嚼片(10)",
+      "trade_name": "小施尔康"
+    },
+    {
+      "company_name": "赫力昂（苏州）制药有限公司",
+      "company_abbreviation": "赫力昂",
+      "drug_generic_id": "7EZnbSpAlAc",
+      "drug_generic_name": "小儿善存片",
+      "trade_name": "惠氏"
+    },
+    {
+      "company_name": "milupa gmbh",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncfdskHP",
+      "drug_generic_name": "整蛋白型肠内营养剂(粉剂)",
+      "trade_name": "能全素"
+    },
+    {
+      "company_name": "费森尤斯卡比华瑞制药有限公司",
+      "company_abbreviation": "费卡华瑞",
+      "drug_generic_id": "7EZndmEmP4D",
+      "drug_generic_name": "脂溶性维生素注射液(Ⅰ)",
+      "trade_name": "维他利匹特"
+    },
+    {
+      "company_name": "费森尤斯卡比华瑞制药有限公司",
+      "company_abbreviation": "费卡华瑞",
+      "drug_generic_id": "7EZndmEEqcI",
+      "drug_generic_name": "脂溶性维生素注射液(Ⅱ)",
+      "trade_name": "维他利匹特"
+    },
+    {
+      "company_name": "Baxter SA",
+      "company_abbreviation": "",
+      "drug_generic_id": "7MaAsCg3XRT",
+      "drug_generic_name": "注射用多种维生素(12)",
+      "trade_name": "施尼维他"
+    },
+    {
+      "company_name": "费森尤斯卡比华瑞制药有限公司",
+      "company_abbreviation": "费卡华瑞",
+      "drug_generic_id": "7EZnctMolei",
+      "drug_generic_name": "注射用水溶性维生素",
+      "trade_name": "水乐维他"
+    }
+  ]
+}

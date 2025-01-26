@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "company_name": "IPSEN PHARMA",
+      "company_abbreviation": "益普生",
+      "drug_generic_id": "8f3kqEGZkh4",
+      "drug_generic_name": "奥德昔巴特胶囊",
+      "trade_name": "蓓尔唯"
+    },
+    {
+      "company_name": "赛诺菲（北京）制药有限公司",
+      "company_abbreviation": "赛诺菲",
+      "drug_generic_id": "7EZnbJ4OePL",
+      "drug_generic_name": "多烯磷脂酰胆碱胶囊",
+      "trade_name": "易善复"
+    },
+    {
+      "company_name": "Minophagen Pharmaceutical Co. Ltd.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbF9gq4D",
+      "drug_generic_name": "复方甘草酸苷片",
+      "trade_name": "美能"
+    },
+    {
+      "company_name": "MINOPHAGEN PHARMACEUTICAL CO., LTD.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbF8YOWy",
+      "drug_generic_name": "复方甘草酸苷注射液",
+      "trade_name": "美能"
+    },
+    {
+      "company_name": "Mirum Pharmaceuticals",
+      "company_abbreviation": "",
+      "drug_generic_id": "8TQJHVnl5nV",
+      "drug_generic_name": "氯马昔巴特口服溶液",
+      "trade_name": "迈芮倍"
+    },
+    {
+      "company_name": "MERZ PHARMACEUTICALS GMBH",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndRXDvi2",
+      "drug_generic_name": "门冬氨酸鸟氨酸注射液",
+      "trade_name": "雅博司"
+    },
+    {
+      "company_name": "BRUSCHETTINI SRL",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncDu9Wtc",
+      "drug_generic_name": "牛磺熊去氧胆酸胶囊",
+      "trade_name": "滔罗特"
+    },
+    {
+      "company_name": "MEDA Pharma GmbH & Co. KG",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncrrCULa",
+      "drug_generic_name": "水飞蓟素胶囊",
+      "trade_name": "利加隆"
+    },
+    {
+      "company_name": "DOKTOR FALK FARMA GMBKH, PREDSTAVITELSTVO",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncCH3kVf",
+      "drug_generic_name": "熊去氧胆酸胶囊",
+      "trade_name": "优思弗"
+    },
+    {
+      "company_name": "BIOMEDICA FOSCAMA INDUSTRIA CHIMICO-FARMACEUTICA SPA",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncuVDEWx",
+      "drug_generic_name": "注射用还原型谷胱甘肽",
+      "trade_name": "泰特"
+    }
+  ]
+}

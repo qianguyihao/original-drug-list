@@ -1,0 +1,109 @@
+{
+  "data": [
+    {
+      "company_name": "Ferring AG",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndOj7BhG",
+      "drug_generic_name": "醋酸阿托西班注射液",
+      "trade_name": "依保"
+    },
+    {
+      "company_name": "FERRING PHARMACEUTICALS LTD.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbBc0ZsX",
+      "drug_generic_name": "地诺前列酮栓",
+      "trade_name": "欣普贝生"
+    },
+    {
+      "company_name": "Bridging Pharma GmbH",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncIkL9uB",
+      "drug_generic_name": "甲磺酸溴隐亭片",
+      "trade_name": "Parlodel"
+    },
+    {
+      "company_name": "卫材（辽宁）制药有限公司",
+      "company_abbreviation": "卫材",
+      "drug_generic_id": "7EZncI0TemX",
+      "drug_generic_name": "甲硝唑阴道泡腾片",
+      "trade_name": "贝尔严清"
+    },
+    {
+      "company_name": "Takeda GmbH",
+      "company_abbreviation": "武田制药",
+      "drug_generic_id": "7EZndbq4NqS",
+      "drug_generic_name": "聚甲酚磺醛溶液",
+      "trade_name": "爱宝疗"
+    },
+    {
+      "company_name": "Bayer Vital GmbH",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZnbgNs0TK",
+      "drug_generic_name": "克霉唑阴道片",
+      "trade_name": "凯妮汀"
+    },
+    {
+      "company_name": "PFIZER LIMITED",
+      "company_abbreviation": "辉瑞",
+      "drug_generic_id": "7EZnd0W3mYc",
+      "drug_generic_name": "米索前列醇片",
+      "trade_name": "喜克馈"
+    },
+    {
+      "company_name": "辉瑞",
+      "company_abbreviation": "辉瑞",
+      "drug_generic_id": "7EZnbphIjtc",
+      "drug_generic_name": "卡前列素氨丁三醇注射液",
+      "trade_name": "欣母沛"
+    },
+    {
+      "company_name": "POLICHEM SRL",
+      "company_abbreviation": "",
+      "drug_generic_id": "7MaAsCkT956",
+      "drug_generic_name": "硝呋太尔制霉菌素阴道软胶囊",
+      "trade_name": "麦咪康帕"
+    },
+    {
+      "company_name": "西安杨森制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZncVHTs86",
+      "drug_generic_name": "硝酸咪康唑栓",
+      "trade_name": "达克宁"
+    },
+    {
+      "company_name": "Janssen-Cilag NV",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZncVJjrMv",
+      "drug_generic_name": "硝酸咪康唑阴道软胶囊",
+      "trade_name": "达克宁"
+    },
+    {
+      "company_name": "澳美製藥廠有限公司",
+      "company_abbreviation": "澳美制药",
+      "drug_generic_id": "7EZncVOqe7X",
+      "drug_generic_name": "硝酸异康唑阴道片",
+      "trade_name": "澳可修"
+    },
+    {
+      "company_name": "信東生技股份有限公司",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncOROKtG",
+      "drug_generic_name": "盐酸利托君片",
+      "trade_name": "安宝"
+    },
+    {
+      "company_name": "信東生技股份有限公司",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncORx9lB",
+      "drug_generic_name": "盐酸利托君注射液",
+      "trade_name": "安宝"
+    },
+    {
+      "company_name": "BAYER YAKUHIN, LTD.",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZnc0DnUAY",
+      "drug_generic_name": "左炔诺孕酮宫内释放系统",
+      "trade_name": "曼月乐"
+    }
+  ]
+}

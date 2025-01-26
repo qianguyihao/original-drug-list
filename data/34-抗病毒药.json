@@ -1,0 +1,347 @@
+{
+  "data": [
+    {
+      "company_name": "Roche Pharma (Schweiz) AG",
+      "company_abbreviation": "罗氏",
+      "drug_generic_id": "7EZncYe0POs",
+      "drug_generic_name": "磷酸奥司他韦胶囊",
+      "trade_name": "达菲"
+    },
+    {
+      "company_name": "Roche Pharma (Schweiz) AG",
+      "company_abbreviation": "罗氏",
+      "drug_generic_id": "86FDXZcQq56",
+      "drug_generic_name": "玛巴洛沙韦片",
+      "trade_name": "速福达"
+    },
+    {
+      "company_name": "中美上海施贵宝制药有限公司",
+      "company_abbreviation": "百时美施贵宝",
+      "drug_generic_id": "7EZnc883gWZ",
+      "drug_generic_name": "恩替卡韦片",
+      "trade_name": "博路定"
+    },
+    {
+      "company_name": "Roche Pharma (Schweiz) AG",
+      "company_abbreviation": "罗氏",
+      "drug_generic_id": "8XHADxdjvYi",
+      "drug_generic_name": "玛巴洛沙韦干混悬剂",
+      "trade_name": "速福达"
+    },
+    {
+      "company_name": "Merck Sharp & Dohme BV",
+      "company_abbreviation": "默沙东",
+      "drug_generic_id": "7Mat6XpTXHT",
+      "drug_generic_name": "艾尔巴韦格拉瑞韦片",
+      "trade_name": "择必达"
+    },
+    {
+      "company_name": "GILEAD SCIENCES IRELAND UC",
+      "company_abbreviation": "吉利德",
+      "drug_generic_id": "7Mat6XrT9Co",
+      "drug_generic_name": "艾考恩丙替片",
+      "trade_name": "捷扶康"
+    },
+    {
+      "company_name": "GILEAD SCIENCES IRELAND UC",
+      "company_abbreviation": "吉利德",
+      "drug_generic_id": "7vBZEIrxW7y",
+      "drug_generic_name": "比克恩丙诺片",
+      "trade_name": "必妥维"
+    },
+    {
+      "company_name": "Janssen-Cilag International NV",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7Mat6Xtj9gN",
+      "drug_generic_name": "达芦那韦考比司他片",
+      "trade_name": "普泽力"
+    },
+    {
+      "company_name": "歌礼药业（浙江）有限公司",
+      "company_abbreviation": "",
+      "drug_generic_id": "7IMLnlNccgG",
+      "drug_generic_name": "达诺瑞韦钠片",
+      "trade_name": "戈诺卫"
+    },
+    {
+      "company_name": "Merck Sharp & Dohme BV",
+      "company_abbreviation": "默沙东",
+      "drug_generic_id": "85ghXwfy4uY",
+      "drug_generic_name": "多拉米替片",
+      "trade_name": "德思卓"
+    },
+    {
+      "company_name": "Merck Sharp & Dohme BV",
+      "company_abbreviation": "默沙东",
+      "drug_generic_id": "85ghXrpeTI9",
+      "drug_generic_name": "多拉韦林片",
+      "trade_name": "沛卓"
+    },
+    {
+      "company_name": "ViiV Healthcare BV",
+      "company_abbreviation": "",
+      "drug_generic_id": "7Mat6X0m3Zo",
+      "drug_generic_name": "多替阿巴拉米片",
+      "trade_name": "绥美凯"
+    },
+    {
+      "company_name": "ViiV Healthcare BV",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbIYhsPU",
+      "drug_generic_name": "多替拉韦钠片",
+      "trade_name": "特威凯"
+    },
+    {
+      "company_name": "GILEAD SCIENCES IRELAND UC",
+      "company_abbreviation": "吉利德",
+      "drug_generic_id": "7Mat6X99D1A",
+      "drug_generic_name": "恩曲他滨丙酚替诺福韦片(Ⅰ)",
+      "trade_name": "舒发泰"
+    },
+    {
+      "company_name": "吉利德科学",
+      "company_abbreviation": "吉利德",
+      "drug_generic_id": "7Mat6X9IPhJ",
+      "drug_generic_name": "恩曲他滨丙酚替诺福韦片(Ⅱ)",
+      "trade_name": "舒发泰"
+    },
+    {
+      "company_name": "GILEAD SCIENCES INC",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnc86lGav",
+      "drug_generic_name": "恩曲他滨替诺福韦片",
+      "trade_name": "舒发泰"
+    },
+    {
+      "company_name": "GILEAD SCIENCES IRELAND UC",
+      "company_abbreviation": "吉利德",
+      "drug_generic_id": "7Mat6X5bfcA",
+      "drug_generic_name": "富马酸丙酚替诺福韦片",
+      "trade_name": "韦立得"
+    },
+    {
+      "company_name": "葛兰素史克（天津）有限公司",
+      "company_abbreviation": "葛兰素史克",
+      "drug_generic_id": "7EZnbQJH9SG",
+      "drug_generic_name": "富马酸替诺福韦二吡呋酯片",
+      "trade_name": "韦瑞德"
+    },
+    {
+      "company_name": "Abbvie Corporation",
+      "company_abbreviation": "艾伯维",
+      "drug_generic_id": "7vBZEIrOJro",
+      "drug_generic_name": "格卡瑞韦哌仑他韦片",
+      "trade_name": "艾诺全"
+    },
+    {
+      "company_name": "GILEAD SCIENCES IRELAND UC",
+      "company_abbreviation": "吉利德",
+      "drug_generic_id": "7Mat6Xbqq4a",
+      "drug_generic_name": "来迪派韦索磷布韦片",
+      "trade_name": "夏帆宁"
+    },
+    {
+      "company_name": "GILEAD SCIENCES IRELAND UC",
+      "company_abbreviation": "吉利德",
+      "drug_generic_id": "8fv53BgmYDm",
+      "drug_generic_name": "来那帕韦钠片",
+      "trade_name": "萨兰卡"
+    },
+    {
+      "company_name": "GILEAD SCIENCES IRELAND UC",
+      "company_abbreviation": "吉利德",
+      "drug_generic_id": "8fv53Q1F1Lm",
+      "drug_generic_name": "来那帕韦钠注射液",
+      "trade_name": "萨兰卡"
+    },
+    {
+      "company_name": "Merck Sharp & Dohme BV",
+      "company_abbreviation": "默沙东",
+      "drug_generic_id": "8Dw9EiVEzcx",
+      "drug_generic_name": "来特莫韦片",
+      "trade_name": "普瑞明"
+    },
+    {
+      "company_name": "ViiV Healthcare BV",
+      "company_abbreviation": "",
+      "drug_generic_id": "85ghXxhGcuy",
+      "drug_generic_name": "拉米夫定多替拉韦片",
+      "trade_name": "多伟托"
+    },
+    {
+      "company_name": "吉斯凯（苏州）制药有限公司",
+      "company_abbreviation": "葛兰素史克",
+      "drug_generic_id": "7EZncdfGpNe",
+      "drug_generic_name": "拉米夫定片",
+      "trade_name": "贺普丁"
+    },
+    {
+      "company_name": "Merck Sharp & Dohme BV",
+      "company_abbreviation": "默沙东",
+      "drug_generic_id": "7EZncddHdSF",
+      "drug_generic_name": "拉替拉韦钾片",
+      "trade_name": "艾生特"
+    },
+    {
+      "company_name": "RECORDATI RARE DISEASES",
+      "company_abbreviation": "",
+      "drug_generic_id": "8dGWHu6Hzf6",
+      "drug_generic_name": "磷酸奥唑司他片",
+      "trade_name": "适锐飒"
+    },
+    {
+      "company_name": "ViiV Healthcare BV",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncWVGlVD",
+      "drug_generic_name": "硫酸阿巴卡韦口服溶液",
+      "trade_name": "赛进"
+    },
+    {
+      "company_name": "ViiV Healthcare BV",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncWVXX3I",
+      "drug_generic_name": "硫酸阿巴卡韦片",
+      "trade_name": "赛进"
+    },
+    {
+      "company_name": "Janssen-Cilag International NV",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZnbkvn6t4",
+      "drug_generic_name": "利匹韦林片",
+      "trade_name": "恩临"
+    },
+    {
+      "company_name": "AbbVie Deutschland GmbH & Co. KG",
+      "company_abbreviation": "艾伯维",
+      "drug_generic_id": "7EZnbkKZ2Dv",
+      "drug_generic_name": "利托那韦片",
+      "trade_name": "克力芝"
+    },
+    {
+      "company_name": "AbbVie, Inc.",
+      "company_abbreviation": "艾伯维",
+      "drug_generic_id": "7MaAsCiTXaB",
+      "drug_generic_name": "洛匹那韦/利托那韦口服溶液",
+      "trade_name": "克力芝"
+    },
+    {
+      "company_name": "AbbVie Deutschland GmbH & Co. KG",
+      "company_abbreviation": "艾伯维",
+      "drug_generic_id": "7EZncvXvpgG",
+      "drug_generic_name": "洛匹那韦利托那韦片",
+      "trade_name": "克力芝"
+    },
+    {
+      "company_name": "MERCK SHARP & DOHME (UK) LIMITED",
+      "company_abbreviation": "默沙东",
+      "drug_generic_id": "1uq0WnWnLEk",
+      "drug_generic_name": "莫诺拉韦胶囊",
+      "trade_name": "利卓瑞"
+    },
+    {
+      "company_name": "PFIZER LIMITED",
+      "company_abbreviation": "辉瑞",
+      "drug_generic_id": "8FFGNnrcoCs",
+      "drug_generic_name": "奈玛特韦片/利托那韦片组合包装",
+      "trade_name": "瑞派乐"
+    },
+    {
+      "company_name": "ViiV Healthcare BV",
+      "company_abbreviation": "",
+      "drug_generic_id": "8TQHdV1OOzp",
+      "drug_generic_name": "卡替拉韦钠片",
+      "trade_name": "万凯锐"
+    },
+    {
+      "company_name": "ViiV Healthcare BV",
+      "company_abbreviation": "",
+      "drug_generic_id": "8TI9TbF9AoZ",
+      "drug_generic_name": "卡替拉韦注射液",
+      "trade_name": "万凯锐"
+    },
+    {
+      "company_name": "viiv healthcare ulc",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZne7uKtrB",
+      "drug_generic_name": "齐多夫定糖浆",
+      "trade_name": "立妥威"
+    },
+    {
+      "company_name": "GILEAD SCIENCES IRELAND UC",
+      "company_abbreviation": "吉利德",
+      "drug_generic_id": "7IMJd8u2yfF",
+      "drug_generic_name": "索磷布韦片",
+      "trade_name": "索华迪"
+    },
+    {
+      "company_name": "GILEAD SCIENCES IRELAND UC",
+      "company_abbreviation": "吉利德",
+      "drug_generic_id": "7Mat6XnULNo",
+      "drug_generic_name": "索磷布韦维帕他韦片",
+      "trade_name": "丙通沙"
+    },
+    {
+      "company_name": "GILEAD SCIENCES IRELAND UC",
+      "company_abbreviation": "吉利德",
+      "drug_generic_id": "7vBZEJ31sDG",
+      "drug_generic_name": "索磷维伏片",
+      "trade_name": "沃士韦"
+    },
+    {
+      "company_name": "晖致制药（大连）有限公司",
+      "company_abbreviation": "晖致",
+      "drug_generic_id": "7EZnciu7UHl",
+      "drug_generic_name": "替比夫定片",
+      "trade_name": "素比伏"
+    },
+    {
+      "company_name": "BERLIN-CHEMIE AG",
+      "company_abbreviation": "柏林制药",
+      "drug_generic_id": "7EZncAqxUto",
+      "drug_generic_name": "溴夫定片",
+      "trade_name": "左代"
+    },
+    {
+      "company_name": "WELLCOME FOUNDATION LIMITED(THE)",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncOCM0zp",
+      "drug_generic_name": "盐酸伐昔洛韦片",
+      "trade_name": "维德思"
+    },
+    {
+      "company_name": "Cheplapharm Arzneimittel Gmbh",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncRx1ikC",
+      "drug_generic_name": "盐酸缬更昔洛韦片",
+      "trade_name": "万赛维"
+    },
+    {
+      "company_name": "GLAXOSMITHKLINE AUSTRALIA PTY LTD",
+      "company_abbreviation": "葛兰素史克",
+      "drug_generic_id": "7EZncbhUuSD",
+      "drug_generic_name": "扎那米韦吸入粉雾剂",
+      "trade_name": "依乐韦"
+    },
+    {
+      "company_name": "前沿生物药业（南京）股份有限公司",
+      "company_abbreviation": "前沿生物",
+      "drug_generic_id": "7S6rTBOI0Vd",
+      "drug_generic_name": "注射用艾博韦泰",
+      "trade_name": "艾可宁"
+    },
+    {
+      "company_name": "Cheplapharm Arzneimittel Gmbh",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnctAtbKU",
+      "drug_generic_name": "注射用更昔洛韦",
+      "trade_name": "赛美维"
+    },
+    {
+      "company_name": "江苏豪森药业集团有限公司",
+      "company_abbreviation": "豪森药业",
+      "drug_generic_id": "88opKO4oXlK",
+      "drug_generic_name": "艾米替诺福韦片",
+      "trade_name": "恒沐"
+    }
+  ]
+}

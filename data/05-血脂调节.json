@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "company_name": "晖致制药（大连）有限公司",
+      "company_abbreviation": "晖致",
+      "drug_generic_id": "7EZndU5CYTx",
+      "drug_generic_name": "阿托伐他汀钙片",
+      "trade_name": "立普妥"
+    },
+    {
+      "company_name": "Organon NV",
+      "company_abbreviation": "默沙东",
+      "drug_generic_id": "7EZndKwnlz3",
+      "drug_generic_name": "辛伐他汀片",
+      "trade_name": "舒降之"
+    },
+    {
+      "company_name": "SANOFI WINTHROP INDUSTRIE",
+      "company_abbreviation": "赛诺菲",
+      "drug_generic_id": "7vBZEJ7r3Qh",
+      "drug_generic_name": "阿利西尤单抗注射液",
+      "trade_name": "波立达"
+    },
+    {
+      "company_name": "laboratorios dalmer s.a.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbIUAG8R",
+      "drug_generic_name": "多廿烷醇片",
+      "trade_name": "呗呗嘿"
+    },
+    {
+      "company_name": "Abbott Laboratories Limited",
+      "company_abbreviation": "雅培",
+      "drug_generic_id": "82QAcXMToPQ",
+      "drug_generic_name": "非诺贝特胶囊",
+      "trade_name": "力平之"
+    },
+    {
+      "company_name": "ABBOTT LABORATORIES (SINGAPORE ) PRIVATE LIMITED",
+      "company_abbreviation": "雅培",
+      "drug_generic_id": "7EZndXdv0UC",
+      "drug_generic_name": "非诺贝特片(Ⅲ)",
+      "trade_name": "力平之"
+    },
+    {
+      "company_name": "北京诺华制药有限公司",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7EZncoQoKJm",
+      "drug_generic_name": "氟伐他汀钠缓释片",
+      "trade_name": "来适可"
+    },
+    {
+      "company_name": "北京诺华制药有限公司",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7EZncoQGlRr",
+      "drug_generic_name": "氟伐他汀钠胶囊",
+      "trade_name": "来适可"
+    },
+    {
+      "company_name": "KOWA COMPANY,LTD.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbnkNd0U",
+      "drug_generic_name": "匹伐他汀钙片",
+      "trade_name": "力清之"
+    },
+    {
+      "company_name": "第一三共制药（上海）有限公司",
+      "company_abbreviation": "第一三共",
+      "drug_generic_id": "7EZnchpHNgx",
+      "drug_generic_name": "普伐他汀钠片",
+      "trade_name": "美百乐镇"
+    },
+    {
+      "company_name": "ASTRAZENECA UK LIMITED",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7EZncFXrkQK",
+      "drug_generic_name": "瑞舒伐他汀钙片",
+      "trade_name": "可定"
+    },
+    {
+      "company_name": "sanofi-aventis ireland limited t/a sanofi",
+      "company_abbreviation": "赛诺菲",
+      "drug_generic_id": "8XHAtOOR7CI",
+      "drug_generic_name": "瑞舒伐他汀依折麦布片(Ⅰ)",
+      "trade_name": "旨立达"
+    },
+    {
+      "company_name": "NOVARTIS EUROPHARM LIMITED",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "8TQJ53RVlNW",
+      "drug_generic_name": "英克司兰钠注射液",
+      "trade_name": "乐可为"
+    },
+    {
+      "company_name": "Amgen Inc.",
+      "company_abbreviation": "安进",
+      "drug_generic_id": "7Mat6WPzj2B",
+      "drug_generic_name": "依洛尤单抗注射液",
+      "trade_name": "瑞百安"
+    },
+    {
+      "company_name": "ORGANON SINGAPORE PTE. LTD.",
+      "company_abbreviation": "欧加隆",
+      "drug_generic_id": "7EZnbd0q8YY",
+      "drug_generic_name": "依折麦布片",
+      "trade_name": "益适纯"
+    },
+    {
+      "company_name": "Organon NV",
+      "company_abbreviation": "欧加隆",
+      "drug_generic_id": "7EZnbd0HK73",
+      "drug_generic_name": "依折麦布辛伐他汀片",
+      "trade_name": "葆至能"
+    }
+  ]
+}

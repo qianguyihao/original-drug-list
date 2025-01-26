@@ -1,0 +1,200 @@
+{
+  "data": [
+    {
+      "company_name": "中美天津史克制药有限公司",
+      "company_abbreviation": "中美史克",
+      "drug_generic_id": "7EZnc1AZFXU",
+      "drug_generic_name": "布洛芬缓释胶囊",
+      "trade_name": "芬必得"
+    },
+    {
+      "company_name": "中美天津史克制药有限公司",
+      "company_abbreviation": "中美史克",
+      "drug_generic_id": "7EZnc1y9GF6",
+      "drug_generic_name": "布洛芬咀嚼片",
+      "trade_name": "芬必得"
+    },
+    {
+      "company_name": "中美天津史克制药有限公司",
+      "company_abbreviation": "中美史克",
+      "drug_generic_id": "7EZnc1ws5SC",
+      "drug_generic_name": "布洛芬乳膏",
+      "trade_name": "芬必得"
+    },
+    {
+      "company_name": "上海强生制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZnbR9f3BW",
+      "drug_generic_name": "对乙酰氨基酚缓释片",
+      "trade_name": "泰诺林"
+    },
+    {
+      "company_name": "上海强生制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZnbR86F5C",
+      "drug_generic_name": "对乙酰氨基酚片",
+      "trade_name": "泰诺林"
+    },
+    {
+      "company_name": "北京诺华制药有限公司",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7EZnbssZx3f",
+      "drug_generic_name": "双氯芬酸二乙胺乳胶剂",
+      "trade_name": "扶他林"
+    },
+    {
+      "company_name": "MIKASA SEIYAKU CO., LTD.",
+      "company_abbreviation": "三笠制药",
+      "drug_generic_id": "7EZncoZcjLR",
+      "drug_generic_name": "氟比洛芬凝胶贴膏",
+      "trade_name": "泽普思"
+    },
+    {
+      "company_name": "赫力昂（苏州）制药有限公司",
+      "company_abbreviation": "赫力昂",
+      "drug_generic_id": "7EZnc1zRhrA",
+      "drug_generic_name": "布洛芬片",
+      "trade_name": "芬必得"
+    },
+    {
+      "company_name": "拜耳医药保健有限公司",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZnbDuNe1w",
+      "drug_generic_name": "复方对乙酰氨基酚片(Ⅱ)",
+      "trade_name": "散利痛"
+    },
+    {
+      "company_name": "Viatris Healthcare GmbH",
+      "company_abbreviation": "晖致",
+      "drug_generic_id": "7EZnbd08xQT",
+      "drug_generic_name": "依托芬那酯喷雾剂",
+      "trade_name": "优迈"
+    },
+    {
+      "company_name": "西安杨森制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZncqeYptX",
+      "drug_generic_name": "氨酚曲马多片",
+      "trade_name": "及通安"
+    },
+    {
+      "company_name": "阿斯利康制药有限公司",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7EZndTMTsid",
+      "drug_generic_name": "阿司匹林泡腾片",
+      "trade_name": "巴米尔"
+    },
+    {
+      "company_name": "Bayer Vital GmbH",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZndTOB34H",
+      "drug_generic_name": "阿司匹林维生素C泡腾片",
+      "trade_name": "拜阿司匹灵"
+    },
+    {
+      "company_name": "Mundipharma GmbH",
+      "company_abbreviation": "萌蒂制药",
+      "drug_generic_id": "7EZnb0KxY99",
+      "drug_generic_name": "丁丙诺啡透皮贴剂",
+      "trade_name": "若思本"
+    },
+    {
+      "company_name": "Janssen-Cilag NV",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZndvsdrDE",
+      "drug_generic_name": "芬太尼透皮贴剂",
+      "trade_name": "多瑞吉"
+    },
+    {
+      "company_name": "第一健康科学株式会社",
+      "company_abbreviation": "",
+      "drug_generic_id": "85ghXqG0SXu",
+      "drug_generic_name": "复方水杨酸甲酯巴布膏",
+      "trade_name": "冷巴"
+    },
+    {
+      "company_name": "SK CHEMICALS CO., LTD.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbw273A4",
+      "drug_generic_name": "吡罗昔康贴片",
+      "trade_name": "Trast"
+    },
+    {
+      "company_name": "山德士（中国）制药有限公司",
+      "company_abbreviation": "山德士",
+      "drug_generic_id": "7EZnbsynUwM",
+      "drug_generic_name": "双氯芬酸钠缓释片(Ⅳ)",
+      "trade_name": "迪克乐克"
+    },
+    {
+      "company_name": "NAPP PHARMACEUTICALS LIMITED",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncRJNfcf",
+      "drug_generic_name": "盐酸羟考酮缓释片",
+      "trade_name": "奥施康定"
+    },
+    {
+      "company_name": "NAPP PHARMACEUTICALS LIMITED",
+      "company_abbreviation": "纳博制药",
+      "drug_generic_id": "7Mat6XlVzSR",
+      "drug_generic_name": "盐酸羟考酮胶囊",
+      "trade_name": "奥诺美"
+    },
+    {
+      "company_name": "山德士（中国）制药有限公司",
+      "company_abbreviation": "山德士",
+      "drug_generic_id": "7EZncQtrXdZ",
+      "drug_generic_name": "盐酸曲马多缓释片",
+      "trade_name": "泰德洛"
+    },
+    {
+      "company_name": "Grünenthal GmbH",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncQuiKCe",
+      "drug_generic_name": "盐酸曲马多胶囊",
+      "trade_name": "舒敏"
+    },
+    {
+      "company_name": "Grünenthal GmbH",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncQsSKXP",
+      "drug_generic_name": "盐酸曲马多注射液",
+      "trade_name": "舒敏"
+    },
+    {
+      "company_name": "NIPRO PHARMA CORPORATION",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbwg1oY1",
+      "drug_generic_name": "吲哚美辛巴布膏",
+      "trade_name": "必艾得"
+    },
+    {
+      "company_name": "KOWA COMPANY,LTD.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbwgj066",
+      "drug_generic_name": "吲哚美辛搽剂",
+      "trade_name": "万特力"
+    },
+    {
+      "company_name": "KOWA COMPANY,LTD.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbwfscHR",
+      "drug_generic_name": "吲哚美辛凝胶",
+      "trade_name": "万特力"
+    },
+    {
+      "company_name": "KOWA COMPANY,LTD.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbwiRogP",
+      "drug_generic_name": "吲哚美辛贴片",
+      "trade_name": "万特力"
+    },
+    {
+      "company_name": "澳美製藥廠有限公司",
+      "company_abbreviation": "澳美制药",
+      "drug_generic_id": "7EZnbcZQWIO",
+      "drug_generic_name": "依托芬那酯凝胶",
+      "trade_name": "澳托芬"
+    }
+  ]
+}

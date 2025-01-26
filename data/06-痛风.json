@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "company_name": "中美天津史克制药有限公司",
+      "company_abbreviation": "中美史克",
+      "drug_generic_id": "7EZnc1AZFXU",
+      "drug_generic_name": "布洛芬缓释胶囊",
+      "trade_name": "芬必得"
+    },
+    {
+      "company_name": "中美天津史克制药有限公司",
+      "company_abbreviation": "中美史克",
+      "drug_generic_id": "7EZnc1y9GF6",
+      "drug_generic_name": "布洛芬咀嚼片",
+      "trade_name": "芬必得"
+    },
+    {
+      "company_name": "拜耳医药保健有限公司",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZndxWlDpr",
+      "drug_generic_name": "萘普生钠片",
+      "trade_name": "安理"
+    },
+    {
+      "company_name": "赫力昂（苏州）制药有限公司",
+      "company_abbreviation": "赫力昂",
+      "drug_generic_id": "7EZnc1zRhrA",
+      "drug_generic_name": "布洛芬片",
+      "trade_name": "芬必得"
+    },
+    {
+      "company_name": "TEIJIN PHARMA LIMITED",
+      "company_abbreviation": "帝人",
+      "drug_generic_id": "7EZndWXT4Kb",
+      "drug_generic_name": "非布司他片",
+      "trade_name": "菲布力"
+    },
+    {
+      "company_name": "Sano Arzneimittelfabrik GmbH",
+      "company_abbreviation": "赛诺制药",
+      "drug_generic_id": "7EZndwh1DY5",
+      "drug_generic_name": "苯溴马隆片",
+      "trade_name": "立加利仙"
+    },
+    {
+      "company_name": "SANOFI WINTHROP INDUSTRIE",
+      "company_abbreviation": "赛诺菲",
+      "drug_generic_id": "7Mat6Xgxcpt",
+      "drug_generic_name": "注射用拉布立海",
+      "trade_name": "法舒克"
+    },
+    {
+      "company_name": "FUJI YAKUHIN CO., LTD.",
+      "company_abbreviation": "富士药品",
+      "drug_generic_id": "8fOMFxF1Dx5",
+      "drug_generic_name": "多替诺雷片",
+      "trade_name": "优乐思"
+    },
+    {
+      "company_name": "PFIZER ITALIA SRL",
+      "company_abbreviation": "辉瑞",
+      "drug_generic_id": "7EZncHrYzl2",
+      "drug_generic_name": "甲泼尼龙片",
+      "trade_name": "美卓乐"
+    },
+    {
+      "company_name": "海南赞邦制药有限公司",
+      "company_abbreviation": "赞邦",
+      "drug_generic_id": "7EZnd1SOkWT",
+      "drug_generic_name": "精氨酸布洛芬片",
+      "trade_name": "司百得"
+    },
+    {
+      "company_name": "Pfizer SA",
+      "company_abbreviation": "辉瑞",
+      "drug_generic_id": "7EZnctTLUCo",
+      "drug_generic_name": "注射用甲泼尼龙琥珀酸钠",
+      "trade_name": "甲强龙"
+    }
+  ]
+}

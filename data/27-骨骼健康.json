@@ -1,0 +1,123 @@
+{
+  "data": [
+    {
+      "company_name": "Organon NV",
+      "company_abbreviation": "默沙东",
+      "drug_generic_id": "7EZndTEnunN",
+      "drug_generic_name": "阿仑膦酸钠片",
+      "trade_name": "福善美"
+    },
+    {
+      "company_name": "Organon NV",
+      "company_abbreviation": "默沙东",
+      "drug_generic_id": "7EZndTEWGDX",
+      "drug_generic_name": "阿仑膦酸钠维D3片(Ⅱ)",
+      "trade_name": "福美加"
+    },
+    {
+      "company_name": "Hemony Pharmaceutical Switzerland GmbH",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnc1ixKuF",
+      "drug_generic_name": "巴氯芬片",
+      "trade_name": "力奥来素"
+    },
+    {
+      "company_name": "Aspen Pharmacare Australia Pty Ltd.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndwo7Ce6",
+      "drug_generic_name": "苯磺顺阿曲库铵注射液",
+      "trade_name": "赛机宁"
+    },
+    {
+      "company_name": "SEIKAGAKU CORPORATION",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncFkPT7M",
+      "drug_generic_name": "玻璃酸钠注射液",
+      "trade_name": "阿尔治"
+    },
+    {
+      "company_name": "KYOWA KIRIN CO LTD",
+      "company_abbreviation": "",
+      "drug_generic_id": "85ghXxBBxDf",
+      "drug_generic_name": "布罗索尤单抗注射液",
+      "trade_name": "麟平"
+    },
+    {
+      "company_name": "Amgen Inc.",
+      "company_abbreviation": "安进",
+      "drug_generic_id": "7S4Yjvp65Be",
+      "drug_generic_name": "地舒单抗注射液",
+      "trade_name": "安加维"
+    },
+    {
+      "company_name": "TEIKOKU SEIYAKU CO.,LTD.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbGBwRwh",
+      "drug_generic_name": "复方辣椒贴片",
+      "trade_name": "好及施"
+    },
+    {
+      "company_name": "GENZYME CORPORATION",
+      "company_abbreviation": "健赞",
+      "drug_generic_id": "7EZnb9K293t",
+      "drug_generic_name": "交联玻璃酸钠注射液",
+      "trade_name": "欣维可"
+    },
+    {
+      "company_name": "Roche Pharma (Schweiz) AG",
+      "company_abbreviation": "罗氏",
+      "drug_generic_id": "88CN0yYMya8",
+      "drug_generic_name": "利司扑兰口服溶液用散",
+      "trade_name": "艾满欣"
+    },
+    {
+      "company_name": "Merck Sharp & Dohme BV",
+      "company_abbreviation": "默沙东",
+      "drug_generic_id": "7EZnd7YkQi9",
+      "drug_generic_name": "罗库溴铵注射液",
+      "trade_name": "爱可松"
+    },
+    {
+      "company_name": "ASPEN PHARMA TRADING LIMITED",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnd0RvMSU",
+      "drug_generic_name": "米库氯铵注射液",
+      "trade_name": "美维松"
+    },
+    {
+      "company_name": "卫材（中国）药业有限公司",
+      "company_abbreviation": "卫材",
+      "drug_generic_id": "7EZncOrq3mb",
+      "drug_generic_name": "盐酸乙哌立松片",
+      "trade_name": "妙纳"
+    },
+    {
+      "company_name": "ATNAHS PHARMA UK LIMITED",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbbxAvha",
+      "drug_generic_name": "伊班膦酸钠注射液",
+      "trade_name": "邦罗力"
+    },
+    {
+      "company_name": "Gedeon Richter PLC. , Dorog",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnct6WUcw",
+      "drug_generic_name": "注射用哌库溴铵",
+      "trade_name": "阿端"
+    },
+    {
+      "company_name": "Future Health Pharma GmbH",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnct9dHfa",
+      "drug_generic_name": "注射用唑来膦酸浓溶液",
+      "trade_name": "择泰"
+    },
+    {
+      "company_name": "Sandoz Pharmaceuticals AG",
+      "company_abbreviation": "山德士",
+      "drug_generic_id": "7EZnbyz5eEF",
+      "drug_generic_name": "唑来膦酸注射液",
+      "trade_name": "密固达"
+    }
+  ]
+}

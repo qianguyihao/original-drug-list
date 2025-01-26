@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "company_name": "Abbott Holdings B.V.",
+      "company_abbreviation": "雅培",
+      "drug_generic_id": "7EZnb7adYG4",
+      "drug_generic_name": "乳果糖口服溶液",
+      "trade_name": "杜密克"
+    },
+    {
+      "company_name": "IPSEN CONSUMER HEALTHCARE",
+      "company_abbreviation": "益普生",
+      "drug_generic_id": "7MaAsCbeMEz",
+      "drug_generic_name": "复方聚乙二醇电解质散(Ⅲ)",
+      "trade_name": "福静清"
+    },
+    {
+      "company_name": "IPSEN CONSUMER HEALTHCARE",
+      "company_abbreviation": "益普生",
+      "drug_generic_id": "7EZndbi81MC",
+      "drug_generic_name": "聚乙二醇4000散",
+      "trade_name": "福松"
+    },
+    {
+      "company_name": "bridging pharma limited",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndbkoOPg",
+      "drug_generic_name": "聚乙二醇钠钾散",
+      "trade_name": "默维可"
+    },
+    {
+      "company_name": "SUMITOMO PHARMA CO LTD",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnckmN3gu",
+      "drug_generic_name": "枸橼酸莫沙必利片",
+      "trade_name": "加斯清"
+    },
+    {
+      "company_name": "C. B. FLEET COMPANY, INCORPORATED",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncYpVZhQ",
+      "drug_generic_name": "磷酸钠盐灌肠液",
+      "trade_name": "辉力"
+    },
+    {
+      "company_name": "AstraZeneca AG",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7Mat6WSGTtr",
+      "drug_generic_name": "利那洛肽胶囊",
+      "trade_name": "令泽舒"
+    },
+    {
+      "company_name": "Mimer Medical AB",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbWY1egr",
+      "drug_generic_name": "小麦纤维素颗粒",
+      "trade_name": "非比麸"
+    }
+  ]
+}

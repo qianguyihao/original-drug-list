@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "company_name": "Organon NV",
+      "company_abbreviation": "欧加隆",
+      "drug_generic_id": "7EZnbqL79ra",
+      "drug_generic_name": "去氧孕烯炔雌醇片",
+      "trade_name": "妈富隆"
+    },
+    {
+      "company_name": "Abbott Holdings B.V.",
+      "company_abbreviation": "雅培",
+      "drug_generic_id": "7EZnbB05PZz",
+      "drug_generic_name": "地屈孕酮片",
+      "trade_name": "达芙通"
+    },
+    {
+      "company_name": "besins healthcare s.a.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndVLNLJ8",
+      "drug_generic_name": "雌二醇凝胶",
+      "trade_name": "爱斯妥"
+    },
+    {
+      "company_name": "Abbott Holdings B.V.",
+      "company_abbreviation": "雅培",
+      "drug_generic_id": "7EZndVMmXZi",
+      "drug_generic_name": "雌二醇片/雌二醇地屈孕酮片复合包装",
+      "trade_name": "芬吗通"
+    },
+    {
+      "company_name": "Jenapharm GmbH & Co. KG",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndVM5mRd",
+      "drug_generic_name": "雌二醇屈螺酮片",
+      "trade_name": "安今益"
+    },
+    {
+      "company_name": "Aspen Pharmacare Australia Pty Ltd.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndVKWYkT",
+      "drug_generic_name": "雌三醇乳膏",
+      "trade_name": "欧维婷"
+    },
+    {
+      "company_name": "Pfizer Italia S.R.L.",
+      "company_abbreviation": "辉瑞",
+      "drug_generic_id": "7EZndOeA1co",
+      "drug_generic_name": "醋酸甲羟孕酮片",
+      "trade_name": "法禄达"
+    },
+    {
+      "company_name": "Jenapharm GmbH & Co. KG",
+      "company_abbreviation": "",
+      "drug_generic_id": "7IML11tcqo2",
+      "drug_generic_name": "地诺孕素片",
+      "trade_name": "唯散宁"
+    },
+    {
+      "company_name": "Takeda Austria GmbH",
+      "company_abbreviation": "武田制药",
+      "drug_generic_id": "7EZne48Y76D",
+      "drug_generic_name": "鬼臼毒素溶液",
+      "trade_name": "慷定来"
+    },
+    {
+      "company_name": "Besins Healthcare Benelux",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZne5qact8",
+      "drug_generic_name": "黄体酮软胶囊",
+      "trade_name": "安琪坦"
+    },
+    {
+      "company_name": "codal synto ltd",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnckiOFrm",
+      "drug_generic_name": "枸橼酸氯米芬片",
+      "trade_name": "法地兰"
+    },
+    {
+      "company_name": "华润紫竹药业有限公司",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnd0Yka0Q",
+      "drug_generic_name": "米非司酮片",
+      "trade_name": "司米安"
+    },
+    {
+      "company_name": "BAYER (SOUTH EAST ASIA) PTE LTD",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZncBQxxOk",
+      "drug_generic_name": "炔雌醇环丙孕酮片",
+      "trade_name": "达英-35"
+    },
+    {
+      "company_name": "BAYER AUSTRALIA LTD",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZnbZITJEV",
+      "drug_generic_name": "屈螺酮炔雌醇片",
+      "trade_name": "优思明"
+    },
+    {
+      "company_name": "BAYER AUSTRALIA LTD",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZnbZJbkN0",
+      "drug_generic_name": "屈螺酮炔雌醇片(Ⅱ)",
+      "trade_name": "优思悦"
+    },
+    {
+      "company_name": "Ferring Pharmaceuticals A/S",
+      "company_abbreviation": "",
+      "drug_generic_id": "8ZvbUiSF9eK",
+      "drug_generic_name": "人促卵泡激素δ注射液",
+      "trade_name": "贺可唯"
+    },
+    {
+      "company_name": "Nv Organon",
+      "company_abbreviation": "欧加隆",
+      "drug_generic_id": "7EZnciq9wSd",
+      "drug_generic_name": "替勃龙片",
+      "trade_name": "利维爱"
+    },
+    {
+      "company_name": "Jenapharm GmbH & Co. KG",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncaeCKU5",
+      "drug_generic_name": "戊酸雌二醇片",
+      "trade_name": "补佳乐"
+    },
+    {
+      "company_name": "Jenapharm GmbH & Co. KG",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncaeUm2a",
+      "drug_generic_name": "戊酸雌二醇片/雌二醇环丙孕酮片复合包装",
+      "trade_name": "克龄蒙"
+    },
+    {
+      "company_name": "Eli Lilly Nederland BV",
+      "company_abbreviation": "礼来",
+      "drug_generic_id": "7EZncSu3Rro",
+      "drug_generic_name": "盐酸雷洛昔芬片",
+      "trade_name": "易维特"
+    },
+    {
+      "company_name": "Organon NV",
+      "company_abbreviation": "欧加隆",
+      "drug_generic_id": "7EZnbcUKanm",
+      "drug_generic_name": "依托孕烯植入剂",
+      "trade_name": "依伴侬"
+    },
+    {
+      "company_name": "Organon NV",
+      "company_abbreviation": "欧加隆",
+      "drug_generic_id": "7EZndOQkFx7",
+      "drug_generic_name": "重组促卵泡素β注射液",
+      "trade_name": "普丽康"
+    },
+    {
+      "company_name": "Merck Europe BV",
+      "company_abbreviation": "默克",
+      "drug_generic_id": "7EZndOCHVhf",
+      "drug_generic_name": "重组人促卵泡激素注射液",
+      "trade_name": "果纳芬"
+    },
+    {
+      "company_name": "Ferring GmbH",
+      "company_abbreviation": "",
+      "drug_generic_id": "7IOnddZ15kK",
+      "drug_generic_name": "注射用高纯度尿促性素",
+      "trade_name": "贺美奇"
+    },
+    {
+      "company_name": "Merck Europe BV",
+      "company_abbreviation": "默克",
+      "drug_generic_id": "7EZncv1BeGe",
+      "drug_generic_name": "注射用重组人促黄体激素α",
+      "trade_name": "乐芮"
+    },
+    {
+      "company_name": "Merck Europe BV",
+      "company_abbreviation": "默克",
+      "drug_generic_id": "7EZncv122q4",
+      "drug_generic_name": "注射用重组人促卵泡激素",
+      "trade_name": "果纳芬"
+    },
+    {
+      "company_name": "Gedeon Richter PLC. , Dorog",
+      "company_abbreviation": "吉瑞医药",
+      "drug_generic_id": "7EZnc0Ewj7i",
+      "drug_generic_name": "左炔诺孕酮片",
+      "trade_name": "保仕婷"
+    }
+  ]
+}

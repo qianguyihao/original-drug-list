@@ -1,0 +1,123 @@
+{
+  "data": [
+    {
+      "company_name": "北京诺华制药有限公司",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7EZnbpxBQLI",
+      "drug_generic_name": "卡马西平片",
+      "trade_name": "得理多"
+    },
+    {
+      "company_name": "Novartis Pharma Schweiz AG",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7EZnbLQfXyt",
+      "drug_generic_name": "奥卡西平片",
+      "trade_name": "曲莱"
+    },
+    {
+      "company_name": "SANOFI-AVENTIS FRANCE",
+      "company_abbreviation": "赛诺菲",
+      "drug_generic_id": "88CN0Ud6kQK",
+      "drug_generic_name": "丙戊酸钠缓释片(Ⅰ)",
+      "trade_name": "德巴金"
+    },
+    {
+      "company_name": "赛诺菲（杭州）制药有限公司",
+      "company_abbreviation": "赛诺菲",
+      "drug_generic_id": "7EZnb3DngfX",
+      "drug_generic_name": "丙戊酸钠口服溶液",
+      "trade_name": "德巴金"
+    },
+    {
+      "company_name": "MARINUS PHARMACEUTICALS INC",
+      "company_abbreviation": "",
+      "drug_generic_id": "8bGrDr8FUXK",
+      "drug_generic_name": "加那索龙口服混悬剂",
+      "trade_name": "泽元安"
+    },
+    {
+      "company_name": "UCB PHARMA SA",
+      "company_abbreviation": "优时比",
+      "drug_generic_id": "82QAcQv6COW",
+      "drug_generic_name": "拉考沙胺口服溶液",
+      "trade_name": "维派特"
+    },
+    {
+      "company_name": "UCB PHARMA SA",
+      "company_abbreviation": "优时比",
+      "drug_generic_id": "7IN3LqCYZ4W",
+      "drug_generic_name": "拉考沙胺片",
+      "trade_name": "维派特"
+    },
+    {
+      "company_name": "UCB PHARMA SA",
+      "company_abbreviation": "优时比",
+      "drug_generic_id": "7IOohtm7exR",
+      "drug_generic_name": "拉考沙胺注射液",
+      "trade_name": "维派特"
+    },
+    {
+      "company_name": "WELLCOME FOUNDATION LIMITED(THE)",
+      "company_abbreviation": "葛兰素史克",
+      "drug_generic_id": "7EZncdgxdbt",
+      "drug_generic_name": "拉莫三嗪分散片",
+      "trade_name": "利必通"
+    },
+    {
+      "company_name": "WELLCOME FOUNDATION LIMITED(THE)",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncdgOOjy",
+      "drug_generic_name": "拉莫三嗪片",
+      "trade_name": "利必通"
+    },
+    {
+      "company_name": "EISAI EUROPE LIMITED",
+      "company_abbreviation": "卫材",
+      "drug_generic_id": "7IN2LVhtBp8",
+      "drug_generic_name": "吡仑帕奈片",
+      "trade_name": "卫克泰"
+    },
+    {
+      "company_name": "Janssen-Cilag NV",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZncbnS4Ck",
+      "drug_generic_name": "托吡酯胶囊",
+      "trade_name": "妥泰"
+    },
+    {
+      "company_name": "西安杨森制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZncbnAtuf",
+      "drug_generic_name": "托吡酯片",
+      "trade_name": "妥泰"
+    },
+    {
+      "company_name": "Sanofi-Aventis Deutschland Gmbh",
+      "company_abbreviation": "赛诺菲",
+      "drug_generic_id": "7EZncsHp0tg",
+      "drug_generic_name": "注射用丙戊酸钠",
+      "trade_name": "德巴金"
+    },
+    {
+      "company_name": "UCB-Pharma SA",
+      "company_abbreviation": "优时比",
+      "drug_generic_id": "7EZnc0q2Ltb",
+      "drug_generic_name": "左乙拉西坦口服溶液",
+      "trade_name": "开浦兰"
+    },
+    {
+      "company_name": "UCB-Pharma SA",
+      "company_abbreviation": "优时比",
+      "drug_generic_id": "7Dci4xOMLX9",
+      "drug_generic_name": "左乙拉西坦片",
+      "trade_name": "开浦兰"
+    },
+    {
+      "company_name": "UCB-Pharma SA",
+      "company_abbreviation": "优时比",
+      "drug_generic_id": "7Mat6X6BeQW",
+      "drug_generic_name": "左乙拉西坦注射用浓溶液",
+      "trade_name": "开浦兰"
+    }
+  ]
+}

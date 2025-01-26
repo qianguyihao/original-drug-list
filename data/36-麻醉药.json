@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "company_name": "PRODUITS DENTAIRES PIERRE ROLLAND",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndUeZKcc",
+      "drug_generic_name": "阿替卡因肾上腺素注射液",
+      "trade_name": "必兰"
+    },
+    {
+      "company_name": "Fresenius Kabi Deutschland Gmbh",
+      "company_abbreviation": "费森尤斯卡比",
+      "drug_generic_id": "7EZnb3ILDJu",
+      "drug_generic_name": "丙泊酚乳状注射液",
+      "trade_name": "静安"
+    },
+    {
+      "company_name": "BAXTER HEALTHCARE CORPORATION",
+      "company_abbreviation": "",
+      "drug_generic_id": "7QGRlVvFyuz",
+      "drug_generic_name": "地氟烷",
+      "trade_name": "优宁"
+    },
+    {
+      "company_name": "Aspen Pharmacare Australia Pty Ltd.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7vBZEIcdB5o",
+      "drug_generic_name": "利丙双卡因乳膏",
+      "trade_name": "恩纳"
+    },
+    {
+      "company_name": "MARUISHI PHARMACEUTICAL CO., LTD.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbwn7ne2",
+      "drug_generic_name": "吸入用七氟烷",
+      "trade_name": "喜保福宁"
+    },
+    {
+      "company_name": "Septodont",
+      "company_abbreviation": "",
+      "drug_generic_id": "7Mat6XlmnCI",
+      "drug_generic_name": "盐酸甲哌卡因肾上腺素注射液",
+      "trade_name": "斯康杜尼"
+    },
+    {
+      "company_name": "Septodont",
+      "company_abbreviation": "赛普敦",
+      "drug_generic_id": "7EZncRhpmab",
+      "drug_generic_name": "盐酸甲哌卡因注射液",
+      "trade_name": "斯康杜尼"
+    },
+    {
+      "company_name": "Aspen Pharmacare Australia Pty Ltd.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncRzRhDq",
+      "drug_generic_name": "盐酸罗哌卡因注射液",
+      "trade_name": "耐乐品"
+    },
+    {
+      "company_name": "BAXTER HEALTHCARE CORPORATION",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnc3ogr3w",
+      "drug_generic_name": "异氟烷",
+      "trade_name": "艾思美"
+    },
+    {
+      "company_name": "B. Braun Melsungen AG",
+      "company_abbreviation": "贝朗",
+      "drug_generic_id": "1tWolzl1s8m",
+      "drug_generic_name": "依托咪酯中/长链脂肪乳注射液",
+      "trade_name": "宜妥利"
+    }
+  ]
+}

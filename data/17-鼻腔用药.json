@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "company_name": "Haleon Denmark ApS",
+      "company_abbreviation": "赫力昂",
+      "drug_generic_id": "7EZnb3Sq0ae",
+      "drug_generic_name": "丙酸氟替卡松鼻喷雾剂",
+      "trade_name": "辅舒良"
+    },
+    {
+      "company_name": "Mcneil Sweden AB",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZnc1oMVmr",
+      "drug_generic_name": "布地奈德鼻喷雾剂",
+      "trade_name": "雷诺考特"
+    },
+    {
+      "company_name": "Organon Belgium",
+      "company_abbreviation": "默沙东",
+      "drug_generic_id": "7EZnd2MrIuH",
+      "drug_generic_name": "糠酸莫米松鼻喷雾剂",
+      "trade_name": "内舒拿"
+    },
+    {
+      "company_name": "GLAXOSMITHKLINE SA",
+      "company_abbreviation": "葛兰素史克",
+      "drug_generic_id": "7EZnb3RQNU4",
+      "drug_generic_name": "丙酸氟替卡松吸入气雾剂",
+      "trade_name": "辅舒酮"
+    },
+    {
+      "company_name": "eddingpharm b.v.",
+      "company_abbreviation": "葛兰素史克",
+      "drug_generic_id": "7Mat6WJTkr7",
+      "drug_generic_name": "丙酸氟替卡松雾化吸入用混悬液",
+      "trade_name": "辅舒酮"
+    },
+    {
+      "company_name": "GLAXOSMITHKLINE (IRELAND) LIMITED",
+      "company_abbreviation": "葛兰素史克",
+      "drug_generic_id": "7EZnd2KK7Id",
+      "drug_generic_name": "糠酸氟替卡松鼻用喷雾剂",
+      "trade_name": "文适"
+    },
+    {
+      "company_name": "KYOWA KIRIN CO., LTD.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncPGCWO7",
+      "drug_generic_name": "盐酸奥洛他定片",
+      "trade_name": "阿洛刻"
+    },
+    {
+      "company_name": "Viatris Healthcare GmbH",
+      "company_abbreviation": "晖致",
+      "drug_generic_id": "82QAcTFa1bP",
+      "drug_generic_name": "盐酸氮䓬斯汀鼻喷雾剂",
+      "trade_name": "爱赛平"
+    },
+    {
+      "company_name": "Johnson & Johnson Consumer NV",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZncPSgv9q",
+      "drug_generic_name": "盐酸左卡巴斯汀鼻喷雾剂",
+      "trade_name": "立复汀"
+    }
+  ]
+}

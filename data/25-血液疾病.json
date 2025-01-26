@@ -1,0 +1,200 @@
+{
+  "data": [
+    {
+      "company_name": "Roche Pharma (Schweiz) AG",
+      "company_abbreviation": "罗氏",
+      "drug_generic_id": "7Mat6Xr2meb",
+      "drug_generic_name": "艾美赛珠单抗注射液",
+      "trade_name": "舒友立乐"
+    },
+    {
+      "company_name": "Novartis Pharma Schweiz AG",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7Mat6XqKL66",
+      "drug_generic_name": "艾曲泊帕乙醇胺片",
+      "trade_name": "瑞弗兰"
+    },
+    {
+      "company_name": "正美药品有限公司",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncpQQvp6",
+      "drug_generic_name": "氨甲环酸胶囊",
+      "trade_name": "正美"
+    },
+    {
+      "company_name": "Daiichi Sankyo Co., Ltd.",
+      "company_abbreviation": "第一三共",
+      "drug_generic_id": "7EZncpQyUh1",
+      "drug_generic_name": "氨甲环酸片",
+      "trade_name": "妥塞敏"
+    },
+    {
+      "company_name": "Italfarmaco S A",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndA24jYi",
+      "drug_generic_name": "蛋白琥珀酸铁口服溶液",
+      "trade_name": "菲普利"
+    },
+    {
+      "company_name": "KYOWA KIRIN CO LTD",
+      "company_abbreviation": "",
+      "drug_generic_id": "81j52upPkfh",
+      "drug_generic_name": "达依泊汀α注射液",
+      "trade_name": "耐斯宝"
+    },
+    {
+      "company_name": "Kremers Urban Pharmaceuticals Inc.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbJ9Dq38",
+      "drug_generic_name": "多糖铁复合物胶囊",
+      "trade_name": "力蜚能"
+    },
+    {
+      "company_name": "台湾泛生制药厂股份有限公司",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncIBN5jr",
+      "drug_generic_name": "甲钴胺胶囊",
+      "trade_name": "泛敏补"
+    },
+    {
+      "company_name": "卫材（中国）药业有限公司",
+      "company_abbreviation": "卫材",
+      "drug_generic_id": "7EZncIBvubm",
+      "drug_generic_name": "甲钴胺片",
+      "trade_name": "弥可保"
+    },
+    {
+      "company_name": "卫材（中国）药业有限公司",
+      "company_abbreviation": "卫材",
+      "drug_generic_id": "7EZncIBdT3h",
+      "drug_generic_name": "甲钴胺注射液",
+      "trade_name": "弥可保"
+    },
+    {
+      "company_name": "Roche Pharma (Schweiz) AG",
+      "company_abbreviation": "罗氏",
+      "drug_generic_id": "7Mat6XjnbIc",
+      "drug_generic_name": "甲氧聚二醇重组人促红素注射液",
+      "trade_name": "美信罗"
+    },
+    {
+      "company_name": "Takeda Pharmaceuticals U.S.A., Inc.",
+      "company_abbreviation": "武田制药",
+      "drug_generic_id": "85ghXmzKrfk",
+      "drug_generic_name": "拉那利尤单抗注射液",
+      "trade_name": "达泽优"
+    },
+    {
+      "company_name": "VANCOCIN ITALIA SRL",
+      "company_abbreviation": "",
+      "drug_generic_id": "8TQHZtuOZ9d",
+      "drug_generic_name": "芦曲泊帕片",
+      "trade_name": "稳可达"
+    },
+    {
+      "company_name": "Akarx, Inc.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7yTKc3Yik1W",
+      "drug_generic_name": "马来酸阿伐曲泊帕片",
+      "trade_name": "苏可欣"
+    },
+    {
+      "company_name": "KYOWA KIRIN CO., LTD.",
+      "company_abbreviation": "",
+      "drug_generic_id": "8Czz3coJPr7",
+      "drug_generic_name": "人促红素注射液",
+      "trade_name": "利血宝"
+    },
+    {
+      "company_name": "EISAI CO.,LTD.",
+      "company_abbreviation": "卫材",
+      "drug_generic_id": "7EZnbA33gSN",
+      "drug_generic_name": "四烯甲萘醌软胶囊",
+      "trade_name": "固力康"
+    },
+    {
+      "company_name": "Vifor (International) AG",
+      "company_abbreviation": "",
+      "drug_generic_id": "1xDOBk18FkE",
+      "drug_generic_name": "羧基麦芽糖铁注射液",
+      "trade_name": "菲新捷"
+    },
+    {
+      "company_name": "Pharmacosmos A/S",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbv0fjfV",
+      "drug_generic_name": "右旋糖酐铁注射液",
+      "trade_name": "科莫非"
+    },
+    {
+      "company_name": "Vifor (International) AG",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndyWNo5b",
+      "drug_generic_name": "蔗糖铁注射液",
+      "trade_name": "维乐福"
+    },
+    {
+      "company_name": "roche pharma (schweiz) ltd",
+      "company_abbreviation": "",
+      "drug_generic_id": "7MaAsCn9W7H",
+      "drug_generic_name": "重组人促红素-β注射液(CHO细胞)",
+      "trade_name": "罗可曼"
+    },
+    {
+      "company_name": "Takeda Pharmaceuticals U.S.A., Inc.",
+      "company_abbreviation": "武田制药",
+      "drug_generic_id": "8btvT0nbCtJ",
+      "drug_generic_name": "注射用伏尼凝血素α",
+      "trade_name": "维因止"
+    },
+    {
+      "company_name": "KYOWA KIRIN CO., LTD.",
+      "company_abbreviation": "",
+      "drug_generic_id": "8Dw9EJdv7KS",
+      "drug_generic_name": "注射用罗普司亭",
+      "trade_name": "惠尔凝"
+    },
+    {
+      "company_name": "celgene corporation, a bristol-myers squibb company",
+      "company_abbreviation": "",
+      "drug_generic_id": "8Dw9ESldfZ6",
+      "drug_generic_name": "注射用罗特西普",
+      "trade_name": "利布洛泽"
+    },
+    {
+      "company_name": "Novo Nordisk A/S",
+      "company_abbreviation": "诺和诺德",
+      "drug_generic_id": "8bSG19UpUZT",
+      "drug_generic_name": "注射用培妥罗凝血素α",
+      "trade_name": "诺易特"
+    },
+    {
+      "company_name": "Takeda Pharmaceuticals U.S.A., Inc.",
+      "company_abbreviation": "武田制药",
+      "drug_generic_id": "8Ydv4aiBGh7",
+      "drug_generic_name": "注射用舒索凝血素α",
+      "trade_name": "助因止"
+    },
+    {
+      "company_name": "Novo Nordisk A/S",
+      "company_abbreviation": "诺和诺德",
+      "drug_generic_id": "7EZncv2s24t",
+      "drug_generic_name": "注射用重组人凝血因子Ⅶa",
+      "trade_name": "诺其"
+    },
+    {
+      "company_name": "Pfizer Europe MA EEIG",
+      "company_abbreviation": "辉瑞",
+      "drug_generic_id": "7EZncv2aqWo",
+      "drug_generic_name": "注射用重组人凝血因子Ⅷ",
+      "trade_name": "任捷"
+    },
+    {
+      "company_name": "Pfizer Europe MA EEIG",
+      "company_abbreviation": "辉瑞",
+      "drug_generic_id": "7EZncv1SPOj",
+      "drug_generic_name": "注射用重组人凝血因子Ⅸ",
+      "trade_name": "贝赋"
+    }
+  ]
+}

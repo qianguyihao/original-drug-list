@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "company_name": "西安杨森制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZncQFEHPs",
+      "drug_generic_name": "盐酸氟桂利嗪胶囊",
+      "trade_name": "西比灵"
+    },
+    {
+      "company_name": "上海罗氏制药有限公司",
+      "company_abbreviation": "罗氏",
+      "drug_generic_id": "7EZnbIS2hY8",
+      "drug_generic_name": "多巴丝肼片",
+      "trade_name": "美多芭"
+    },
+    {
+      "company_name": "ORION CORPORATION",
+      "company_abbreviation": "奥立安",
+      "drug_generic_id": "7EZnc85uSMg",
+      "drug_generic_name": "恩他卡朋片",
+      "trade_name": "珂丹"
+    },
+    {
+      "company_name": "ORION CORPORATION",
+      "company_abbreviation": "奥立安",
+      "drug_generic_id": "7EZnc84mufW",
+      "drug_generic_name": "恩他卡朋双多巴片",
+      "trade_name": "达灵复"
+    },
+    {
+      "company_name": "ORION CORPORATION",
+      "company_abbreviation": "奥立安",
+      "drug_generic_id": "7EZnc84VGw6",
+      "drug_generic_name": "恩他卡朋双多巴片(Ⅱ)",
+      "trade_name": "达灵复"
+    },
+    {
+      "company_name": "ORION CORPORATION",
+      "company_abbreviation": "奥立安",
+      "drug_generic_id": "7EZnc85dhEb",
+      "drug_generic_name": "恩他卡朋双多巴片(Ⅲ)",
+      "trade_name": "达灵复"
+    },
+    {
+      "company_name": "ORION CORPORATION",
+      "company_abbreviation": "奥立安",
+      "drug_generic_id": "7EZnc84E5o1",
+      "drug_generic_name": "恩他卡朋双多巴片(Ⅳ)",
+      "trade_name": "达灵复"
+    },
+    {
+      "company_name": "卫材（中国）药业有限公司",
+      "company_abbreviation": "卫材",
+      "drug_generic_id": "7EZncI7HBuT",
+      "drug_generic_name": "甲磺酸倍他司汀片",
+      "trade_name": "敏使朗"
+    },
+    {
+      "company_name": "Teva Pharmaceutical Industries Ltd.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncIpiJzT",
+      "drug_generic_name": "甲磺酸雷沙吉兰片",
+      "trade_name": "安齐来"
+    },
+    {
+      "company_name": "MARINUS PHARMACEUTICALS INC",
+      "company_abbreviation": "",
+      "drug_generic_id": "8bGrDr8FUXK",
+      "drug_generic_name": "加那索龙口服混悬剂",
+      "trade_name": "泽元安"
+    },
+    {
+      "company_name": "Pfizer Europe MA EEIG",
+      "company_abbreviation": "辉瑞",
+      "drug_generic_id": "7EZndN2uJfp",
+      "drug_generic_name": "酒石酸伐尼克兰片",
+      "trade_name": "畅沛"
+    },
+    {
+      "company_name": "SANOFI MATURE IP",
+      "company_abbreviation": "赛诺菲",
+      "drug_generic_id": "7EZnbl4zmD4",
+      "drug_generic_name": "利鲁唑片",
+      "trade_name": "力如太"
+    },
+    {
+      "company_name": "UCB-Pharma SA",
+      "company_abbreviation": "优时比",
+      "drug_generic_id": "7IMTQf8TxCl",
+      "drug_generic_name": "罗替高汀贴片",
+      "trade_name": "优普洛"
+    },
+    {
+      "company_name": "Pfizer Europe MA EEIG",
+      "company_abbreviation": "辉瑞",
+      "drug_generic_id": "7vBZEItNVmK",
+      "drug_generic_name": "氯苯唑酸葡胺软胶囊",
+      "trade_name": "维达全"
+    },
+    {
+      "company_name": "Pfizer Europe MA EEIG",
+      "company_abbreviation": "辉瑞",
+      "drug_generic_id": "82QAbs8fZDq",
+      "drug_generic_name": "氯苯唑酸软胶囊",
+      "trade_name": "维万心"
+    },
+    {
+      "company_name": "Mcneil Sweden AB",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZnbXfCmlr",
+      "drug_generic_name": "尼古丁咀嚼胶",
+      "trade_name": "力克雷"
+    },
+    {
+      "company_name": "LES LABORATOIRES SERVIER",
+      "company_abbreviation": "施维雅",
+      "drug_generic_id": "7EZnbw4FrKN",
+      "drug_generic_name": "吡贝地尔缓释片",
+      "trade_name": "泰舒达"
+    },
+    {
+      "company_name": "Organon Healthcare GmbH",
+      "company_abbreviation": "欧加隆",
+      "drug_generic_id": "7EZnbpiz6Rr",
+      "drug_generic_name": "卡左双多巴缓释片",
+      "trade_name": "息宁"
+    },
+    {
+      "company_name": "Biogen MA, Inc.",
+      "company_abbreviation": "渤健",
+      "drug_generic_id": "8daRxsC1IbQ",
+      "drug_generic_name": "托夫生注射液",
+      "trade_name": "凯盛迪"
+    },
+    {
+      "company_name": "GLAXOSMITHKLINE SA",
+      "company_abbreviation": "葛兰素史克",
+      "drug_generic_id": "7EZncRz0ufb",
+      "drug_generic_name": "盐酸罗匹尼罗缓释片",
+      "trade_name": "力备"
+    },
+    {
+      "company_name": "Boehringer Ingelheim International GmbH",
+      "company_abbreviation": "勃林格殷格翰",
+      "drug_generic_id": "7EZncQiWNp0",
+      "drug_generic_name": "盐酸普拉克索缓释片",
+      "trade_name": "森福罗"
+    },
+    {
+      "company_name": "Boehringer Ingelheim International GmbH",
+      "company_abbreviation": "勃林格殷格翰",
+      "drug_generic_id": "7EZncQiFcgV",
+      "drug_generic_name": "盐酸普拉克索片",
+      "trade_name": "森福罗"
+    },
+    {
+      "company_name": "ORION CORPORATION",
+      "company_abbreviation": "奥立安",
+      "drug_generic_id": "7EZncP0TUEg",
+      "drug_generic_name": "盐酸司来吉兰片",
+      "trade_name": "咪多吡"
+    }
+  ]
+}

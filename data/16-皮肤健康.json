@@ -1,0 +1,298 @@
+{
+  "data": [
+    {
+      "company_name": "GALDERMA INTERNATIONAL",
+      "company_abbreviation": "高德美",
+      "drug_generic_id": "7EZndURjAN5",
+      "drug_generic_name": "阿达帕林凝胶",
+      "trade_name": "达芙文"
+    },
+    {
+      "company_name": "中美天津史克制药有限公司",
+      "company_abbreviation": "中美史克",
+      "drug_generic_id": "7EZndxp8za0",
+      "drug_generic_name": "莫匹罗星软膏",
+      "trade_name": "百多邦"
+    },
+    {
+      "company_name": "GLAXO WELLCOME UK LIMITED",
+      "company_abbreviation": "葛兰素史克",
+      "drug_generic_id": "7EZnb3RzcLZ",
+      "drug_generic_name": "丙酸氟替卡松乳膏",
+      "trade_name": "克廷肤"
+    },
+    {
+      "company_name": "LEO Pharma A/S",
+      "company_abbreviation": "利奥制药",
+      "drug_generic_id": "7EZnbppF57s",
+      "drug_generic_name": "卡泊三醇倍他米松软膏",
+      "trade_name": "得肤宝"
+    },
+    {
+      "company_name": "拜耳医药（上海）有限公司",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZnd2LjjYn",
+      "drug_generic_name": "糠酸莫米松乳膏",
+      "trade_name": "艾洛松"
+    },
+    {
+      "company_name": "LEO Pharma A/S",
+      "company_abbreviation": "利奥制药",
+      "drug_generic_id": "7EZnbpqehnC",
+      "drug_generic_name": "卡泊三醇软膏",
+      "trade_name": "达力士"
+    },
+    {
+      "company_name": "LEO Pharma A/S",
+      "company_abbreviation": "利奥制药",
+      "drug_generic_id": "7EZnbba1Nst",
+      "drug_generic_name": "他克莫司软膏",
+      "trade_name": "普特彼"
+    },
+    {
+      "company_name": "PFIZER INC.",
+      "company_abbreviation": "辉瑞",
+      "drug_generic_id": "8FuaTbN84zS",
+      "drug_generic_name": "阿布昔替尼片",
+      "trade_name": "希必可"
+    },
+    {
+      "company_name": "Actavis Group Ptc Ehf.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndUsCus4",
+      "drug_generic_name": "阿维A胶囊",
+      "trade_name": "新体卡松"
+    },
+    {
+      "company_name": "上海强生有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZndwdCsp7",
+      "drug_generic_name": "苯扎氯铵贴",
+      "trade_name": "邦廸"
+    },
+    {
+      "company_name": "Bridging Pharma GmbH",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbJ7mD0u",
+      "drug_generic_name": "多磺酸粘多糖乳膏",
+      "trade_name": "喜辽妥"
+    },
+    {
+      "company_name": "SANOFI WINTHROP INDUSTRIE",
+      "company_abbreviation": "赛诺菲",
+      "drug_generic_id": "81j52u02M80",
+      "drug_generic_name": "度普利尤单抗注射液",
+      "trade_name": "达必妥"
+    },
+    {
+      "company_name": "澳美製藥廠有限公司",
+      "company_abbreviation": "澳美制药",
+      "drug_generic_id": "7EZnbEcvs5W",
+      "drug_generic_name": "复方氟米松软膏",
+      "trade_name": "奥深"
+    },
+    {
+      "company_name": "MERZ PHARMACEUTICALS GMBH",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbG1Lp67",
+      "drug_generic_name": "复方肝素钠尿囊素凝胶",
+      "trade_name": "康瑞保"
+    },
+    {
+      "company_name": "澳美製藥廠有限公司",
+      "company_abbreviation": "澳美制药",
+      "drug_generic_id": "7EZnbCWaa7G",
+      "drug_generic_name": "复方克霉唑乳膏(Ⅱ)",
+      "trade_name": "奥青"
+    },
+    {
+      "company_name": "LEO Pharma A/S",
+      "company_abbreviation": "利奥制药",
+      "drug_generic_id": "7EZnbKFAEbP",
+      "drug_generic_name": "夫西地酸乳膏",
+      "trade_name": "立思丁"
+    },
+    {
+      "company_name": "GALDERMA INTERNATIONAL",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndKWuryt",
+      "drug_generic_name": "过氧苯甲酰凝胶",
+      "trade_name": "班赛"
+    },
+    {
+      "company_name": "Anacor Pharmaceuticals LLC",
+      "company_abbreviation": "",
+      "drug_generic_id": "82QAbTl9ZZu",
+      "drug_generic_name": "克立硼罗软膏",
+      "trade_name": "舒坦明"
+    },
+    {
+      "company_name": "利奥化学制药有限公司",
+      "company_abbreviation": "",
+      "drug_generic_id": "7Mat6WRgTP3",
+      "drug_generic_name": "克霉庆大倍松乳膏",
+      "trade_name": "奇特生"
+    },
+    {
+      "company_name": "拜耳医药保健有限公司",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZndbfzDBT",
+      "drug_generic_name": "联苯苄唑乳膏",
+      "trade_name": "美克"
+    },
+    {
+      "company_name": "RECORDATI AG",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbpzjryc",
+      "drug_generic_name": "卤米松/三氯生乳膏",
+      "trade_name": "新适确得"
+    },
+    {
+      "company_name": "澳美製藥廠有限公司",
+      "company_abbreviation": "澳美制药",
+      "drug_generic_id": "7EZnbpzB2Gh",
+      "drug_generic_name": "卤米松乳膏",
+      "trade_name": "澳能"
+    },
+    {
+      "company_name": "INOVA PHARMACEUTICALS (SINGAPORE) PTE. LIMITED",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbxoHwq6",
+      "drug_generic_name": "咪喹莫特乳膏",
+      "trade_name": "艾达乐"
+    },
+    {
+      "company_name": "Viatris Healthcare GmbH",
+      "company_abbreviation": "晖致",
+      "drug_generic_id": "7EZnbw2XQYj",
+      "drug_generic_name": "吡美莫司乳膏",
+      "trade_name": "爱宁达"
+    },
+    {
+      "company_name": "LEO Pharma A/S",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbppntZn",
+      "drug_generic_name": "卡泊三醇倍他米松凝胶",
+      "trade_name": "Xamiol"
+    },
+    {
+      "company_name": "LEO Pharma A/S",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbppWGfx",
+      "drug_generic_name": "卡泊三醇搽剂",
+      "trade_name": "达力士"
+    },
+    {
+      "company_name": "澳美製藥廠有限公司",
+      "company_abbreviation": "澳美制药",
+      "drug_generic_id": "7EZnci601Gy",
+      "drug_generic_name": "曲安奈德口腔软膏",
+      "trade_name": "宁之助"
+    },
+    {
+      "company_name": "西安杨森制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZnci7q1kX",
+      "drug_generic_name": "曲安奈德益康唑乳膏",
+      "trade_name": "派瑞松"
+    },
+    {
+      "company_name": "johnson & johnson sante beaute france",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnb1wwbaM",
+      "drug_generic_name": "三乙醇胺乳膏",
+      "trade_name": "比亚芬"
+    },
+    {
+      "company_name": "TEIJIN PHARMA LIMITED",
+      "company_abbreviation": "帝人",
+      "drug_generic_id": "7EZnbbaAZID",
+      "drug_generic_name": "他卡西醇软膏",
+      "trade_name": "萌尔夫"
+    },
+    {
+      "company_name": "西安杨森制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZndNB7N9f",
+      "drug_generic_name": "酮康唑乳膏",
+      "trade_name": "金达克宁"
+    },
+    {
+      "company_name": "西安杨森制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZncVGL3BM",
+      "drug_generic_name": "硝酸咪康唑乳膏",
+      "trade_name": "达克宁"
+    },
+    {
+      "company_name": "西安杨森制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZncVHBR01",
+      "drug_generic_name": "硝酸咪康唑散",
+      "trade_name": "达克宁"
+    },
+    {
+      "company_name": "FERRER INTERNACIONAL SA",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncVXMZqC",
+      "drug_generic_name": "硝酸舍他康唑乳膏",
+      "trade_name": "卓兰"
+    },
+    {
+      "company_name": "澳美製藥廠有限公司",
+      "company_abbreviation": "澳美制药",
+      "drug_generic_id": "7EZncVO8CZS",
+      "drug_generic_name": "硝酸异康唑乳膏",
+      "trade_name": "澳可修"
+    },
+    {
+      "company_name": "GALDERMA INTERNATIONAL",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncSqWh0v",
+      "drug_generic_name": "盐酸阿莫罗芬搽剂",
+      "trade_name": "罗每乐"
+    },
+    {
+      "company_name": "Galderma Laboratorium GmbH",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncSqEFSq",
+      "drug_generic_name": "盐酸阿莫罗芬乳膏",
+      "trade_name": "罗每乐"
+    },
+    {
+      "company_name": "SUNSTAR INC.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncRpDIWw",
+      "drug_generic_name": "盐酸米诺环素软膏",
+      "trade_name": "派丽奥"
+    },
+    {
+      "company_name": "Hanpoong Pharm.Co., LTD.",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncR8BN7G",
+      "drug_generic_name": "盐酸特比萘芬喷雾剂",
+      "trade_name": "采特"
+    },
+    {
+      "company_name": "中美天津史克制药有限公司",
+      "company_abbreviation": "中美史克",
+      "drug_generic_id": "7EZncR82ARw",
+      "drug_generic_name": "盐酸特比萘芬乳膏",
+      "trade_name": "兰美抒"
+    },
+    {
+      "company_name": "KARO HEALTHCARE AB",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZncR9sAvV",
+      "drug_generic_name": "盐酸特比萘芬涂膜剂",
+      "trade_name": "兰美抒"
+    },
+    {
+      "company_name": "拜耳医药保健有限公司",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZnbcZzlAJ",
+      "drug_generic_name": "依托芬那酯乳膏",
+      "trade_name": "优迈"
+    }
+  ]
+}
