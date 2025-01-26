@@ -1,0 +1,928 @@
+{
+  "data": [
+    {
+      "company_name": "拜耳医药保健有限公司",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZndTJLRRk",
+      "drug_generic_name": "阿卡波糖片",
+      "trade_name": "拜唐苹"
+    },
+    {
+      "company_name": "辉瑞制药科技有限公司",
+      "company_abbreviation": "辉瑞",
+      "drug_generic_id": "7EZndTVpqcD",
+      "drug_generic_name": "阿奇霉素干混悬剂",
+      "trade_name": "希舒美"
+    },
+    {
+      "company_name": "PLIVA HRVATSKA D.O.O.",
+      "company_abbreviation": "普利瓦",
+      "drug_generic_id": "7EZndTYfpvr",
+      "drug_generic_name": "阿奇霉素胶囊",
+      "trade_name": "舒美特"
+    },
+    {
+      "company_name": "BAYER AG",
+      "company_abbreviation": " 拜耳",
+      "drug_generic_id": "7EZndTQ12J6",
+      "drug_generic_name": "阿司匹林肠溶片",
+      "trade_name": "拜阿司匹灵"
+    },
+    {
+      "company_name": "BAYER AG",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZncVBEhgk",
+      "drug_generic_name": "硝苯地平控释片",
+      "trade_name": "拜新同"
+    },
+    {
+      "company_name": "默克制药（江苏）有限公司",
+      "company_abbreviation": "默克",
+      "drug_generic_id": "7EZncOv6Q3e",
+      "drug_generic_name": "盐酸二甲双胍片",
+      "trade_name": "格华止"
+    },
+    {
+      "company_name": "晖致制药（大连）有限公司",
+      "company_abbreviation": "晖致",
+      "drug_generic_id": "7EZndU5CYTx",
+      "drug_generic_name": "阿托伐他汀钙片",
+      "trade_name": "立普妥"
+    },
+    {
+      "company_name": "晖致制药（大连）有限公司",
+      "company_abbreviation": "晖致",
+      "drug_generic_id": "7EZndwmZdHM",
+      "drug_generic_name": "苯磺酸氨氯地平片",
+      "trade_name": "络活喜"
+    },
+    {
+      "company_name": "Haleon Denmark ApS",
+      "company_abbreviation": "赫力昂",
+      "drug_generic_id": "7EZnb3Sq0ae",
+      "drug_generic_name": "丙酸氟替卡松鼻喷雾剂",
+      "trade_name": "辅舒良"
+    },
+    {
+      "company_name": "Mcneil Sweden AB",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZnc1oMVmr",
+      "drug_generic_name": "布地奈德鼻喷雾剂",
+      "trade_name": "雷诺考特"
+    },
+    {
+      "company_name": "ASTRAZENECA AB",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7EZnc1nW7Yc",
+      "drug_generic_name": "布地奈德福莫特罗吸入粉雾剂(Ⅰ)",
+      "trade_name": "信必可都保"
+    },
+    {
+      "company_name": "上海强生制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZnbR7P3Xx",
+      "drug_generic_name": "对乙酰氨基酚滴剂",
+      "trade_name": "泰诺林"
+    },
+    {
+      "company_name": "上海强生制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZnc1zzGjv",
+      "drug_generic_name": "布洛芬混悬滴剂",
+      "trade_name": "美林"
+    },
+    {
+      "company_name": "中美天津史克制药有限公司",
+      "company_abbreviation": "中美史克",
+      "drug_generic_id": "7EZnc1AZFXU",
+      "drug_generic_name": "布洛芬缓释胶囊",
+      "trade_name": "芬必得"
+    },
+    {
+      "company_name": "Roche Pharma (Schweiz) AG",
+      "company_abbreviation": "罗氏",
+      "drug_generic_id": "7EZncYe0POs",
+      "drug_generic_name": "磷酸奥司他韦胶囊",
+      "trade_name": "达菲"
+    },
+    {
+      "company_name": "Roche Pharma (Schweiz) AG",
+      "company_abbreviation": "罗氏",
+      "drug_generic_id": "86FDXZcQq56",
+      "drug_generic_name": "玛巴洛沙韦片",
+      "trade_name": "速福达"
+    },
+    {
+      "company_name": "中美天津史克制药有限公司",
+      "company_abbreviation": "中美史克",
+      "drug_generic_id": "7EZnbR86F5C",
+      "drug_generic_name": "对乙酰氨基酚片",
+      "trade_name": "必理通"
+    },
+    {
+      "company_name": "UpJohn US 2 LLC",
+      "company_abbreviation": "辉瑞普强",
+      "drug_generic_id": "7LfNQ8GiR60",
+      "drug_generic_name": "塞来昔布胶囊",
+      "trade_name": "西乐葆"
+    },
+    {
+      "company_name": "GALDERMA INTERNATIONAL",
+      "company_abbreviation": "高德美",
+      "drug_generic_id": "7EZndURjAN5",
+      "drug_generic_name": "阿达帕林凝胶",
+      "trade_name": "达芙文"
+    },
+    {
+      "company_name": "ASTRAZENECA AB",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7EZncFQ3LsE",
+      "drug_generic_name": "琥珀酸美托洛尔缓释片",
+      "trade_name": "倍他乐克"
+    },
+    {
+      "company_name": "SANOFI WINTHROP INDUSTRIE",
+      "company_abbreviation": "赛诺菲",
+      "drug_generic_id": "7EZndN4tV9Y",
+      "drug_generic_name": "酒石酸唑吡坦片",
+      "trade_name": "思诺思"
+    },
+    {
+      "company_name": "Organon Belgium",
+      "company_abbreviation": "默沙东",
+      "drug_generic_id": "7EZnd2MrIuH",
+      "drug_generic_name": "糠酸莫米松鼻喷雾剂",
+      "trade_name": "内舒拿"
+    },
+    {
+      "company_name": "亿腾医药（苏州）有限公司",
+      "company_abbreviation": "礼来",
+      "drug_generic_id": "7EZnbKVubul",
+      "drug_generic_name": "头孢克洛缓释片(Ⅱ)",
+      "trade_name": "希刻劳"
+    },
+    {
+      "company_name": "GlaxoSmithKline AG",
+      "company_abbreviation": "葛兰素史克",
+      "drug_generic_id": "7EZnbL0jmHI",
+      "drug_generic_name": "头孢呋辛酯片",
+      "trade_name": "西力欣"
+    },
+    {
+      "company_name": "北京吉洛华制药有限公司",
+      "company_abbreviation": "吉洛华制药",
+      "drug_generic_id": "7EZnc0Cfw4E",
+      "drug_generic_name": "左氧氟沙星片",
+      "trade_name": "可乐必妥"
+    },
+    {
+      "company_name": "拜耳医药（上海）有限公司",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZncqU8fnE",
+      "drug_generic_name": "氯雷他定片",
+      "trade_name": "开瑞坦"
+    },
+    {
+      "company_name": "拜耳医药保健有限公司",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZndQxVs17",
+      "drug_generic_name": "铝碳酸镁咀嚼片",
+      "trade_name": "达喜"
+    },
+    {
+      "company_name": "中美天津史克制药有限公司",
+      "company_abbreviation": "中美史克",
+      "drug_generic_id": "7EZndxp8za0",
+      "drug_generic_name": "莫匹罗星软膏",
+      "trade_name": "百多邦"
+    },
+    {
+      "company_name": "西安杨森制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZnbJ2P2Vc",
+      "drug_generic_name": "多潘立酮片",
+      "trade_name": "吗丁啉"
+    },
+    {
+      "company_name": "第一三共制药（上海）有限公司",
+      "company_abbreviation": "第一三共",
+      "drug_generic_id": "7EZnbFco0vw",
+      "drug_generic_name": "复方甲氧那明胶囊",
+      "trade_name": "阿斯美"
+    },
+    {
+      "company_name": "Organon NV",
+      "company_abbreviation": "欧加隆",
+      "drug_generic_id": "7EZnbqL79ra",
+      "drug_generic_name": "去氧孕烯炔雌醇片",
+      "trade_name": "妈富隆"
+    },
+    {
+      "company_name": "默克制药（江苏）有限公司",
+      "company_abbreviation": "默克",
+      "drug_generic_id": "7EZnc0Gvv1R",
+      "drug_generic_name": "左甲状腺素钠片",
+      "trade_name": "优甲乐"
+    },
+    {
+      "company_name": "诺和诺德制药有限公司",
+      "company_abbreviation": "诺和诺德",
+      "drug_generic_id": "86FDXc39q9Q",
+      "drug_generic_name": "司美格鲁肽注射液",
+      "trade_name": "诺和泰"
+    },
+    {
+      "company_name": "Eli Lilly Nederland BV",
+      "company_abbreviation": "礼来",
+      "drug_generic_id": "8aUADX4Uz3X",
+      "drug_generic_name": "替尔泊肽注射液",
+      "trade_name": "穆峰达"
+    },
+    {
+      "company_name": "A. Menarini GmbH",
+      "company_abbreviation": "美纳里尼",
+      "drug_generic_id": "7EZnbbd9nTm",
+      "drug_generic_name": "他达拉非片",
+      "trade_name": "希爱力"
+    },
+    {
+      "company_name": "Astellas Pharma Co. Ltd.",
+      "company_abbreviation": "安斯泰来",
+      "drug_generic_id": "7LfNQ8oq7Tq",
+      "drug_generic_name": "他克莫司胶囊",
+      "trade_name": "普乐可复"
+    },
+    {
+      "company_name": "Viatris Specialty LLC",
+      "company_abbreviation": "晖致",
+      "drug_generic_id": "7EZncVSoBX5",
+      "drug_generic_name": "硝酸甘油舌下片",
+      "trade_name": "耐较咛"
+    },
+    {
+      "company_name": "Novartis Pharma Schweiz AG",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7EZnd7FBjGP",
+      "drug_generic_name": "缬沙坦氨氯地平片(Ⅰ)",
+      "trade_name": "倍博特"
+    },
+    {
+      "company_name": "北京诺华制药有限公司",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7EZnd7Gs754",
+      "drug_generic_name": "缬沙坦胶囊",
+      "trade_name": "代文"
+    },
+    {
+      "company_name": "Glaxosmithkline Australia Pty Ltd.",
+      "company_abbreviation": "葛兰素史克",
+      "drug_generic_id": "7EZnbwpoagG",
+      "drug_generic_name": "吸入用硫酸沙丁胺醇溶液",
+      "trade_name": "万托林"
+    },
+    {
+      "company_name": "Amdipharm Limited",
+      "company_abbreviation": "赛诺菲",
+      "drug_generic_id": "7EZnd85qOya",
+      "drug_generic_name": "罗红霉素片",
+      "trade_name": "罗力得"
+    },
+    {
+      "company_name": "Boehringer Ingelheim Pharma GmbH & Co. KG",
+      "company_abbreviation": "勃林格殷格翰",
+      "drug_generic_id": "7DHJwFgYMJD",
+      "drug_generic_name": "盐酸氨溴索注射液",
+      "trade_name": "沐舒坦"
+    },
+    {
+      "company_name": "西安杨森制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZncQFEHPs",
+      "drug_generic_name": "盐酸氟桂利嗪胶囊",
+      "trade_name": "西比灵"
+    },
+    {
+      "company_name": "LILLY FRANCE",
+      "company_abbreviation": "礼来",
+      "drug_generic_id": "7EZncQGdU5C",
+      "drug_generic_name": "盐酸氟西汀分散片",
+      "trade_name": "百优解"
+    },
+    {
+      "company_name": "晖致制药（大连）有限公司",
+      "company_abbreviation": "晖致",
+      "drug_generic_id": "7EZncROU1xH",
+      "drug_generic_name": "盐酸舍曲林片",
+      "trade_name": "左洛复"
+    },
+    {
+      "company_name": "UCB-Pharma SA",
+      "company_abbreviation": "优时比",
+      "drug_generic_id": "7EZncS2OmVE",
+      "drug_generic_name": "盐酸西替利嗪片",
+      "trade_name": "仙特明"
+    },
+    {
+      "company_name": "阿斯利康制药有限公司",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7EZnbM5iHsK",
+      "drug_generic_name": "奥美拉唑肠溶胶囊",
+      "trade_name": "洛赛克"
+    },
+    {
+      "company_name": "第一三共制药（上海）有限公司",
+      "company_abbreviation": "第一三共",
+      "drug_generic_id": "7IMKif2WoEk",
+      "drug_generic_name": "奥美沙坦酯氨氯地平片",
+      "trade_name": "思卫卡"
+    },
+    {
+      "company_name": "中美天津史克制药有限公司",
+      "company_abbreviation": "中美史克",
+      "drug_generic_id": "7EZndUBZfKJ",
+      "drug_generic_name": "阿苯达唑片",
+      "trade_name": "史克肠虫清"
+    },
+    {
+      "company_name": "GLAXO WELLCOME UK LIMITED",
+      "company_abbreviation": "葛兰素史克",
+      "drug_generic_id": "7EZnb3RzcLZ",
+      "drug_generic_name": "丙酸氟替卡松乳膏",
+      "trade_name": "克廷肤"
+    },
+    {
+      "company_name": "GLAXOSMITHKLINE SA",
+      "company_abbreviation": "葛兰素史克",
+      "drug_generic_id": "7EZnb3RQNU4",
+      "drug_generic_name": "丙酸氟替卡松吸入气雾剂",
+      "trade_name": "辅舒酮"
+    },
+    {
+      "company_name": "中美上海施贵宝制药有限公司",
+      "company_abbreviation": "百时美施贵宝",
+      "drug_generic_id": "7EZnc883gWZ",
+      "drug_generic_name": "恩替卡韦片",
+      "trade_name": "博路定"
+    },
+    {
+      "company_name": "Novartis Pharma Schweiz AG",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7EZnb8x62Eb",
+      "drug_generic_name": "二甲双胍维格列汀片(Ⅱ)",
+      "trade_name": "宜合瑞"
+    },
+    {
+      "company_name": "SANOFI WINTHROP INDUSTRIE",
+      "company_abbreviation": "赛诺菲",
+      "drug_generic_id": "7DchiPxklts",
+      "drug_generic_name": "厄贝沙坦片",
+      "trade_name": "安博维"
+    },
+    {
+      "company_name": "SANOFI WINTHROP INDUSTRIE",
+      "company_abbreviation": "赛诺菲",
+      "drug_generic_id": "7EZnbq188k6",
+      "drug_generic_name": "厄贝沙坦氢氯噻嗪片",
+      "trade_name": "安博诺"
+    },
+    {
+      "company_name": "赛诺菲（北京）制药有限公司",
+      "company_abbreviation": "赛诺菲",
+      "drug_generic_id": "7EZncl8Lgi7",
+      "drug_generic_name": "格列美脲片",
+      "trade_name": "亚莫利"
+    },
+    {
+      "company_name": "EISAI EUROPE LIMITED",
+      "company_abbreviation": "卫材",
+      "drug_generic_id": "7DckF677kzG",
+      "drug_generic_name": "甲磺酸仑伐替尼胶囊",
+      "trade_name": "乐卫玛"
+    },
+    {
+      "company_name": "Merck Healthcare Germany GmbH",
+      "company_abbreviation": "默克",
+      "drug_generic_id": "7EZncHkjoOR",
+      "drug_generic_name": "甲巯咪唑片",
+      "trade_name": "赛治"
+    },
+    {
+      "company_name": "ABBOTT LABORATORIES (SINGAPORE ) PRIVATE LIMITED",
+      "company_abbreviation": "雅培",
+      "drug_generic_id": "7EZnbgtA5M6",
+      "drug_generic_name": "克拉霉素缓释片",
+      "trade_name": "克拉仙"
+    },
+    {
+      "company_name": "Boehringer Ingelheim International GmbH",
+      "company_abbreviation": "勃林格殷格翰",
+      "drug_generic_id": "7EZnbkNP1Wj",
+      "drug_generic_name": "利格列汀二甲双胍片(Ⅱ)",
+      "trade_name": "欧双宁"
+    },
+    {
+      "company_name": "LEAD CHEMICAL CO., LTD.",
+      "company_abbreviation": "第一三共",
+      "drug_generic_id": "7EZncw1tN5O",
+      "drug_generic_name": "洛索洛芬钠贴剂",
+      "trade_name": "乐松"
+    },
+    {
+      "company_name": "Organon NV",
+      "company_abbreviation": "欧加隆",
+      "drug_generic_id": "7EZnbOZgo5S",
+      "drug_generic_name": "孟鲁司特钠咀嚼片",
+      "trade_name": "顺尔宁"
+    },
+    {
+      "company_name": "博福-益普生(天津)制药有限公司",
+      "company_abbreviation": "益普生",
+      "drug_generic_id": "7EZndyG33oq",
+      "drug_generic_name": "蒙脱石散",
+      "trade_name": "思密达"
+    },
+    {
+      "company_name": "Upjohn EESV",
+      "company_abbreviation": "辉瑞普强",
+      "drug_generic_id": "7DhCtgeneNy",
+      "drug_generic_name": "普瑞巴林胶囊",
+      "trade_name": "乐瑞卡"
+    },
+    {
+      "company_name": "LEO Pharma A/S",
+      "company_abbreviation": "利奥制药",
+      "drug_generic_id": "7EZnbppF57s",
+      "drug_generic_name": "卡泊三醇倍他米松软膏",
+      "trade_name": "得肤宝"
+    },
+    {
+      "company_name": "Janssen-Cilag International NV",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7IMJNoaI27Z",
+      "drug_generic_name": "卡格列净片",
+      "trade_name": "怡可安"
+    },
+    {
+      "company_name": "Bayer Vital GmbH",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZncRXpZs7",
+      "drug_generic_name": "盐酸莫西沙星片",
+      "trade_name": "拜复乐"
+    },
+    {
+      "company_name": "Organon NV",
+      "company_abbreviation": "默沙东",
+      "drug_generic_id": "7EZnbcZ09kz",
+      "drug_generic_name": "依托考昔片",
+      "trade_name": "安康信"
+    },
+    {
+      "company_name": "海南赞邦制药有限公司",
+      "company_abbreviation": "赞邦",
+      "drug_generic_id": "7EZnb6ejO5C",
+      "drug_generic_name": "乙酰半胱氨酸片",
+      "trade_name": "富露施"
+    },
+    {
+      "company_name": "PFIZER INC.",
+      "company_abbreviation": "辉瑞",
+      "drug_generic_id": "7EZncvdwo9C",
+      "drug_generic_name": "注射用阿奇霉素",
+      "trade_name": "希舒美"
+    },
+    {
+      "company_name": "GlaxoSmithKline AG",
+      "company_abbreviation": "葛兰素史克",
+      "drug_generic_id": "7EZnctg24n6",
+      "drug_generic_name": "注射用头孢呋辛钠",
+      "trade_name": "西力欣"
+    },
+    {
+      "company_name": "PLIVA HRVATSKA D.O.O.",
+      "company_abbreviation": "普利瓦",
+      "drug_generic_id": "7EZndTVpqcD",
+      "drug_generic_name": "阿奇霉素干混悬剂",
+      "trade_name": "舒美特"
+    },
+    {
+      "company_name": "ASTRAZENECA PTY LTD",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7EZnbM6IH79",
+      "drug_generic_name": "奥美拉唑镁肠溶片",
+      "trade_name": "洛赛克"
+    },
+    {
+      "company_name": "浙江大冢制药有限公司",
+      "company_abbreviation": "大冢制药",
+      "drug_generic_id": "7EZndUmEUIn",
+      "drug_generic_name": "阿立哌唑片",
+      "trade_name": "安律凡"
+    },
+    {
+      "company_name": "Organon NV",
+      "company_abbreviation": "默沙东",
+      "drug_generic_id": "7EZndTEnunN",
+      "drug_generic_name": "阿仑膦酸钠片",
+      "trade_name": "福善美"
+    },
+    {
+      "company_name": "Organon NV",
+      "company_abbreviation": "默沙东",
+      "drug_generic_id": "7EZndTEWGDX",
+      "drug_generic_name": "阿仑膦酸钠维D3片(Ⅱ)",
+      "trade_name": "福美加"
+    },
+    {
+      "company_name": "ASTRAZENECA UK LIMITED",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7EZndUT1bzz",
+      "drug_generic_name": "阿那曲唑片",
+      "trade_name": "瑞宁得"
+    },
+    {
+      "company_name": "辉瑞制药科技有限公司",
+      "company_abbreviation": "辉瑞",
+      "drug_generic_id": "7DbPLyLjTsA",
+      "drug_generic_name": "阿奇霉素片",
+      "trade_name": "希舒美"
+    },
+    {
+      "company_name": "PLIVA HRVATSKA D.O.O.",
+      "company_abbreviation": "普利瓦",
+      "drug_generic_id": "7DbPLyLjTsA",
+      "drug_generic_name": "阿奇霉素片",
+      "trade_name": "舒美特"
+    },
+    {
+      "company_name": "ASTRAZENECA AB",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "82QAbfBvxND",
+      "drug_generic_name": "布地奈德福莫特罗吸入粉雾剂(Ⅱ)",
+      "trade_name": "信必可都保"
+    },
+    {
+      "company_name": "上海强生制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZnc1zi5bq",
+      "drug_generic_name": "布洛芬混悬液",
+      "trade_name": "美林"
+    },
+    {
+      "company_name": "中美天津史克制药有限公司",
+      "company_abbreviation": "中美史克",
+      "drug_generic_id": "7EZnc1y9GF6",
+      "drug_generic_name": "布洛芬咀嚼片",
+      "trade_name": "芬必得"
+    },
+    {
+      "company_name": "Organon NV",
+      "company_abbreviation": "欧加隆",
+      "drug_generic_id": "7EZnbOZxZdX",
+      "drug_generic_name": "孟鲁司特钠片",
+      "trade_name": "顺尔宁"
+    },
+    {
+      "company_name": "中美天津史克制药有限公司",
+      "company_abbreviation": "中美史克",
+      "drug_generic_id": "7EZnc1ws5SC",
+      "drug_generic_name": "布洛芬乳膏",
+      "trade_name": "芬必得"
+    },
+    {
+      "company_name": "上海强生制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZnbR7xsPs",
+      "drug_generic_name": "对乙酰氨基酚混悬滴剂",
+      "trade_name": "泰诺林"
+    },
+    {
+      "company_name": "上海强生制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZnbR9f3BW",
+      "drug_generic_name": "对乙酰氨基酚缓释片",
+      "trade_name": "泰诺林"
+    },
+    {
+      "company_name": "上海强生制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZnbR4pSoz",
+      "drug_generic_name": "对乙酰氨基酚口服混悬液",
+      "trade_name": "泰诺林"
+    },
+    {
+      "company_name": "上海强生制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZnbR4HtwE",
+      "drug_generic_name": "对乙酰氨基酚口服溶液",
+      "trade_name": "泰诺林"
+    },
+    {
+      "company_name": "上海强生制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZnbR86F5C",
+      "drug_generic_name": "对乙酰氨基酚片",
+      "trade_name": "泰诺林"
+    },
+    {
+      "company_name": "拜耳医药（上海）有限公司",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZnd2LjjYn",
+      "drug_generic_name": "糠酸莫米松乳膏",
+      "trade_name": "艾洛松"
+    },
+    {
+      "company_name": "ABBOTT LABORATORIES (SINGAPORE ) PRIVATE LIMITED",
+      "company_abbreviation": "雅培",
+      "drug_generic_id": "7EZnbgt0TvW",
+      "drug_generic_name": "克拉霉素干混悬剂",
+      "trade_name": "克拉仙"
+    },
+    {
+      "company_name": "上海雅培制药有限公司",
+      "company_abbreviation": "雅培",
+      "drug_generic_id": "7EZnbgtiuE1",
+      "drug_generic_name": "克拉霉素片",
+      "trade_name": "克拉仙"
+    },
+    {
+      "company_name": "阿斯利康制药有限公司",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7EZncWEW1eS",
+      "drug_generic_name": "硫酸特布他林片",
+      "trade_name": "博利康尼"
+    },
+    {
+      "company_name": "ASTRAZENECA AB",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7EZncWFvdv2",
+      "drug_generic_name": "硫酸特布他林雾化吸入用溶液",
+      "trade_name": "博利康尼"
+    },
+    {
+      "company_name": "Boehringer Ingelheim International GmbH",
+      "company_abbreviation": "勃林格殷格翰",
+      "drug_generic_id": "7EZnbkO6D4o",
+      "drug_generic_name": "利格列汀片",
+      "trade_name": "欧唐宁"
+    },
+    {
+      "company_name": "第一三共制药（上海）有限公司",
+      "company_abbreviation": "第一三共",
+      "drug_generic_id": "7EZncw0UAPE",
+      "drug_generic_name": "洛索洛芬钠片",
+      "trade_name": "乐松"
+    },
+    {
+      "company_name": "BAYER AUSTRALIA LTD",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZncqUpQvJ",
+      "drug_generic_name": "氯雷他定糖浆",
+      "trade_name": "开瑞坦"
+    },
+    {
+      "company_name": "Roche Pharma (Schweiz) AG",
+      "company_abbreviation": "罗氏",
+      "drug_generic_id": "8XHADxdjvYi",
+      "drug_generic_name": "玛巴洛沙韦干混悬剂",
+      "trade_name": "速福达"
+    },
+    {
+      "company_name": "Actelion Pharmaceuticals Ltd",
+      "company_abbreviation": "爱可泰隆",
+      "drug_generic_id": "7IOjwvE7BZM",
+      "drug_generic_name": "马昔腾坦片",
+      "trade_name": "傲朴舒"
+    },
+    {
+      "company_name": "拜耳医药保健有限公司",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZndxWlDpr",
+      "drug_generic_name": "萘普生钠片",
+      "trade_name": "安理"
+    },
+    {
+      "company_name": "LEO Pharma A/S",
+      "company_abbreviation": "利奥制药",
+      "drug_generic_id": "7EZnbpqehnC",
+      "drug_generic_name": "卡泊三醇软膏",
+      "trade_name": "达力士"
+    },
+    {
+      "company_name": "北京诺华制药有限公司",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7EZnbpxBQLI",
+      "drug_generic_name": "卡马西平片",
+      "trade_name": "得理多"
+    },
+    {
+      "company_name": "北京诺华制药有限公司",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7EZnbssZx3f",
+      "drug_generic_name": "双氯芬酸二乙胺乳胶剂",
+      "trade_name": "扶他林"
+    },
+    {
+      "company_name": "中美天津史克制药有限公司",
+      "company_abbreviation": "中美史克",
+      "drug_generic_id": "7EZnbszNUbb",
+      "drug_generic_name": "双氯芬酸钠肠溶片",
+      "trade_name": "扶他林"
+    },
+    {
+      "company_name": "中美天津史克制药有限公司",
+      "company_abbreviation": "中美史克",
+      "drug_generic_id": "7EZnbsxOIgC",
+      "drug_generic_name": "双氯芬酸钠缓释片",
+      "trade_name": "扶他林"
+    },
+    {
+      "company_name": "MIKASA SEIYAKU CO., LTD.",
+      "company_abbreviation": "三笠制药",
+      "drug_generic_id": "7EZncoZcjLR",
+      "drug_generic_name": "氟比洛芬凝胶贴膏",
+      "trade_name": "泽普思"
+    },
+    {
+      "company_name": "Novo Nordisk A/S",
+      "company_abbreviation": "诺和诺德",
+      "drug_generic_id": "8Wx4UZHJod1",
+      "drug_generic_name": "司美格鲁肽片",
+      "trade_name": "诺和忻"
+    },
+    {
+      "company_name": "Novo Nordisk A/S",
+      "company_abbreviation": "诺和诺德",
+      "drug_generic_id": "86FDXc39q9Q",
+      "drug_generic_name": "司美格鲁肽注射液",
+      "trade_name": "诺和盈"
+    },
+    {
+      "company_name": "LEO Pharma A/S",
+      "company_abbreviation": "利奥制药",
+      "drug_generic_id": "7EZnbba1Nst",
+      "drug_generic_name": "他克莫司软膏",
+      "trade_name": "普特彼"
+    },
+    {
+      "company_name": "亿腾医药（苏州）有限公司",
+      "company_abbreviation": "礼来",
+      "drug_generic_id": "7EZnbKUlMY1",
+      "drug_generic_name": "头孢克洛干混悬剂",
+      "trade_name": "希刻劳"
+    },
+    {
+      "company_name": "亿腾医药（苏州）有限公司",
+      "company_abbreviation": "礼来",
+      "drug_generic_id": "7EZnbKW3nKv",
+      "drug_generic_name": "头孢克洛胶囊",
+      "trade_name": "希刻劳"
+    },
+    {
+      "company_name": "MEIJI SEIKA PHARMA CO., LTD.",
+      "company_abbreviation": "明治制药",
+      "drug_generic_id": "7EZnbL5q93a",
+      "drug_generic_name": "头孢妥仑匹酯片",
+      "trade_name": "美爱克"
+    },
+    {
+      "company_name": "北京诺华制药有限公司",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "7EZnd7GavWZ",
+      "drug_generic_name": "缬沙坦片",
+      "trade_name": "代文"
+    },
+    {
+      "company_name": "Organon NV",
+      "company_abbreviation": "默沙东",
+      "drug_generic_id": "7EZndKwnlz3",
+      "drug_generic_name": "辛伐他汀片",
+      "trade_name": "舒降之"
+    },
+    {
+      "company_name": "ASTRAZENECA PTY LTD",
+      "company_abbreviation": "阿斯利康",
+      "drug_generic_id": "7EZnbwoOY0w",
+      "drug_generic_name": "吸入用布地奈德混悬液",
+      "trade_name": "普米克令舒"
+    },
+    {
+      "company_name": "Boehringer Ingelheim Scomm",
+      "company_abbreviation": "勃林格殷格翰",
+      "drug_generic_id": "7EZnbwoxmSr",
+      "drug_generic_name": "吸入用复方异丙托溴铵溶液",
+      "trade_name": "可必特"
+    },
+    {
+      "company_name": "Boehringer Ingelheim Pharma GmbH & Co. KG",
+      "company_abbreviation": "勃林格殷格翰",
+      "drug_generic_id": "7EZnbwp6z8B",
+      "drug_generic_name": "吸入用异丙托溴铵溶液",
+      "trade_name": "爱全乐"
+    },
+    {
+      "company_name": "LILLY FRANCE",
+      "company_abbreviation": "礼来",
+      "drug_generic_id": "7EZncQH4HtR",
+      "drug_generic_name": "盐酸氟西汀胶囊",
+      "trade_name": "百优解"
+    },
+    {
+      "company_name": "Bayer Vital GmbH",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZncRWQNbX",
+      "drug_generic_name": "盐酸莫西沙星氯化钠注射液",
+      "trade_name": "拜复乐"
+    },
+    {
+      "company_name": "ucb pharma ag",
+      "company_abbreviation": "优时比",
+      "drug_generic_id": "7EZncS2wLNz",
+      "drug_generic_name": "盐酸西替利嗪滴剂",
+      "trade_name": "仙特明"
+    },
+    {
+      "company_name": "SANTEN PHARMACEUTICAL CO., LTD.",
+      "company_abbreviation": "参天制药",
+      "drug_generic_id": "7EZncFl7ufR",
+      "drug_generic_name": "玻璃酸钠滴眼液",
+      "trade_name": "爱丽"
+    },
+    {
+      "company_name": "SANOFI WINTHROP INDUSTRIE",
+      "company_abbreviation": "赛诺菲",
+      "drug_generic_id": "7EZnbcyjR4Z",
+      "drug_generic_name": "佐匹克隆片",
+      "trade_name": "忆孟返"
+    },
+    {
+      "company_name": "赫力昂（苏州）制药有限公司",
+      "company_abbreviation": "赫力昂",
+      "drug_generic_id": "1tJNVRVA76k",
+      "drug_generic_name": "碳酸钙D3片(Ⅰ)",
+      "trade_name": "钙尔奇"
+    },
+    {
+      "company_name": "NOVARTIS EUROPHARM LIMITED",
+      "company_abbreviation": "诺华",
+      "drug_generic_id": "1tJQlkkY5Aq",
+      "drug_generic_name": "奥马珠单抗注射液",
+      "trade_name": "茁乐"
+    },
+    {
+      "company_name": "Abbott Holdings B.V.",
+      "company_abbreviation": "雅培",
+      "drug_generic_id": "7EZnb7adYG4",
+      "drug_generic_name": "乳果糖口服溶液",
+      "trade_name": "杜密克"
+    },
+    {
+      "company_name": "Abbott Holdings B.V.",
+      "company_abbreviation": "雅培",
+      "drug_generic_id": "7EZnbB05PZz",
+      "drug_generic_name": "地屈孕酮片",
+      "trade_name": "达芙通"
+    },
+    {
+      "company_name": "SHIONOGI & CO., LTD.",
+      "company_abbreviation": "盐野义",
+      "drug_generic_id": "8Czz4YK4Rpn",
+      "drug_generic_name": "盐酸头孢卡品酯颗粒",
+      "trade_name": "呋乐儿"
+    },
+    {
+      "company_name": "Organon NV",
+      "company_abbreviation": "默沙东",
+      "drug_generic_id": "7EZnbB4lOWM",
+      "drug_generic_name": "地氯雷他定片",
+      "trade_name": "恩理思"
+    },
+    {
+      "company_name": "赛诺菲（杭州）制药有限公司",
+      "company_abbreviation": "赛诺菲",
+      "drug_generic_id": "7EZnbBeQYLL",
+      "drug_generic_name": "地高辛片",
+      "trade_name": "可力"
+    },
+    {
+      "company_name": "天津武田药品有限公司",
+      "company_abbreviation": "武田制药",
+      "drug_generic_id": "7EZnbbBQuen",
+      "drug_generic_name": "伏格列波糖片",
+      "trade_name": "倍欣"
+    },
+    {
+      "company_name": "LES LABORATOIRES SERVIER",
+      "company_abbreviation": "施维雅",
+      "drug_generic_id": "7DI6wb6WjlM",
+      "drug_generic_name": "格列齐特缓释片",
+      "trade_name": "达美康"
+    },
+    {
+      "company_name": "Almirall, LLC",
+      "company_abbreviation": "艾美罗",
+      "drug_generic_id": "7EZnbcSKYsN",
+      "drug_generic_name": "依巴斯汀片",
+      "trade_name": "开思亭"
+    }
+  ]
+}
