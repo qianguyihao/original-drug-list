@@ -1,0 +1,396 @@
+{
+  "data": [
+    {
+      "company_name": "上海强生制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZnbR7P3Xx",
+      "drug_generic_name": "对乙酰氨基酚滴剂",
+      "trade_name": "泰诺林"
+    },
+    {
+      "company_name": "上海强生制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZnc1zzGjv",
+      "drug_generic_name": "布洛芬混悬滴剂",
+      "trade_name": "美林"
+    },
+    {
+      "company_name": "中美天津史克制药有限公司",
+      "company_abbreviation": "中美史克",
+      "drug_generic_id": "7EZnc1AZFXU",
+      "drug_generic_name": "布洛芬缓释胶囊",
+      "trade_name": "芬必得"
+    },
+    {
+      "company_name": "Roche Pharma (Schweiz) AG",
+      "company_abbreviation": "罗氏",
+      "drug_generic_id": "7EZncYe0POs",
+      "drug_generic_name": "磷酸奥司他韦胶囊",
+      "trade_name": "达菲"
+    },
+    {
+      "company_name": "Roche Pharma (Schweiz) AG",
+      "company_abbreviation": "罗氏",
+      "drug_generic_id": "86FDXZcQq56",
+      "drug_generic_name": "玛巴洛沙韦片",
+      "trade_name": "速福达"
+    },
+    {
+      "company_name": "中美天津史克制药有限公司",
+      "company_abbreviation": "中美史克",
+      "drug_generic_id": "7EZnbR86F5C",
+      "drug_generic_name": "对乙酰氨基酚片",
+      "trade_name": "必理通"
+    },
+    {
+      "company_name": "Boehringer Ingelheim Pharma GmbH & Co. KG",
+      "company_abbreviation": "勃林格殷格翰",
+      "drug_generic_id": "7DHJwFgYMJD",
+      "drug_generic_name": "盐酸氨溴索注射液",
+      "trade_name": "沐舒坦"
+    },
+    {
+      "company_name": "海南赞邦制药有限公司",
+      "company_abbreviation": "赞邦",
+      "drug_generic_id": "7EZnb6ejO5C",
+      "drug_generic_name": "乙酰半胱氨酸片",
+      "trade_name": "富露施"
+    },
+    {
+      "company_name": "上海强生制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZnc1zi5bq",
+      "drug_generic_name": "布洛芬混悬液",
+      "trade_name": "美林"
+    },
+    {
+      "company_name": "中美天津史克制药有限公司",
+      "company_abbreviation": "中美史克",
+      "drug_generic_id": "7EZnc1y9GF6",
+      "drug_generic_name": "布洛芬咀嚼片",
+      "trade_name": "芬必得"
+    },
+    {
+      "company_name": "上海强生制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZnbR7xsPs",
+      "drug_generic_name": "对乙酰氨基酚混悬滴剂",
+      "trade_name": "泰诺林"
+    },
+    {
+      "company_name": "上海强生制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZnbR9f3BW",
+      "drug_generic_name": "对乙酰氨基酚缓释片",
+      "trade_name": "泰诺林"
+    },
+    {
+      "company_name": "上海强生制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZnbR4pSoz",
+      "drug_generic_name": "对乙酰氨基酚口服混悬液",
+      "trade_name": "泰诺林"
+    },
+    {
+      "company_name": "上海强生制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZnbR4HtwE",
+      "drug_generic_name": "对乙酰氨基酚口服溶液",
+      "trade_name": "泰诺林"
+    },
+    {
+      "company_name": "上海强生制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZnbR86F5C",
+      "drug_generic_name": "对乙酰氨基酚片",
+      "trade_name": "泰诺林"
+    },
+    {
+      "company_name": "Roche Pharma (Schweiz) AG",
+      "company_abbreviation": "罗氏",
+      "drug_generic_id": "8XHADxdjvYi",
+      "drug_generic_name": "玛巴洛沙韦干混悬剂",
+      "trade_name": "速福达"
+    },
+    {
+      "company_name": "赫力昂（苏州）制药有限公司",
+      "company_abbreviation": "赫力昂",
+      "drug_generic_id": "7EZnc1zRhrA",
+      "drug_generic_name": "布洛芬片",
+      "trade_name": "芬必得"
+    },
+    {
+      "company_name": "拜耳医药保健有限公司",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZnbDuNe1w",
+      "drug_generic_name": "复方对乙酰氨基酚片(Ⅱ)",
+      "trade_name": "散利痛"
+    },
+    {
+      "company_name": "中美天津史克制药有限公司",
+      "company_abbreviation": "中美史克",
+      "drug_generic_id": "7EZncqc8qb9",
+      "drug_generic_name": "氨酚咖那敏片",
+      "trade_name": "新康泰克"
+    },
+    {
+      "company_name": "中美上海施贵宝制药有限公司",
+      "company_abbreviation": "百时美施贵宝",
+      "drug_generic_id": "7EZncq5BEbi",
+      "drug_generic_name": "氨酚伪麻美芬片",
+      "trade_name": "日夜百服咛"
+    },
+    {
+      "company_name": "拜耳医药保健有限公司启东分公司",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZncq6srzx",
+      "drug_generic_name": "氨酚伪麻美芬片(Ⅱ)",
+      "trade_name": "白加黑"
+    },
+    {
+      "company_name": "澳美製藥廠有限公司",
+      "company_abbreviation": "澳美制药",
+      "drug_generic_id": "7EZncqbzdUZ",
+      "drug_generic_name": "氨酚右敏口服溶液",
+      "trade_name": "奥肯能"
+    },
+    {
+      "company_name": "卫材（辽宁）制药有限公司",
+      "company_abbreviation": "卫材",
+      "drug_generic_id": "7EZncpGCWIc",
+      "drug_generic_name": "氨咖黄敏胶囊",
+      "trade_name": "贝尔严清"
+    },
+    {
+      "company_name": "拜耳医药保健有限公司启东分公司",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZncqolaMC",
+      "drug_generic_name": "氨麻苯美片",
+      "trade_name": "白加黑"
+    },
+    {
+      "company_name": "中美上海施贵宝制药有限公司",
+      "company_abbreviation": "百时美施贵宝",
+      "drug_generic_id": "7EZncqnunon",
+      "drug_generic_name": "氨麻美敏片(Ⅱ)",
+      "trade_name": "日夜百服咛"
+    },
+    {
+      "company_name": "上海强生制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZnc1tC6zO",
+      "drug_generic_name": "布洛伪麻混悬液",
+      "trade_name": "美林"
+    },
+    {
+      "company_name": "幸福醫藥有限公司",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbeQwTno",
+      "drug_generic_name": "儿童复方氨酚肾素片",
+      "trade_name": "儿童科达琳"
+    },
+    {
+      "company_name": "中美天津史克制药有限公司",
+      "company_abbreviation": "中美史克",
+      "drug_generic_id": "7EZndNlvQYO",
+      "drug_generic_name": "酚咖片",
+      "trade_name": "芬必得"
+    },
+    {
+      "company_name": "中美上海施贵宝制药有限公司",
+      "company_abbreviation": "百时美施贵宝",
+      "drug_generic_id": "7EZndNlvQYO",
+      "drug_generic_name": "酚咖片",
+      "trade_name": "加合百服宁"
+    },
+    {
+      "company_name": "上海强生制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZndNs2CYF",
+      "drug_generic_name": "酚麻美敏咀嚼片",
+      "trade_name": "泰诺"
+    },
+    {
+      "company_name": "上海强生制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZndNrL1QA",
+      "drug_generic_name": "酚麻美敏口服溶液",
+      "trade_name": "泰诺"
+    },
+    {
+      "company_name": "上海强生制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZndNsBPeP",
+      "drug_generic_name": "酚麻美敏片",
+      "trade_name": "泰诺"
+    },
+    {
+      "company_name": "幸福醫藥有限公司",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbEzdmwo",
+      "drug_generic_name": "复方氨酚肾素片",
+      "trade_name": "科达琳"
+    },
+    {
+      "company_name": "澳美製藥廠有限公司",
+      "company_abbreviation": "澳美制药",
+      "drug_generic_id": "7EZnbEwEYlF",
+      "drug_generic_name": "复方氨酚溴敏胶囊",
+      "trade_name": "奥肯能"
+    },
+    {
+      "company_name": "澳美製藥廠有限公司",
+      "company_abbreviation": "澳美制药",
+      "drug_generic_id": "7EZnbFKah17",
+      "drug_generic_name": "复方福尔可定口服溶液",
+      "trade_name": "澳特斯"
+    },
+    {
+      "company_name": "澳美製藥廠有限公司",
+      "company_abbreviation": "澳美制药",
+      "drug_generic_id": "7EZnbFCdvmR",
+      "drug_generic_name": "复方磷酸可待因口服溶液",
+      "trade_name": "奥亭"
+    },
+    {
+      "company_name": "万辉药业有限公司",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbFCv6uW",
+      "drug_generic_name": "复方磷酸可待因口服溶液(Ⅲ)",
+      "trade_name": "克斯林"
+    },
+    {
+      "company_name": "盧森堡大藥廠有限公司",
+      "company_abbreviation": "",
+      "drug_generic_id": "7Mat6WZvgBb",
+      "drug_generic_name": "复方磷酸可待因溶液(Ⅱ)",
+      "trade_name": "珮夫人克露"
+    },
+    {
+      "company_name": "中美天津史克制药有限公司",
+      "company_abbreviation": "中美史克",
+      "drug_generic_id": "7EZnbFnJXIK",
+      "drug_generic_name": "复方盐酸伪麻黄碱缓释胶囊",
+      "trade_name": "新康泰克"
+    },
+    {
+      "company_name": "樂信藥業有限公司",
+      "company_abbreviation": "",
+      "drug_generic_id": "7Mat6XcQpIw",
+      "drug_generic_name": "柳酚咖敏片",
+      "trade_name": "尔可适"
+    },
+    {
+      "company_name": "樂信藥業有限公司",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnd8EltA5",
+      "drug_generic_name": "美芬那敏铵糖浆",
+      "trade_name": "尔可芬"
+    },
+    {
+      "company_name": "赫力昂（苏州）制药有限公司",
+      "company_abbreviation": "赫力昂",
+      "drug_generic_id": "7EZnd8uYIhq",
+      "drug_generic_name": "美敏伪麻口服溶液",
+      "trade_name": "惠菲宁"
+    },
+    {
+      "company_name": "拜耳医药保健有限公司启东分公司",
+      "company_abbreviation": "拜耳",
+      "drug_generic_id": "7EZncpkuexU",
+      "drug_generic_name": "氢溴酸右美沙芬糖浆",
+      "trade_name": "信力"
+    },
+    {
+      "company_name": "卫达化学制药股份有限公司",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZndtOSFaV",
+      "drug_generic_name": "舍雷肽酶肠溶片",
+      "trade_name": "释瑞达"
+    },
+    {
+      "company_name": "上海强生制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZnbUO2yKn",
+      "drug_generic_name": "小儿美敏伪麻口服溶液",
+      "trade_name": "艾平"
+    },
+    {
+      "company_name": "上海强生制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZnbRDTJGE",
+      "drug_generic_name": "小儿伪麻滴剂",
+      "trade_name": "艾清"
+    },
+    {
+      "company_name": "盧森堡大藥廠有限公司",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbTcpm04",
+      "drug_generic_name": "小儿愈美那敏溶液",
+      "trade_name": "珮夫人"
+    },
+    {
+      "company_name": "ZAMBON ITALIA SRL",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnbwnGzuc",
+      "drug_generic_name": "吸入用乙酰半胱氨酸溶液",
+      "trade_name": "富露施"
+    },
+    {
+      "company_name": "四川大冢制药有限公司",
+      "company_abbreviation": "大冢制药",
+      "drug_generic_id": "7EZncQMt4Xo",
+      "drug_generic_name": "盐酸氨溴索胶囊",
+      "trade_name": "坦静"
+    },
+    {
+      "company_name": "澳美製藥廠有限公司",
+      "company_abbreviation": "澳美制药",
+      "drug_generic_id": "7EZncQJD5EA",
+      "drug_generic_name": "盐酸氨溴索口服溶液",
+      "trade_name": "Obroxol"
+    },
+    {
+      "company_name": "山德士（中国）制药有限公司",
+      "company_abbreviation": "山德士",
+      "drug_generic_id": "7EZncQL35iZ",
+      "drug_generic_name": "盐酸氨溴索片",
+      "trade_name": "安普索"
+    },
+    {
+      "company_name": "海南赞邦制药有限公司",
+      "company_abbreviation": " 赞邦",
+      "drug_generic_id": "7EZnb6eT0lM",
+      "drug_generic_name": "乙酰半胱氨酸颗粒",
+      "trade_name": "富露施"
+    },
+    {
+      "company_name": "ZAMBON ITALIA SRL",
+      "company_abbreviation": "",
+      "drug_generic_id": "7EZnb6dt0Hn",
+      "drug_generic_name": "乙酰半胱氨酸泡腾片",
+      "trade_name": "富露施"
+    },
+    {
+      "company_name": "上海强生制药有限公司",
+      "company_abbreviation": "强生",
+      "drug_generic_id": "7EZnbv2NHqE",
+      "drug_generic_name": "右美沙芬愈创甘油醚糖浆",
+      "trade_name": "艾舒"
+    },
+    {
+      "company_name": "赫力昂（苏州）制药有限公司",
+      "company_abbreviation": "赫力昂",
+      "drug_generic_id": "7EZnc8KEIFX",
+      "drug_generic_name": "愈酚溴新口服溶液",
+      "trade_name": "惠菲通"
+    },
+    {
+      "company_name": "赫力昂（苏州）制药有限公司",
+      "company_abbreviation": "赫力昂",
+      "drug_generic_id": "7EZnc8FPxsA",
+      "drug_generic_name": "愈美片",
+      "trade_name": "惠菲宣"
+    }
+  ]
+}
