@@ -10,6 +10,12 @@ if (!fs.existsSync(tableDir)) {
   fs.mkdirSync(tableDir);
 }
 
+// 从文件名提取标题
+function getTitleFromFilename(filename) {
+  // 移除数字前缀和扩展名，例如: "01-热门药品.json" -> "热门药品"
+  return filename.replace(/^\d+-/, '').replace('.json', '');
+}
+
 // 转换单个文件
 function convertFile(filename) {
   // 读取JSON文件
@@ -17,8 +23,12 @@ function convertFile(filename) {
   const jsonContent = fs.readFileSync(jsonPath, 'utf8');
   const jsonData = JSON.parse(jsonContent);
 
-  // 生成markdown表格内容
-  let mdContent = '| 商品名 | 药品通用名 | 生产厂家（简称） | 生产厂家（全称） |\n';
+  // 获取标题
+  const title = getTitleFromFilename(filename);
+
+  // 生成markdown内容，添加标题
+  let mdContent = `## ${title}\n\n`;
+  mdContent += '| 商品名 | 药品通用名 | 生产厂家（简称） | 生产厂家（全称） |\n';
   mdContent += '|--------|------------|------------------|------------------|\n';
 
   // 添加数据行
