@@ -1,0 +1,19 @@
+{
+    "title": "常见原研 (进口) 药目录",
+    "author": "就诊问问",
+    "plugins": ["-lunr"],
+    "language": "zh-hans",
+    "pdf": {
+        "pageNumbers": true,
+        "fontSize": 14,
+        "paperSize": "a4",
+        "margin": {
+            "right": 0,
+            "left": 0,
+            "top": 0,
+            "bottom": 0
+        },
+        "headerTemplate": null,
+        "footerTemplate": null
+    }
+}
